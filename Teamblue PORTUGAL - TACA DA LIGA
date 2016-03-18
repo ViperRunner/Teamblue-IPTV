@@ -1,0 +1,14 @@
+#EXTM3U
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8oM4oTL.png",[B][COLOR gold]10.02/17h45  MARITIMO - PORTIMONENSE[/B][/COLOR]
+http://0.0.0.0:1234
+ 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]SPORT TV 3[/B][/COLOR] Plexus
+plugin://program.plexus/?mode=1&url=acestream://0b5582153832ddc45e407c71f3504736b642d59d&mode=1&name=acestream&mode=1&name=SPORTS
+ 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xuqvry1435096258.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]TVI[/B][/COLOR] http
+http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xuqvry1435096258.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]TVI[/B][/COLOR] http
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b814000.m3u8
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xuqvry1435096258.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]TVI[/B][/COLOR] http
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
