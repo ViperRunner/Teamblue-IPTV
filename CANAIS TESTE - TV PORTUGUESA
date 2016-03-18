@@ -1,0 +1,270 @@
+#EXTM3U
+
+
+
+
+
+################################################################################### 
+PORTUGAL 
+################################################################################### 
+
+******************************************************************************************************************************************
+RTP 1 HD 
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]RTP 1 HD[/B][/COLOR] http (HQ) 27.01
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtp1_5ch5h264.stream/livestream.m3u8  
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]RTP 1 HD[/B][/COLOR] http (HQ) 27.01
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]RTP 1 HD[/B][/COLOR] (ts) by arno 27.01
+http://tvip.sytes.net:8000/live/arno/v3/1.ts 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+******************************************************************************************************************************************
+RTP 2 HD 
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qpxxwq1438185552.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]RTP 2 HD[/B][/COLOR] http 31.01
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/inspirationlinks.m3u8 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qpxxwq1438185552.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]RTP 2 HD[/B][/COLOR] http 31.01
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtp2_5ch3h264.stream/livestream.m3u8 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qpxxwq1438185552.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR ]RTP 2 HD[/B][/COLOR] (ts) by arno 31.01
+http://tvip.sytes.net:8000/live/arno/v3/2.ts 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+******************************************************************************************************************************************
+RTP 3 HD 
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uqwusu1445089739.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]RTP 3 HD[/B][/COLOR] http (HQ) 31.01
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uqwusu1445089739.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]RTP 3 HD[/B][/COLOR] http 31.01
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlis.m3u8 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uqwusu1445089739.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]RTP 3 HD[/B][/COLOR] http 31.01
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpn_5ch64h264.stream/livestream.m3u8 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uqwusu1445089739.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR ]RTP 3 HD[/B][/COLOR] (ts) by arno 31.01
+http://tvip.sytes.net:8000/live/arno/v3/5.ts 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+******************************************************************************************************************************************
+RTP INTERNACIONAL 
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xwquyw1438185975.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]RTP INTERNACIONAL[/B][/COLOR] http (HQ) 09.02
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/inspirationlinks.m3u8 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xwquyw1438185975.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]RTP INTERNACIONAL[/B][/COLOR] http 09.02
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/livestream.m3u8 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xwquyw1438185975.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]RTP INTERNACIONAL[/B][/COLOR] http 09.02
+http://wownet.ro/str/0509.m3u8|X-Forwarded-For=81.17.18.50 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xwquyw1438185975.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]RTP INTERNACIONAL[/B][/COLOR] http 09.02
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/chunklist_b600000_slpt.m3u8 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xwquyw1438185975.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]RTP INTERNACIONAL[/B][/COLOR] (ts) by arno 09.02
+http://tvip.sytes.net:8000/live/arno/v3/79.ts 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xwquyw1438185975.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]RTP INTERNACIONAL[/B][/COLOR] rtmp 09.02
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpinternacional?mag swfVfy=1 live=1 timeout=15 
+ 
+
+ 
+
+ 
+
+ 
+
+******************************************************************************************************************************************
+SIC 
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]SIC[/B][/COLOR] http (HQ) 09.02
+http://noscdn1.connectedviews.com:1935/live/smil:sic.smil/inspirationlinks.m3u8 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]SIC[/B][/COLOR] http 09.02
+http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.m3u8 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]SIC[/B][/COLOR] http 09.02
+http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]SIC[/B][/COLOR] (ts) by arno 09.02
+http://tvip.sytes.net:8000/live/arno/v3/3.ts 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]SIC[/B][/COLOR] http 09.02
+http://213.13.26.11:1935/live/sic/magellan.m3u8 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]SIC[/B][/COLOR] http 09.02
+http://noscdn1.connectedviews.com:1935/live/sic.stream/chunklist_w1329392400.m3u8  
+ 
+
+ 
+
+ 
+
+ 
+
+******************************************************************************************************************************************
+SIC NOTICIAS 
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]SIC NOTICIAS[/B][/COLOR] (ts) by arno 31.01
+http://tvip.sytes.net:8000/live/arno/v3/6.ts 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+******************************************************************************************************************************************
+TVI 
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xuqvry1435096258.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]TVI[/B][/COLOR] http 09.02
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xuqvry1435096258.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]TVI[/B][/COLOR] http 09.02
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b814000.m3u8 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xuqvry1435096258.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]TVI[/B][/COLOR] http 09.02
+http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+******************************************************************************************************************************************
+TVI 24 
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]TVI 24[/B][/COLOR] http (HQ) 31.01
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/inspirationlinks.m3u8 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]TVI 24[/B][/COLOR] http 31.01
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]TVI 24[/B][/COLOR] http 31.01
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/livestream.m3u8 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR ]TVI 24[/B][/COLOR] http 31.01
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_w272103575_b814000.m3u8 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR ]TVI 24[/B][/COLOR] http 31.01
+http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/chunklist_b1564000.m3u8 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR ]TVI 24[/B][/COLOR] http 31.01
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_b814000.m3u8 
+ 
+
+ 
+
+ 
+
+ 
+
+******************************************************************************************************************************************
+CMTV 
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uvqwuu1436843714.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]CMTV[/B][/COLOR] (ts) by arno 09.02
+http://tvip.sytes.net:8000/live/arno/v3/8.ts 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uvqwuu1436843714.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]CMTV[/B][/COLOR] http 09.02
+http://hyper.de1-eu.com:8000/live/saeid/saeid/671.m3u8 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uvqwuu1436843714.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]CMTV[/B][/COLOR] http 09.02
+http://ipsatb.no-ip.info:8000/live/titanic/titanic/598.ts 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+******************************************************************************************************************************************
+A BOLA TV 
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]A BOLA TV[/B][/COLOR] (ts) by arno 09.02
+http://tvip.sytes.net:8000/live/arno/v3/22.ts 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]A BOLA TV[/B][/COLOR] http 09.02
+http://hyper.de1-eu.com:8000/live/saeid/saeid/680.m3u8 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+******************************************************************************************************************************************
+
+################################################################################### 
+BRASIL 
+################################################################################### 
+
+******************************************************************************************************************************************
+TV GLOBO 
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yspusx1435103750.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]TV GLOBO[/B][/COLOR] http 31.01
+http://31.204.128.127:8081/live/record/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yspusx1435103750.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR ]TV GLOBO[/B][/COLOR] (ts) by arno 31.01
+http://tvip.sytes.net:8000/live/arno/v3/21.ts 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+******************************************************************************************************************************************
