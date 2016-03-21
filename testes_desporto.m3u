@@ -3,7 +3,7 @@
 ANTENA 3 ES 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/TW8C9l4.png",[B][COLOR white]ES: [/B][/COLOR][B][COLOR lawngreen]ANTENA 3  HD HD[/B][/COLOR] http
+#EXTINF:-1 tvg-logo="http://i.imgur.com/TW8C9l4.png",[B][COLOR white]ES: [/B][/COLOR][B][COLOR lawngreen]ANTENA 3 HD[/B][/COLOR] http
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/TW8C9l4.png",[B][COLOR white]ES: [/B][/COLOR][B][COLOR lawngreen]ANTENA 3   [/B][/COLOR] http
 http://comunidadiptv.cf/online/estable/?sintonizador=A3HD 
