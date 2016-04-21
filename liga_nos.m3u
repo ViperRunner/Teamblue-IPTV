@@ -5,9 +5,9 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mj4wMdX.png?2",[B][COLOR skyblue]LIGA NOS - JORNADA 27[/B][/COLOR]
 http://0.0.0.0:1234
  
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-wSybvi9FxbE/UNxUEKs4EqI/AAAAAAAAEhg/slb7Hq4XSoA/s1600/Logo+Liga+Portugal.jpg",[B][COLOR gold]18.03/20h30  RIO AVE-MARITIMO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="",[B][COLOR gold]18.03/20h30  RIO AVE-MARITIMO[/B][/COLOR]
 http://0.0.0.0:1234
-http://3.bp.blogspot.com/-wSybvi9FxbE/UNxUEKs4EqI/AAAAAAAAEhg/slb7Hq4XSoA/s1600/Logo+Liga+Portugal.jpg
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8aYyjMc.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 19[/B][/COLOR] Plexus
 plugin://program.plexus/?mode=1&url=acestream://bf33bf1b4ab7d4b092b90e7f45e4a1b5be1c7c87&mode=1&name=acestream&mode=1&name=SPORTS
 #EXTINF:-1 tvg-logo="http://i.imgur.com/BuWzoy0.png",[B][COLOR white]PT: [/B][/COLOR][B][COLOR lawngreen]ARENAVISION 20[/B][/COLOR] Plexus
