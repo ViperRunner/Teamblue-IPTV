@@ -10,7 +10,7 @@
     <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>
     </extension>
-    <extension point="xbmc.python.pluginsource" library="Teamblue.py">
+    <extension point="xbmc.python.pluginsource" library="_Edit.py">
         <provides>video</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
