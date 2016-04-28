@@ -1,68 +1,70 @@
 #EXTM3U
-**************************************************
-TV CINE 1
+#EXTM3U
+************************************************** 
+TV CINE 1 
+
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ysvpxw1436898269.png",[B][COLOR lawngreen]TV CINE 1 HD (ON) [/B][/COLOR] http
+http://127.0.0.1:55333/use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2Fevolive-tv.com%3A8000%2Flive%2Fjackman%2Fjackman%2F300.ts&swf=None&auth=&simpledownloader=False 
  
  
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ysvpxw1436898269.png",[B][COLOR orange]TV CINE 1 SD (TEMP) [/B][/COLOR] http
-http://cp.dmbshare.net:8000/live/w03/w03/3449.m3u8
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ysvpxw1436898269.png",[B][COLOR orange]TV CINE 1 SD (myIPTVchannels) (TEMP) [/B][/COLOR] http
-http://ipsatpro.com:8000/live/lancillotto/lancillotto/936.ts
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ysvpxw1436898269.png",[B][COLOR orange]TV CINE 1  (TEMP) [/B][/COLOR] http
-http://ipsatpro.com:8000/live/fatihamca/fatihamca/936.m3u8
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ysvpxw1436898269.png",[B][COLOR yellow]TV CINE 1  (TESTE) [/B][/COLOR] http
-http://xtream.iptv-streamer.com:8000/live/vlad/vlad/1351.m3u8
- 
-**************************************************
-TV CINE 2
  
  
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vtttxr1436898292.png",[B][COLOR orange]TV CINE 2 SD (TEMP) [/B][/COLOR] http
-http://ipsatpro.com:8000/live/fatihamca/fatihamca/935.m3u8
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vtttxr1436898292.png",[B][COLOR orange]TV CINE 2  (TEMP) [/B][/COLOR] http
-http://ipsatpro.com:8000/live/lancillotto/lancillotto/935.ts
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vtttxr1436898292.png",[B][COLOR yellow]TV CINE 2  (TESTE) [/B][/COLOR] http
-http://xtream.iptv-streamer.com:8000/live/vlad/vlad/1352.m3u8
- 
-**************************************************
-TV CINE 3
  
  
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ypvvqv1436898317.png",[B][COLOR orange]TV CINE 3 SD (TEMP) [/B][/COLOR] http
-http://ipsatpro.com:8000/live/fatihamca/fatihamca/934.m3u8
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ypvvqv1436898317.png",[B][COLOR orange]TV CINE 3 SD (myIPTVchannels) (TEMP) [/B][/COLOR] http
-http://ipsatpro.com:8000/live/lancillotto/lancillotto/934.ts
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ypvvqv1436898317.png",[B][COLOR yellow]TV CINE 3 SD (TESTE) [/B][/COLOR] http
-http://xtream.iptv-streamer.com:8000/live/vlad/vlad/1353.m3u8
- 
-**************************************************
-TV CINE 4
+
+************************************************** 
+TV CINE 2 
+
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/vtttxr1436898292.png",[B][COLOR lawngreen]TV CINE 2 HD (ON) [/B][/COLOR] http
+http://127.0.0.1:55333/use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2Fevolive-tv.com%3A8000%2Flive%2Fjackman%2Fjackman%2F301.ts&swf=None&auth=&simpledownloader=False 
  
  
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/tuyupp1436898345.png",[B][COLOR orange]TV CINE 4  (TEMP) [/B][/COLOR] http
-http://ipsatpro.com:8000/live/lancillotto/lancillotto/933.ts
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/tuyupp1436898345.png",[B][COLOR orange]TV CINE 4  (TEMP) [/B][/COLOR] http
-http://ipsatpro.com:8000/live/fatihamca/fatihamca/933.m3u8
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/tuyupp1436898345.png",[B][COLOR yellow]TV CINE 4  (TESTE) [/B][/COLOR] http
-http://xtream.iptv-streamer.com:8000/live/vlad/vlad/1354.m3u8
- 
-**************************************************
-TV SERIES
  
  
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uqxqvw1452600491.png",[B][COLOR yellow]TV SERIES SD (myIPTVchannels) (TESTE) [/B][/COLOR] http
-http://ipsatpro.com:8000/live/fatihamca/fatihamca/930.m3u8
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uqxqvw1452600491.png",[B][COLOR orange]TV SERIES  (TEMP) [/B][/COLOR] http
-http://ipsatpro.com:8000/live/50500/50500/930.ts
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uqxqvw1452600491.png",[B][COLOR yellow]TV SERIES  (TESTE) [/B][/COLOR] http
-http://37.59.155.97:8000/live/vlad/vlad/1355.m3u8
- 
-**************************************************
-AMC
+
+************************************************** 
+TV CINE 3 
+
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ypvvqv1436898317.png",[B][COLOR lawngreen]TV CINE 3 HD (ON) [/B][/COLOR] http
+http://127.0.0.1:55333/use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2Fevolive-tv.com%3A8000%2Flive%2Fjackman%2Fjackman%2F302.ts&swf=None&auth=&simpledownloader=False 
  
  
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ZFlba7b.png",[B][COLOR orange]AMC  (TEMP) [/B][/COLOR] http
-http://cp.dmbshare.net:8000/live/whelan/whelan/3499.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ZFlba7b.png",[B][COLOR orange]AMC  (TEMP) [/B][/COLOR] http
-http://185.26.175.200:5000/udp/239.200.1.46:10000
  
-**************************************************
+ 
+
+************************************************** 
+TV CINE 4 
+
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/tuyupp1436898345.png",[B][COLOR lawngreen]TV CINE 4 HD (ON) [/B][/COLOR] http
+http://127.0.0.1:55333/use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2Fevolive-tv.com%3A8000%2Flive%2Fjackman%2Fjackman%2F303.ts&swf=None&auth=&simpledownloader=False 
+ 
+ 
+ 
+ 
+
+************************************************** 
+TV SERIES 
+
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uqxqvw1452600491.png",[B][COLOR lawngreen]TV SERIES SD (myIPTVchannels) (ON) [/B][/COLOR] http
+http://ipsatpro.com:8000/live/fatihamca/fatihamca/930.m3u8 
+ 
+ 
+ 
+ 
+
+************************************************** 
+AMC 
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZFlba7b.png",[B][COLOR lawngreen]AMC SD (ON) [/B][/COLOR] http
+http://cp.dmbshare.net:8000/live/whelan/whelan/3499.ts 
+ 
+ 
+
+************************************************** 
+
