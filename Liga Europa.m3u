@@ -1,0 +1,6 @@
+#EXTM3U
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KbRXwLr.png",[B][COLOR skyblue]AGENDA DE JOGOS[/B][/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="http://i.imgur.com/iiDWtWn.png",[B][COLOR skyblue]Liga Europa[/B][/COLOR]
+http://0.0.0.0:1234
