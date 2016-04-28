@@ -3,7 +3,7 @@
 #EXTM3U
 ************************************************** 
 A BOLA TV 
-#EXTINF:-1 tvg-id="A BOLA TV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png" group-title="GENERALISTAS PT",[B][COLOR lawngreen][B][COLOR lawngreen]•[/B][/COLOR] [B][COLOR white]A BOLA TV SD [/B][/COLOR] 
+#EXTINF:-1 tvg-id="A BOLA TV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png" group-title="GENERALISTAS PT",[B][COLOR yellow][B][COLOR yellow]•[/B][/COLOR] [B][COLOR white]A BOLA TV SD [/B][/COLOR] 
 rtmp://178.162.211.97/stream playpath=BOLA33888338?id=23688&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 conn=S:OK   swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10 
 
 ************************************************** 
@@ -17,3 +17,4 @@ PORTO CANAL
 rtmp://178.162.199.131/live playpath=portocanalxx?id=84767&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/portocanalxx/1/650/500 
 
 ************************************************** 
+************ 
