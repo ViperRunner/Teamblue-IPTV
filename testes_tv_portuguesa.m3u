@@ -2,7 +2,7 @@
 
 ************************************************** 
 A BOLA TV 
-#EXTINF:-1 tvg-id="A BOLA TV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png" group-title="GENERALISTAS PT",[B][COLOR yellow]•[/B][/COLOR] [B][COLOR lavenderblush]PT[/B][/COLOR] [B][COLOR white]A BOLA TV [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+#EXTINF:-1 tvg-id="A BOLA TV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png" group-title="GENERALISTAS PT",[B][COLOR yellow]•[/B][/COLOR] [B][COLOR lime]PT[/B][/COLOR] [B][COLOR white]A BOLA TV [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
 rtmp://178.162.211.97/stream playpath=BOLA33888338?id=23688&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 conn=S:OK   swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10 
 
 ************************************************** 
