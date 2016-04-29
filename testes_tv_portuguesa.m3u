@@ -2,104 +2,361 @@
 
 ************************************************** 
 A BOLA TV 
-#EXTINF:-1 tvg-id="A BOLA TV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png" group-title="GENERALISTAS PT",[B][COLOR yellow]•[/B][/COLOR] [B][COLOR cyan]PT[/B][/COLOR] [B][COLOR white]A BOLA TV [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+#EXTINF:-1 tvg-id="A BOLA TV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png" group-title="GENERALISTAS PT",[B][COLOR yellow]•[/B][/COLOR] PT [B][COLOR white]A BOLA TV [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
 rtmp://178.162.211.97/stream playpath=BOLA33888338?id=23688&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 conn=S:OK   swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10 
 
 ************************************************** 
+ANTENA 3 
+#EXTINF:-1 tvg-id="ANTENA 3.pt" tvg-logo="http://i.imgur.com/TW8C9l4.png" group-title="GENERALISTAS INT",[B][COLOR lawngreen]•[/B][/COLOR] ES [B][COLOR white]ANTENA 3 [/B][/COLOR] [B][COLOR blue][HD][/B][/COLOR]
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8 
+
+************************************************** 
+ARENAVISION 
+#EXTINF:-1 tvg-id="ARENAVISION 1.pt" tvg-logo="http://i.imgur.com/zKGisWh.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR white]ARENAVISION 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://&mode=1&name=acestream&mode=1&name=SPORTS 
+#EXTINF:-1 tvg-id="ARENAVISION 2.pt" tvg-logo="http://i.imgur.com/4WCHUWA.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR white]ARENAVISION 2 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://f8824086dd80ee78ccc43d7756f950b8668552dc&mode=1&name=acestream&mode=1&name=SPORTS 
+#EXTINF:-1 tvg-id="ARENAVISION 3.pt" tvg-logo="http://i.imgur.com/iYFId6r.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR white]ARENAVISION 3 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://&mode=1&name=acestream&mode=1&name=SPORTS 
+#EXTINF:-1 tvg-id="ARENAVISION 4.pt" tvg-logo="http://i.imgur.com/EKgiyIX.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR white]ARENAVISION 4 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://&mode=1&name=acestream&mode=1&name=SPORTS 
+#EXTINF:-1 tvg-id="ARENAVISION 5.pt" tvg-logo="http://i.imgur.com/MrzUqPa.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR white]ARENAVISION 5 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://&mode=1&name=acestream&mode=1&name=SPORTS 
+#EXTINF:-1 tvg-id="ARENAVISION 6.pt" tvg-logo="http://i.imgur.com/Vy2HLNu.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR white]ARENAVISION 6 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://&mode=1&name=acestream&mode=1&name=SPORTS 
+#EXTINF:-1 tvg-id="ARENAVISION 7.pt" tvg-logo="http://i.imgur.com/sPnJbLq.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR white]ARENAVISION 7 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://&mode=1&name=acestream&mode=1&name=SPORTS 
+#EXTINF:-1 tvg-id="ARENAVISION 8.pt" tvg-logo="http://i.imgur.com/NFVdJ47.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR white]ARENAVISION 8 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://&mode=1&name=acestream&mode=1&name=SPORTS 
+#EXTINF:-1 tvg-id="ARENAVISION 9.pt" tvg-logo="http://i.imgur.com/68RhoV5.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR white]ARENAVISION 9 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://&mode=1&name=acestream&mode=1&name=SPORTS 
+#EXTINF:-1 tvg-id="ARENAVISION 10.pt" tvg-logo="http://i.imgur.com/xZFbTaY.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR white]ARENAVISION 10 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://&mode=1&name=acestream&mode=1&name=SPORTS 
+#EXTINF:-1 tvg-id="ARENAVISION 11.pt" tvg-logo="http://i.imgur.com/Ir7pNi7.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR white]ARENAVISION 11 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://&mode=1&name=acestream&mode=1&name=SPORTS 
+#EXTINF:-1 tvg-id="ARENAVISION 12.pt" tvg-logo="http://i.imgur.com/TX7HKPa.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR white]ARENAVISION 12 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://&mode=1&name=acestream&mode=1&name=SPORTS 
+#EXTINF:-1 tvg-id="ARENAVISION 13.pt" tvg-logo="http://i.imgur.com/w56WmKB.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR white]ARENAVISION 13 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://&mode=1&name=acestream&mode=1&name=SPORTS 
+#EXTINF:-1 tvg-id="ARENAVISION 14.pt" tvg-logo="http://i.imgur.com/W23oElM.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR white]ARENAVISION 14 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://&mode=1&name=acestream&mode=1&name=SPORTS 
+#EXTINF:-1 tvg-id="ARENAVISION 15.pt" tvg-logo="http://i.imgur.com/g4vChbm.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR white]ARENAVISION 15 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://&mode=1&name=acestream&mode=1&name=SPORTS 
+#EXTINF:-1 tvg-id="ARENAVISION 16.pt" tvg-logo="http://i.imgur.com/SN4E5Pk.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR white]ARENAVISION 16 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://&mode=1&name=acestream&mode=1&name=SPORTS 
+#EXTINF:-1 tvg-id="ARENAVISION 17.pt" tvg-logo="http://i.imgur.com/5cYGaIA.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR white]ARENAVISION 17 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://&mode=1&name=acestream&mode=1&name=SPORTS 
+#EXTINF:-1 tvg-id="ARENAVISION 18.pt" tvg-logo="http://i.imgur.com/YgrIMVB.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR white]ARENAVISION 18 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://&mode=1&name=acestream&mode=1&name=SPORTS 
+#EXTINF:-1 tvg-id="ARENAVISION 19.pt" tvg-logo="http://i.imgur.com/8aYyjMc.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR white]ARENAVISION 19 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://&mode=1&name=acestream&mode=1&name=SPORTS 
+#EXTINF:-1 tvg-id="ARENAVISION 20.pt" tvg-logo="http://i.imgur.com/BuWzoy0.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR white]ARENAVISION 20 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://&mode=1&name=acestream&mode=1&name=SPORTS 
+
+************************************************** 
+ARENA SPORT 1 
+#EXTINF:-1 tvg-id="ARENA SPORT 1.pt" tvg-logo="http://i.imgur.com/87tP276.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] SRB [B][COLOR white]ARENA SPORT 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://037943cf5049c5f534385ea9e720dbbf6df11fdd&mode=1&name=acestream&mode=1&name=SPORTS 
+
+************************************************** 
+ARENA SPORT 2 
+#EXTINF:-1 tvg-id="ARENA SPORT 2.pt" tvg-logo="http://i.imgur.com/r5Q61LZ.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] SRB [B][COLOR white]ARENA SPORT 2 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://480f33fd6e95653faef453d416685d2c4c5cc232&mode=1&name=acestream&mode=1&name=SPORTS 
+
+************************************************** 
+ARENA SPORT 3 
+#EXTINF:-1 tvg-id="ARENA SPORT 3.pt" tvg-logo="http://i.imgur.com/hx9a1pi.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] SRB [B][COLOR white]ARENA SPORT 3 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://8f5d68e9b8746bba681fe37ac68398f87dbf30f3&mode=1&name=acestream&mode=1&name=SPORTS 
+
+************************************************** 
+ARENA SPORT 4 
+#EXTINF:-1 tvg-id="ARENA SPORT 4.pt" tvg-logo="http://i.imgur.com/gmjRUgV.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] SRB [B][COLOR white]ARENA SPORT 4 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://ee9ae796416c83c789c8d19b06914ba1a8f1340d&mode=1&name=acestream&mode=1&name=SPORTS 
+
+************************************************** 
+ARENA SPORT 5 
+#EXTINF:-1 tvg-id="ARENA SPORT 5.pt" tvg-logo="http://i.imgur.com/s7NF5IC.png" group-title="DESPORTO INT",[B][COLOR red]•[/B][/COLOR] SRB [B][COLOR white]ARENA SPORT 5 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://5f90220cfbbf558ffdf9a5e4187a34efa93f8f05&mode=1&name=acestream&mode=1&name=SPORTS 
+
+************************************************** 
+BBC ONE 
+#EXTINF:-1 tvg-id="BBC ONE.pt" tvg-logo="http://i.imgur.com/xUZO9aT.png" group-title="GENERALISTAS INT",[B][COLOR lawngreen]•[/B][/COLOR] UK [B][COLOR white]BBC ONE [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://rtmp://178.162.211.231/stream playpath=cmtvb?id=21917&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 conn=S:OK   swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10&mode=1&name=acestream&mode=1&name=SPORTS 
+
+************************************************** 
+BBC TWO 
+ 
+ 
+
+************************************************** 
+beiN SPORTS 1 
+#EXTINF:-1 tvg-id="beiN SPORTS 1.pt" tvg-logo="http://i.imgur.com/0XSxA7e.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] FR [B][COLOR white]beiN SPORTS 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+http://127.0.0.1:55333/use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2Fbit.ly%2F213QPwP&swf=None&auth=&simpledownloader=False 
+
+************************************************** 
+beiN SPORTS 2 
+#EXTINF:-1 tvg-id="beiN SPORTS 2.pt" tvg-logo="http://i.imgur.com/6X6nIKm.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] FR [B][COLOR white]beiN SPORTS 2 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+http://127.0.0.1:55333/use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2Fbit.ly%2F1SOLKbB&swf=None&auth=&simpledownloader=False 
+
+************************************************** 
+beiN SPORTS 3 
+#EXTINF:-1 tvg-id="beiN SPORTS 3.pt" tvg-logo="http://i.imgur.com/F9MLQ8F.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] FR [B][COLOR white]beiN SPORTS 3 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+http://127.0.0.1:55333/use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2Fbit.ly%2F1rhgNk7&swf=None&auth=&simpledownloader=False 
+
+************************************************** 
+BELARUS 5 
+#EXTINF:-1 tvg-id="BELARUS 5.pt" tvg-logo="http://i.imgur.com/jdYVQou.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] RU [B][COLOR white]BELARUS 5 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://ccce682c9f6deca50fca77949dc426ba1192e865&mode=1&name=acestream&mode=1&name=SPORTS 
+
+************************************************** 
+BT SPORT 1 
+#EXTINF:-1 tvg-id="BT SPORT 1.pt" tvg-logo="http://i.imgur.com/c9v3gfd.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] UK [B][COLOR white]BT SPORT 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+rtmp://185.63.255.18:80/live playpath=wodhs1j swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://rocktv.co/embedu.php?live=wodhs1j&vw;=736&vh;=438 token=%Zrey(nKa@#Z 
+
+************************************************** 
+BT SPORT 2 
+#EXTINF:-1 tvg-id="BT SPORT 2.pt" tvg-logo="http://i.imgur.com/2x0BUI3.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] UK [B][COLOR white]BT SPORT 2 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+http://play.uktvnow.net:1935/live/bt2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNS8yMDE2IDEyOjQ5OjAzIFBNJmhhc2hfdmFsdWU9UmlKc3RlQkVHK0YxRkJvcFl0cWswdz09JnZhbGlkbWludXRlcz0yMA== 
+
+************************************************** 
+BT SPORT ESPN 
+#EXTINF:-1 tvg-id="BT SPORT ESPN.pt" tvg-logo="http://i.imgur.com/NgxnOVF.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] UK [B][COLOR white]BT SPORT ESPN [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+rtmp://185.63.255.60:80/live playpath=espnxukk swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.yotv.co/embed.php?live=espnxukk&vw=620&vh=490 token=%Zrey(nKa@#Z 
+
+************************************************** 
+BT SPORT EUROPE 
+#EXTINF:-1 tvg-id="BT SPORT EUROPE.pt" tvg-logo="http://i.imgur.com/iBRO1Yd.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] UK [B][COLOR white]BT SPORT EUROPE [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+http://play.uktvnow.net:1935/live/btlow/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNS8yMDE2IDEyOjQ5OjAzIFBNJmhhc2hfdmFsdWU9UmlKc3RlQkVHK0YxRkJvcFl0cWswdz09JnZhbGlkbWludXRlcz0yMA== 
+
+************************************************** 
+BTV 1 
+#EXTINF:-1 tvg-id="BTV 1.pt" tvg-logo="http://i.imgur.com/iBh0diH.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]BTV 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+rtmp://178.162.211.231/live playPath=slbueyec?id=22289&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=15 live=true conn=S:OK swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf flashver=WIN\2021,0,0,182 pageUrl=http://www.streamifyplayer.com/embedplayer/slbueyec/1/620/430 
+
+************************************************** 
+BTV 2 
+#EXTINF:-1 tvg-id="BTV 2.pt" tvg-logo="http://i.imgur.com/XatpEHK.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]BTV 2 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+rtmp://109.123.95.180/live playPath=benfas?id=86051&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/benfas/1/650/500 
+
+************************************************** 
+CANAL+ DEPORTES 
+#EXTINF:-1 tvg-id="CANAL+ DEPORTES.pt" tvg-logo="http://i.imgur.com/LpRvSsl.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] ES [B][COLOR white]CANAL+ DEPORTES [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://b7b5b339e21754e81797a7be2e1b031fa323fe01&mode=1&name=acestream&mode=1&name=SPORTS 
+
+************************************************** 
+CANAL+ DEPORTES 2 
+#EXTINF:-1 tvg-id="CANAL+ DEPORTES 2.pt" tvg-logo="http://i.imgur.com/4yjS8CE.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] ES [B][COLOR white]CANAL+ DEPORTES 2 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://eb7263149ec1b5210c1dfe9307ca0699ceb2f139&mode=1&name=acestream&mode=1&name=SPORTS 
+
+************************************************** 
+CANAL+ FUTBOL 
+ 
+ 
+
+************************************************** 
+CANAL+ LIGA 
+ 
+ 
+
+************************************************** 
+CT SPORT 
+#EXTINF:-1 tvg-id="CT SPORT.pt" tvg-logo="http://i.imgur.com/Rt3qvHo.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] CZ [B][COLOR white]CT SPORT [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://08502d329f644570830af0e151babdb3e7a6deb6&mode=1&name=acestream&mode=1&name=SPORTS 
+
+************************************************** 
 CMTV 
-#EXTINF:-1 tvg-id="CMTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uvqwuu1436843714.png" group-title="GENERALISTAS PT",•[/B][/COLOR] [B][COLOR white]CMTV SD [/B][/COLOR] 
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uvqwuu1436843714.png" group-title="GENERALISTAS PT",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]CMTV [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
 rtmp://178.162.211.231/stream playpath=cmtvb?id=21917&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 conn=S:OK   swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10 
 
 ************************************************** 
+DIEMA SPORT 1 
+#EXTINF:-1 tvg-id="DIEMA SPORT 1.pt" tvg-logo="http://i.imgur.com/pVrf8ZK.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] BUL [B][COLOR white]DIEMA SPORT 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://794fc495388278eaa8a49ca0152231e43aa9da01&mode=1&name=acestream&mode=1&name=SPORTS 
+
+************************************************** 
+DIEMA SPORT 2 
+#EXTINF:-1 tvg-id="DIEMA SPORT 2.pt" tvg-logo="http://i.imgur.com/UBqYWX2.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] BUL [B][COLOR white]DIEMA SPORT 2 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://9c09ca93668937ff878a0922f2873bcada5aadec&mode=1&name=acestream&mode=1&name=SPORTS 
+
+************************************************** 
+DIGISPORT 1 
+#EXTINF:-1 tvg-id="DIGISPORT 1.pt" tvg-logo="http://i.imgur.com/kTtt26J.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] RO [B][COLOR white]DIGISPORT 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://587b978995d900afc17d4a5c3ef13797d2b3a0ec&mode=1&name=acestream&mode=1&name=SPORTS 
+
+************************************************** 
+DIGISPORT 2 
+#EXTINF:-1 tvg-id="DIGISPORT 2.pt" tvg-logo="http://i.imgur.com/TDLULgi.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] RO [B][COLOR white]DIGISPORT 2 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://3b0796661f783236f24756821f5efb1d15d59d7f&mode=1&name=acestream&mode=1&name=SPORTS 
+
+************************************************** 
+DIGISPORT 3 
+#EXTINF:-1 tvg-id="DIGISPORT 3.pt" tvg-logo="http://i.imgur.com/BiP19CX.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] RO [B][COLOR white]DIGISPORT 3 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://http://85.25.43.23:8080/hls/volex_04.m3u8&mode=1&name=acestream&mode=1&name=SPORTS 
+
+************************************************** 
+DIGISPORT 4 
+#EXTINF:-1 tvg-id="DIGISPORT 4.pt" tvg-logo="http://i.imgur.com/udfYKTW.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] RO [B][COLOR white]DIGISPORT 4 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+http://82.76.249.33/digiedge/digisport4hq/playlist.m3u8 
+
+************************************************** 
+DOLCE SPORT 1 
+#EXTINF:-1 tvg-id="DOLCE SPORT 1.pt" tvg-logo="http://i.imgur.com/G0U96ZW.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] RO [B][COLOR white]DOLCE SPORT 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://a72f7e9ec9fbf21395b95ee8545a93978b5adc97&mode=1&name=acestream&mode=1&name=SPORTS 
+
+************************************************** 
+DOLCE SPORT 2 
+#EXTINF:-1 tvg-id="DOLCE SPORT 2.pt" tvg-logo="http://i.imgur.com/sI0Tm51.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] RO [B][COLOR white]DOLCE SPORT 2 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://15770bf6d7b0e0503ec2068261e4be683916ccaa&mode=1&name=acestream&mode=1&name=SPORTS 
+
+************************************************** 
+DOLCE SPORT 3 
+#EXTINF:-1 tvg-id="DOLCE SPORT 3.pt" tvg-logo="http://i.imgur.com/2N2qnIi.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] RO [B][COLOR white]DOLCE SPORT 3 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://a72f7e9ec9fbf21395b95ee8545a93978b5adc97&mode=1&name=acestream&mode=1&name=SPORTS 
+
+************************************************** 
+DOLCE SPORT 4 
+#EXTINF:-1 tvg-id="DOLCE SPORT 4.pt" tvg-logo="http://i.imgur.com/MHNwJ0I.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] RO [B][COLOR white]DOLCE SPORT 4 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://3f9f7989808cd22569ff5fa2cbe75b482d765bca&mode=1&name=acestream&mode=1&name=SPORTS 
+
+************************************************** 
+ESPN BRASIL 
+#EXTINF:-1 tvg-id="ESPN BRASIL.pt" tvg-logo="http://i.imgur.com/BYT9DLr.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] BR [B][COLOR white]ESPN BRASIL [/B][/COLOR] [B][COLOR orange][LQ][/B][/COLOR]
+http://31.204.128.112:8081/live/espnbr/playlist.m3u8 
+
+************************************************** 
+FUTBOL 1 
+#EXTINF:-1 tvg-id="FUTBOL 1.pt" tvg-logo="http://i.imgur.com/5IMGlWj.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] UKR [B][COLOR white]FUTBOL 1 [/B][/COLOR] [B][COLOR blue][HD][/B][/COLOR]
+dc2a9c24b172dcc20a6d5e1172ea84d0e8552992 
+#EXTINF:-1 tvg-id="FUTBOL 1.pt" tvg-logo="http://i.imgur.com/5IMGlWj.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] UKR [B][COLOR white]FUTBOL 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+3fed41f7aab06b8ed464896c85872b12408520b3 
+
+************************************************** 
+FUTBOL 2 
+#EXTINF:-1 tvg-id="FUTBOL 2.pt" tvg-logo="http://i.imgur.com/qzgwXzH.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] UKR [B][COLOR white]FUTBOL 2 [/B][/COLOR] [B][COLOR blue][HD][/B][/COLOR]
+f78a9260ea3fd6b9c0acb7d6dfbdf1bfc1eb5e86 
+#EXTINF:-1 tvg-id="FUTBOL 2.pt" tvg-logo="http://i.imgur.com/qzgwXzH.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] UKR [B][COLOR white]FUTBOL 2 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+d5bff5cffa7c2874f5076042e55c697deea02eec 
+
+************************************************** 
+MATCH! ARENA 
+#EXTINF:-1 tvg-id="MATCH! ARENA.pt" tvg-logo="http://i.imgur.com/RS6DzkF.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] RU [B][COLOR white]MATCH! ARENA [/B][/COLOR] [B][COLOR blue][HD][/B][/COLOR]
+034ffed3ddc3f7112d2036034c062c4d4ae25cac 
+#EXTINF:-1 tvg-id="MATCH! ARENA.pt" tvg-logo="http://i.imgur.com/RS6DzkF.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] RU [B][COLOR white]MATCH! ARENA [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+e071f6662909568daf8253b1745d479b43acba7b 
+
+************************************************** 
+MATCH! FUTBOL 1 
+#EXTINF:-1 tvg-id="MATCH! FUTBOL 1.pt" tvg-logo="http://i.imgur.com/RS6DzkF.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] RU [B][COLOR white]MATCH! FUTBOL 1 [/B][/COLOR] [B][COLOR blue][HD][/B][/COLOR]
+a3231895506332316e7699a8b2712f28ec6da051 
+#EXTINF:-1 tvg-id="MATCH! FUTBOL 1.pt" tvg-logo="http://i.imgur.com/RS6DzkF.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] RU [B][COLOR white]MATCH! FUTBOL 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+http://bukermovies.jimdo.com/flash/bein-sports-esp/bein-sports-2-fr/ 
+
+************************************************** 
+MATCH! FUTBOL 2 
+#EXTINF:-1 tvg-id="MATCH! FUTBOL 2.pt" tvg-logo="http://i.imgur.com/HJa2k3F.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] RU [B][COLOR white]MATCH! FUTBOL 2 [/B][/COLOR] [B][COLOR blue][HD][/B][/COLOR]
+e7146efa3775b4e418a1eff1b013e5076b9b84fa 
+#EXTINF:-1 tvg-id="MATCH! FUTBOL 2.pt" tvg-logo="http://i.imgur.com/HJa2k3F.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] RU [B][COLOR white]MATCH! FUTBOL 2 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+f30e68c989b195a8a319a98f32478ef5112a7f2e 
+
+************************************************** 
+MATCH! FUTBOL 3 
+#EXTINF:-1 tvg-id="MATCH! FUTBOL 3.pt" tvg-logo="http://i.imgur.com/TvMZYL8.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] RU [B][COLOR white]MATCH! FUTBOL 3 [/B][/COLOR] [B][COLOR blue][HD][/B][/COLOR]
+d03264a2e83c2325f223dcb606196434874c56b5 
+#EXTINF:-1 tvg-id="MATCH! FUTBOL 3.pt" tvg-logo="http://i.imgur.com/TvMZYL8.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] RU [B][COLOR white]MATCH! FUTBOL 3 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+a9e6a717140036522dc6e6fc3ea1e5dfe5bae835 
+
+************************************************** 
 PORTO CANAL 
-#EXTINF:-1 tvg-id="PORTO CANAL.pt" tvg-logo="http://i.imgur.com/OfXkYH8.png" group-title="INFORMACAO PT",•[/B][/COLOR] [B][COLOR white]PORTO CANAL SD [/B][/COLOR] 
+#EXTINF:-1 tvg-id="PORTO CANAL.pt" tvg-logo="http://i.imgur.com/OfXkYH8.png" group-title="INFORMACAO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]PORTO CANAL [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
 rtmp://178.162.199.131/live playpath=portocanalxx?id=84767&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/portocanalxx/1/650/500 
 
 ************************************************** 
 RTP 1 
-#EXTINF:-1 tvg-id="RTP 1.pt" tvg-logo="http://i.imgur.com/uV8r1FN.png" group-title="GENERALISTAS PT",•[/B][/COLOR] [B][COLOR white]RTP 1 SD [/B][/COLOR] 
+#EXTINF:-1 tvg-id="RTP 1.pt" tvg-logo="http://i.imgur.com/uV8r1FN.png" group-title="GENERALISTAS PT",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]RTP 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?tvdireto swfVfy=1 live=1 timeout=15 
 
 ************************************************** 
 RTP 2 
-#EXTINF:-1 tvg-id="RTP 2.pt" tvg-logo="http://i.imgur.com/vUrx4AD.png" group-title="GENERALISTAS PT",•[/B][/COLOR] [B][COLOR white]RTP 2 SD [/B][/COLOR] 
+#EXTINF:-1 tvg-id="RTP 2.pt" tvg-logo="http://i.imgur.com/vUrx4AD.png" group-title="GENERALISTAS PT",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]RTP 2 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2?mag swfVfy=1 live=1 timeout=15 
 
 ************************************************** 
 RTP 3 
-#EXTINF:-1 tvg-id="RTP 3.pt" tvg-logo="http://i.imgur.com/5nnniSP.png" group-title="INFORMACAO PT",•[/B][/COLOR] [B][COLOR white]RTP 3 SD [/B][/COLOR] 
+#EXTINF:-1 tvg-id="RTP 3.pt" tvg-logo="http://i.imgur.com/5nnniSP.png" group-title="INFORMACAO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]RTP 3 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp3?mag swfVfy=1 live=1 timeout=15 
 
 ************************************************** 
 RTP INTERNACIONAL 
-#EXTINF:-1 tvg-id="RTP INTERNACIONAL.pt" tvg-logo="http://i.imgur.com/peZh84I.png" group-title="GENERALISTAS PT",RTP INTERNACIONAL SD [B][COLOR green][ON][B][/COLOR] [/B][/COLOR] 
+#EXTINF:-1 tvg-id="RTP INTERNACIONAL.pt" tvg-logo="http://i.imgur.com/peZh84I.png" group-title="GENERALISTAS PT",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]RTP INTERNACIONAL [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpinternacional?mag swfVfy=1 live=1 timeout=15 
-#EXTINF:-1 tvg-id="RTP INTERNACIONAL.pt" tvg-logo="http://i.imgur.com/73bIFrm.png" group-title="GENERALISTAS PT",RTP INTERNACIONAL SD (ON) [/B][/COLOR] 
+#EXTINF:-1 tvg-id="RTP INTERNACIONAL.pt" tvg-logo="http://i.imgur.com/73bIFrm.png" group-title="GENERALISTAS PT",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]RTP INTERNACIONAL [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpinternacional swfVfy=1 live=1 timeout=15 
 
 ************************************************** 
 SBT 
-#EXTINF:-1 tvg-id="SBT.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rvtpxp1437610838.png" group-title="GENERALISTAS BR",SBT SD (OFF) [/B][/COLOR] 
+#EXTINF:-1 tvg-id="SBT.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rvtpxp1437610838.png" group-title="GENERALISTAS BR",[B][COLOR red]•[/B][/COLOR] BR [B][COLOR white]SBT [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
 http://192.99.46.182:1935/pioneira-tv/pioneira-tv/playlist.m3u8 
 
+************************************************** 
 SIC 
-#EXTINF:-1 tvg-id="SIC.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png" group-title="GENERALISTAS PT",SIC SD (OFF) [/B][/COLOR] 
+#EXTINF:-1 tvg-id="SIC.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png" group-title="GENERALISTAS PT",[B][COLOR red]•[/B][/COLOR] PT [B][COLOR white]SIC [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
 rtmp://46.165.251.98/stream playpath=SIC813747234?id=23687&pk=b7fca1436f844715207befb980f8505afca13f8d81de8b45a90609577210e932 conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10 
-#EXTINF:-1 tvg-id="SIC.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png" group-title="GENERALISTAS PT",SIC LQ (ON) [/B][/COLOR] 
+#EXTINF:-1 tvg-id="SIC.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png" group-title="GENERALISTAS PT",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SIC [/B][/COLOR] [B][COLOR orange][LQ][/B][/COLOR]
 rtmp://95.211.148.133/stream playpath=SIC813747234?id=23687&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10 
-#EXTINF:-1 tvg-id="SIC.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png" group-title="GENERALISTAS PT",SIC SD (iptvabalda) (ON) [/B][/COLOR] 
+#EXTINF:-1 tvg-id="SIC.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png" group-title="GENERALISTAS PT",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SIC [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
 rtmp://109.123.116.138/stream playpath=SIC813747234?id=20766&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10 
-#EXTINF:-1 tvg-id="SIC.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png" group-title="GENERALISTAS PT",SIC SD (ON) [/B][/COLOR] 
+#EXTINF:-1 tvg-id="SIC.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png" group-title="GENERALISTAS PT",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SIC [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
 rtmp://199.195.194.60/live playpath=sic90?id=85765&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/sic90/1/650/500 
 
 ************************************************** 
 SIC MULHER 
-#EXTINF:-1 tvg-id="SIC MULHER.pt" tvg-logo="0" group-title="0",SIC MULHER LQ (ON) [/B][/COLOR] 
+#EXTINF:-1 tvg-id="SIC MULHER.pt" tvg-logo="0" group-title="0",[B][COLOR lawngreen] PT [B][COLOR white]SIC MULHER [/B][/COLOR] [B][COLOR orange][LQ][/B][/COLOR]
 rtmp://46.28.50.124/live/ playPath=sicm02?id=85250&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=10 conn=S:OK live=true swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2021,0,0,182 pageUrl=http://www.embeducaster.com/embedplayer/sicm02/1/730/430 
 
 ************************************************** 
 SIC NOTICIAS 
- 
+SIC NOTICIAS 
  
 
 ************************************************** 
 TV GLOBO 
-#EXTINF:-1 tvg-id="TV GLOBO.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yspusx1435103750.png" group-title="GENERALISTAS BR",TV GLOBO SD (ON) [/B][/COLOR] 
+#EXTINF:-1 tvg-id="TV GLOBO.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yspusx1435103750.png" group-title="GENERALISTAS BR",[B][COLOR lawngreen]•[/B][/COLOR] BR [B][COLOR white]TV GLOBO [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
 http://art.nextv.ca:80/nextv/globo/index.m3u8 
  
 ************************************************** 
 TV RECORD 
- 
+TV RECORD 
  
  
 ************************************************** 
 TELEKANAL 
-#EXTINF:-1 tvg-id="TELEKANAL.pt" tvg-logo="http://i.imgur.com/JHJp9a7.png" group-title="DESPORTO INT",TELEKANAL SD (ON) [/B][/COLOR] 
+#EXTINF:-1 tvg-id="TELEKANAL.pt" tvg-logo="http://i.imgur.com/JHJp9a7.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] UKR [B][COLOR white]TELEKANAL [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
 http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8 
-#EXTINF:-1 tvg-id="TELEKANAL.pt" tvg-logo="http://i.imgur.com/JHJp9a7.png" group-title="DESPORTO INT",TELEKANAL SD (ON) [/B][/COLOR] 
+#EXTINF:-1 tvg-id="TELEKANAL.pt" tvg-logo="http://i.imgur.com/JHJp9a7.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] UKR [B][COLOR white]TELEKANAL [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
 http://win.cdn.bonus-tv.ru/TVB8/football/playlist.m3u8 
  
 ************************************************** 
 TVI 
-#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xuqvry1435096258.png" group-title="GENERALISTAS PT",TVI SD (OFF) [/B][/COLOR] 
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xuqvry1435096258.png" group-title="GENERALISTAS PT",[B][COLOR red]•[/B][/COLOR] PT [B][COLOR white]TVI [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w103393150_b814000_49365.m3u8 
-#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xuqvry1435096258.png" group-title="GENERALISTAS PT",TVI HQ (OFF) [/B][/COLOR] 
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xuqvry1435096258.png" group-title="GENERALISTAS PT",[B][COLOR red]•[/B][/COLOR] PT [B][COLOR white]TVI [/B][/COLOR] [B][COLOR royalblue][HQ][/B][/COLOR]
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/inspirationlinks.m3u8 
-#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xuqvry1435096258.png" group-title="GENERALISTAS PT",TVI HQ (OFF) [/B][/COLOR] 
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xuqvry1435096258.png" group-title="GENERALISTAS PT",[B][COLOR red]•[/B][/COLOR] PT [B][COLOR white]TVI [/B][/COLOR] [B][COLOR royalblue][HQ][/B][/COLOR]
 http://195.23.102.218:1935/live_tvi/smil:LIVE_TVI/inspirationlinks.m3u8 
 
 ************************************************** 
 TVI 24 
-#EXTINF:-1 tvg-id="TVI 24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png" group-title="NOTICIAS PT",TVI 24  (OFF) [/B][/COLOR] 
+#EXTINF:-1 tvg-id="TVI 24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png" group-title="NOTICIAS PT",[B][COLOR red]•[/B][/COLOR] PT [B][COLOR white]TVI 24 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/inspirationlinks.m3u8 
-#EXTINF:-1 tvg-id="TVI 24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png" group-title="NOTICIAS PT",TVI 24  (OFF) [/B][/COLOR] 
+#EXTINF:-1 tvg-id="TVI 24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png" group-title="NOTICIAS PT",[B][COLOR red]•[/B][/COLOR] PT [B][COLOR white]TVI 24 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8 
-#EXTINF:-1 tvg-id="TVI 24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png" group-title="NOTICIAS PT",TVI 24  (OFF) [/B][/COLOR] 
+#EXTINF:-1 tvg-id="TVI 24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png" group-title="NOTICIAS PT",[B][COLOR red]•[/B][/COLOR] PT [B][COLOR white]TVI 24 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
 http://195.23.102.218:1935/live_tvi24/LIVE_TVI24-1/inspirationlinks.m3u8 
 
 ************************************************** 
 TVI FICAO 
-#EXTINF:-1 tvg-id="TVI FICAO.pt" tvg-logo="http://i.imgur.com/bcKKtty.png" group-title="FILMES & SERIES PT",TVI FICAO  (ON) [/B][/COLOR] 
+#EXTINF:-1 tvg-id="TVI FICAO.pt" tvg-logo="http://i.imgur.com/bcKKtty.png" group-title="FILMES & SERIES PT",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]TVI FICAO [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
 rtmp://178.162.199.137/live playPath=tvicrl?id=24273&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=15 conn=S:OK live=true swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf  flashver=WIN\2021,0,0,182 pageUrl=http://www.embedezcast.com/embedplayer/tvicrl/1/790/420 
 
 ************************************************** 
+
