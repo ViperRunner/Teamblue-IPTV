@@ -2,31 +2,104 @@
 
 ************************************************** 
 A BOLA TV 
-#EXTINF:-1 tvg-id="A BOLA TV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png" group-title="GENERALISTAS PT",[B][COLOR lawngreen][B][COLOR lawngreen]•[/B][/COLOR] [B][COLOR white]A BOLA TV [SD} [/B][/COLOR] 
+#EXTINF:-1 tvg-id="A BOLA TV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png" group-title="GENERALISTAS PT",[B][COLOR yellow]•[/B][/COLOR] [B][COLOR gold]PT[/B][/COLOR] [B][COLOR white]A BOLA TV [/B][/COLOR] 
 rtmp://178.162.211.97/stream playpath=BOLA33888338?id=23688&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 conn=S:OK   swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10 
 
 ************************************************** 
 CMTV 
-#EXTINF:-1 tvg-id="CMTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uvqwuu1436843714.png" group-title="GENERALISTAS PT",[B][COLOR lawngreen][B][COLOR lawngreen]•[/B][/COLOR] [B][COLOR white]CMTV SD [/B][/COLOR] 
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uvqwuu1436843714.png" group-title="GENERALISTAS PT",•[/B][/COLOR] [B][COLOR white]CMTV SD [/B][/COLOR] 
 rtmp://178.162.211.231/stream playpath=cmtvb?id=21917&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 conn=S:OK   swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10 
 
 ************************************************** 
 PORTO CANAL 
-#EXTINF:-1 tvg-id="PORTO CANAL.pt" tvg-logo="http://i.imgur.com/OfXkYH8.png" group-title="INFORMACAO PT",[B][COLOR lawngreen][B][COLOR lawngreen]•[/B][/COLOR] [B][COLOR white]PORTO CANAL SD [/B][/COLOR] 
+#EXTINF:-1 tvg-id="PORTO CANAL.pt" tvg-logo="http://i.imgur.com/OfXkYH8.png" group-title="INFORMACAO PT",•[/B][/COLOR] [B][COLOR white]PORTO CANAL SD [/B][/COLOR] 
 rtmp://178.162.199.131/live playpath=portocanalxx?id=84767&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/portocanalxx/1/650/500 
 
 ************************************************** 
 RTP 1 
-#EXTINF:-1 tvg-id="RTP 1.pt" tvg-logo="http://i.imgur.com/uV8r1FN.png" group-title="GENERALISTAS PT",[B][COLOR lawngreen][B][COLOR lawngreen]•[/B][/COLOR] [B][COLOR white]RTP 1 SD [/B][/COLOR] 
+#EXTINF:-1 tvg-id="RTP 1.pt" tvg-logo="http://i.imgur.com/uV8r1FN.png" group-title="GENERALISTAS PT",•[/B][/COLOR] [B][COLOR white]RTP 1 SD [/B][/COLOR] 
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?tvdireto swfVfy=1 live=1 timeout=15 
 
 ************************************************** 
 RTP 2 
-#EXTINF:-1 tvg-id="RTP 2.pt" tvg-logo="http://i.imgur.com/vUrx4AD.png" group-title="PORTUGAL GEN",[B][COLOR lawngreen][B][COLOR lawngreen]•[/B][/COLOR] [B][COLOR white]RTP 2 SD [/B][/COLOR] 
+#EXTINF:-1 tvg-id="RTP 2.pt" tvg-logo="http://i.imgur.com/vUrx4AD.png" group-title="GENERALISTAS PT",•[/B][/COLOR] [B][COLOR white]RTP 2 SD [/B][/COLOR] 
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2?mag swfVfy=1 live=1 timeout=15 
 
 ************************************************** 
 RTP 3 
-#EXTINF:-1 tvg-id="RTP 3.pt" tvg-logo="http://i.imgur.com/5nnniSP.png" group-title="PORTUGAL INF",[B][COLOR lawngreen][B][COLOR lawngreen]•[/B][/COLOR] [B][COLOR white]RTP 3 SD [/B][/COLOR] 
+#EXTINF:-1 tvg-id="RTP 3.pt" tvg-logo="http://i.imgur.com/5nnniSP.png" group-title="INFORMACAO PT",•[/B][/COLOR] [B][COLOR white]RTP 3 SD [/B][/COLOR] 
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp3?mag swfVfy=1 live=1 timeout=15 
 
+************************************************** 
+RTP INTERNACIONAL 
+#EXTINF:-1 tvg-id="RTP INTERNACIONAL.pt" tvg-logo="http://i.imgur.com/peZh84I.png" group-title="GENERALISTAS PT",RTP INTERNACIONAL SD [B][COLOR green][ON][B][/COLOR] [/B][/COLOR] 
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpinternacional?mag swfVfy=1 live=1 timeout=15 
+#EXTINF:-1 tvg-id="RTP INTERNACIONAL.pt" tvg-logo="http://i.imgur.com/73bIFrm.png" group-title="GENERALISTAS PT",RTP INTERNACIONAL SD (ON) [/B][/COLOR] 
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpinternacional swfVfy=1 live=1 timeout=15 
+
+************************************************** 
+SBT 
+#EXTINF:-1 tvg-id="SBT.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/rvtpxp1437610838.png" group-title="GENERALISTAS BR",SBT SD (OFF) [/B][/COLOR] 
+http://192.99.46.182:1935/pioneira-tv/pioneira-tv/playlist.m3u8 
+
+SIC 
+#EXTINF:-1 tvg-id="SIC.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png" group-title="GENERALISTAS PT",SIC SD (OFF) [/B][/COLOR] 
+rtmp://46.165.251.98/stream playpath=SIC813747234?id=23687&pk=b7fca1436f844715207befb980f8505afca13f8d81de8b45a90609577210e932 conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10 
+#EXTINF:-1 tvg-id="SIC.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png" group-title="GENERALISTAS PT",SIC LQ (ON) [/B][/COLOR] 
+rtmp://95.211.148.133/stream playpath=SIC813747234?id=23687&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10 
+#EXTINF:-1 tvg-id="SIC.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png" group-title="GENERALISTAS PT",SIC SD (iptvabalda) (ON) [/B][/COLOR] 
+rtmp://109.123.116.138/stream playpath=SIC813747234?id=20766&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10 
+#EXTINF:-1 tvg-id="SIC.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png" group-title="GENERALISTAS PT",SIC SD (ON) [/B][/COLOR] 
+rtmp://199.195.194.60/live playpath=sic90?id=85765&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/sic90/1/650/500 
+
+************************************************** 
+SIC MULHER 
+#EXTINF:-1 tvg-id="SIC MULHER.pt" tvg-logo="0" group-title="0",SIC MULHER LQ (ON) [/B][/COLOR] 
+rtmp://46.28.50.124/live/ playPath=sicm02?id=85250&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=10 conn=S:OK live=true swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2021,0,0,182 pageUrl=http://www.embeducaster.com/embedplayer/sicm02/1/730/430 
+
+************************************************** 
+SIC NOTICIAS 
+ 
+ 
+
+************************************************** 
+TV GLOBO 
+#EXTINF:-1 tvg-id="TV GLOBO.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yspusx1435103750.png" group-title="GENERALISTAS BR",TV GLOBO SD (ON) [/B][/COLOR] 
+http://art.nextv.ca:80/nextv/globo/index.m3u8 
+ 
+************************************************** 
+TV RECORD 
+ 
+ 
+ 
+************************************************** 
+TELEKANAL 
+#EXTINF:-1 tvg-id="TELEKANAL.pt" tvg-logo="http://i.imgur.com/JHJp9a7.png" group-title="DESPORTO INT",TELEKANAL SD (ON) [/B][/COLOR] 
+http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8 
+#EXTINF:-1 tvg-id="TELEKANAL.pt" tvg-logo="http://i.imgur.com/JHJp9a7.png" group-title="DESPORTO INT",TELEKANAL SD (ON) [/B][/COLOR] 
+http://win.cdn.bonus-tv.ru/TVB8/football/playlist.m3u8 
+ 
+************************************************** 
+TVI 
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xuqvry1435096258.png" group-title="GENERALISTAS PT",TVI SD (OFF) [/B][/COLOR] 
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w103393150_b814000_49365.m3u8 
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xuqvry1435096258.png" group-title="GENERALISTAS PT",TVI HQ (OFF) [/B][/COLOR] 
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/inspirationlinks.m3u8 
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/xuqvry1435096258.png" group-title="GENERALISTAS PT",TVI HQ (OFF) [/B][/COLOR] 
+http://195.23.102.218:1935/live_tvi/smil:LIVE_TVI/inspirationlinks.m3u8 
+
+************************************************** 
+TVI 24 
+#EXTINF:-1 tvg-id="TVI 24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png" group-title="NOTICIAS PT",TVI 24  (OFF) [/B][/COLOR] 
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/inspirationlinks.m3u8 
+#EXTINF:-1 tvg-id="TVI 24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png" group-title="NOTICIAS PT",TVI 24  (OFF) [/B][/COLOR] 
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8 
+#EXTINF:-1 tvg-id="TVI 24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png" group-title="NOTICIAS PT",TVI 24  (OFF) [/B][/COLOR] 
+http://195.23.102.218:1935/live_tvi24/LIVE_TVI24-1/inspirationlinks.m3u8 
+
+************************************************** 
+TVI FICAO 
+#EXTINF:-1 tvg-id="TVI FICAO.pt" tvg-logo="http://i.imgur.com/bcKKtty.png" group-title="FILMES & SERIES PT",TVI FICAO  (ON) [/B][/COLOR] 
+rtmp://178.162.199.137/live playPath=tvicrl?id=24273&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=15 conn=S:OK live=true swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf  flashver=WIN\2021,0,0,182 pageUrl=http://www.embedezcast.com/embedplayer/tvicrl/1/790/420 
+
+************************************************** 
