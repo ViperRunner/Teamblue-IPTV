@@ -1,11 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/mj4wMdX.png?2",[B][COLOR skyblue]LIGA NOS - JORNADA 32 [/B][/COLOR]
-http://0.0.0.0:1234
 
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/VIouqr2.png",[B][COLOR gold]29.04 / 19h00 BENFICA-GUIMARAES[/B][/COLOR] http://i.imgur.com/VIouqr2.png
+#EXTINF:-1 tvg-logo="http://i.imgur.com/VIouqr2.png",[B][COLOR gold]29.04 / 19h00 BENFICA-GUIMARAES[/B][/COLOR] 
 http://0.0.0.0:1234 
 
 #EXTINF:-1 tvg-id="ARENAVISION 9.pt" tvg-logo="http://i.imgur.com/68RhoV5.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR lawngreen[B][COLOR white]ARENAVISION 9 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
@@ -20,7 +16,7 @@ http://127.0.0.1:55333/use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitr
 http://127.0.0.1:55333/use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2F78.31.65.171%3A20000%2Flive%2FX6vO3Bk9fW%2Fm6PD19rIAX%2F34.ts&swf=None&auth=&simpledownloader=False 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/44pWJoZ.png",[B][COLOR gold]29.04 / 21h00 BRAGA-SETUBAL[/B][/COLOR] http://i.imgur.com/44pWJoZ.png
+#EXTINF:-1 tvg-logo="http://i.imgur.com/44pWJoZ.png",[B][COLOR gold]29.04 / 21h00 BRAGA-SETUBAL[/B][/COLOR] 
 http://0.0.0.0:1234 
 
 #EXTINF:-1 tvg-id="ARENAVISION 9.pt" tvg-logo="http://i.imgur.com/68RhoV5.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR lawngreen[B][COLOR white]ARENAVISION 9 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
@@ -40,7 +36,7 @@ rtmp://46.28.53.142/live/ playPath=boinc?id=86894&pk=e48aa857174960dbfa3a76f4967
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RHIe1rO.png",[B][COLOR gold]30.04 / 18h30 PORTO-SPORTING[/B][/COLOR] http://i.imgur.com/RHIe1rO.png
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RHIe1rO.png",[B][COLOR gold]30.04 / 18h30 PORTO-SPORTING[/B][/COLOR] 
 http://0.0.0.0:1234 
 
 #EXTINF:-1 tvg-id="ARENAVISION 9.pt" tvg-logo="http://i.imgur.com/68RhoV5.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR lawngreen[B][COLOR white]ARENAVISION 9 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
@@ -60,7 +56,7 @@ rtmp://46.28.53.142/live/ playPath=boinc?id=86894&pk=e48aa857174960dbfa3a76f4967
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/azxTtmY.png",[B][COLOR gold]01.05 / 16h00 ESTORIL-MARITIMO[/B][/COLOR] http://i.imgur.com/azxTtmY.png
+#EXTINF:-1 tvg-logo="http://i.imgur.com/azxTtmY.png",[B][COLOR gold]01.05 / 16h00 ESTORIL-MARITIMO[/B][/COLOR] 
 http://0.0.0.0:1234 
 
 #EXTINF:-1 tvg-id="SPORT TV 1.pt" tvg-logo="http://i.imgur.com/qU8wHCd.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR lawngreen[B][COLOR white]SPORT TV 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
@@ -80,7 +76,7 @@ rtmp://46.28.53.142/live/ playPath=boinc?id=86894&pk=e48aa857174960dbfa3a76f4967
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/c1GHY9L.png",[B][COLOR gold]01.05 / 18h30 AROUCA-NACIONAL[/B][/COLOR] http://i.imgur.com/c1GHY9L.png
+#EXTINF:-1 tvg-logo="http://i.imgur.com/c1GHY9L.png",[B][COLOR gold]01.05 / 18h30 AROUCA-NACIONAL[/B][/COLOR] 
 http://0.0.0.0:1234 
 
 #EXTINF:-1 tvg-id="SPORT TV 1.pt" tvg-logo="http://i.imgur.com/qU8wHCd.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR lawngreen[B][COLOR white]SPORT TV 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
@@ -100,7 +96,7 @@ rtmp://46.28.53.142/live/ playPath=boinc?id=86894&pk=e48aa857174960dbfa3a76f4967
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3nLZluK.png",[B][COLOR gold]01.05 / 20h30 U MADEIRA-ACADEMICA[/B][/COLOR] http://i.imgur.com/3nLZluK.png
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3nLZluK.png",[B][COLOR gold]01.05 / 20h30 U MADEIRA-ACADEMICA[/B][/COLOR] 
 http://0.0.0.0:1234 
 
 #EXTINF:-1 tvg-id="SPORT TV 1.pt" tvg-logo="http://i.imgur.com/qU8wHCd.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR lawngreen[B][COLOR white]SPORT TV 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
