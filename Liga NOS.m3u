@@ -4,71 +4,72 @@
 http://0.0.0.0:1234
 
 
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/VIouqr2.png",[B][COLOR gold]29.04 / 19h00 BENFICA-GUIMARAES[/B][/COLOR] http://i.imgur.com/VIouqr2.png
 http://0.0.0.0:1234 
 
-#EXTINF:-1 tvg-id="ARENAVISION 9.pt" tvg-logo="http://i.imgur.com/68RhoV5.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] INT DESPORTO INT[B][COLOR lawngreen[B][COLOR white]ARENAVISION 9 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+#EXTINF:-1 tvg-id="ARENAVISION 9.pt" tvg-logo="http://i.imgur.com/68RhoV5.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR lawngreen[B][COLOR white]ARENAVISION 9 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://62623d8609e3d9e19ed08e3a4b018d8603e16ae5&mode=1&name=acestream&mode=1&name=SPORTS 
-#EXTINF:-1 tvg-id="ARENAVISION 10.pt" tvg-logo="http://i.imgur.com/xZFbTaY.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] INT DESPORTO INT[B][COLOR lawngreen[B][COLOR white]ARENAVISION 10 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+#EXTINF:-1 tvg-id="ARENAVISION 10.pt" tvg-logo="http://i.imgur.com/xZFbTaY.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR lawngreen[B][COLOR white]ARENAVISION 10 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://a65db7863d6f4d0e1becb7750931e5ed303e5250&mode=1&name=acestream&mode=1&name=SPORTS 
-#EXTINF:-1 tvg-id="BTV 1.pt" tvg-logo="http://i.imgur.com/iBh0diH.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT DESPORTO PT[B][COLOR lawngreen[B][COLOR white]BTV 1 [/B][/COLOR] [B][COLOR blue][HD][/B][/COLOR]
+#EXTINF:-1 tvg-id="BTV 1.pt" tvg-logo="http://i.imgur.com/iBh0diH.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR lawngreen[B][COLOR white]BTV 1 [/B][/COLOR] [B][COLOR blue][HD][/B][/COLOR]
 http://127.0.0.1:55333/use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2F46.21.17.2%3A23000%2Flive%2Fvitorio%2Fvitorio%2F12085.ts&swf=None&auth=&simpledownloader=False 
-#EXTINF:-1 tvg-id="BTV 1.pt" tvg-logo="http://i.imgur.com/iBh0diH.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT DESPORTO PT[B][COLOR lawngreen[B][COLOR white]BTV 1 [/B][/COLOR] [B][COLOR blue][HD][/B][/COLOR]
+#EXTINF:-1 tvg-id="BTV 1.pt" tvg-logo="http://i.imgur.com/iBh0diH.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR lawngreen[B][COLOR white]BTV 1 [/B][/COLOR] [B][COLOR blue][HD][/B][/COLOR]
 http://127.0.0.1:55333/use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2F149.202.81.94%3A8000%2Flive%2Fbongera%2Fbongera%2F2995.ts&swf=None&auth=&simpledownloader=False 
-#EXTINF:-1 tvg-id="BTV 1.pt" tvg-logo="http://i.imgur.com/iBh0diH.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT DESPORTO PT[B][COLOR lawngreen[B][COLOR white]BTV 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+#EXTINF:-1 tvg-id="BTV 1.pt" tvg-logo="http://i.imgur.com/iBh0diH.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR lawngreen[B][COLOR white]BTV 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
 http://127.0.0.1:55333/use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2F78.31.65.171%3A20000%2Flive%2FX6vO3Bk9fW%2Fm6PD19rIAX%2F34.ts&swf=None&auth=&simpledownloader=False 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/44pWJoZ.png",[B][COLOR gold]29.04 / 21h00BRAGA-SETUBAL[/B][/COLOR] http://i.imgur.com/44pWJoZ.png
+#EXTINF:-1 tvg-logo="http://i.imgur.com/44pWJoZ.png",[B][COLOR gold]29.04 / 21h00 BRAGA-SETUBAL[/B][/COLOR] http://i.imgur.com/44pWJoZ.png
 http://0.0.0.0:1234 
 
-#EXTINF:-1 tvg-id="ARENAVISION 9.pt" tvg-logo="http://i.imgur.com/68RhoV5.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] INT DESPORTO INT[B][COLOR lawngreen[B][COLOR white]ARENAVISION 9 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+#EXTINF:-1 tvg-id="ARENAVISION 9.pt" tvg-logo="http://i.imgur.com/68RhoV5.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR lawngreen[B][COLOR white]ARENAVISION 9 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://62623d8609e3d9e19ed08e3a4b018d8603e16ae5&mode=1&name=acestream&mode=1&name=SPORTS 
-#EXTINF:-1 tvg-id="ARENAVISION 10.pt" tvg-logo="http://i.imgur.com/xZFbTaY.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] INT DESPORTO INT[B][COLOR lawngreen[B][COLOR white]ARENAVISION 10 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+#EXTINF:-1 tvg-id="ARENAVISION 10.pt" tvg-logo="http://i.imgur.com/xZFbTaY.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR lawngreen[B][COLOR white]ARENAVISION 10 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://a65db7863d6f4d0e1becb7750931e5ed303e5250&mode=1&name=acestream&mode=1&name=SPORTS 
-#EXTINF:-1 tvg-id="SPORT TV 1.pt" tvg-logo="http://i.imgur.com/qU8wHCd.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT DESPORTO PT[B][COLOR lawngreen[B][COLOR white]SPORT TV 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+#EXTINF:-1 tvg-id="SPORT TV 1.pt" tvg-logo="http://i.imgur.com/qU8wHCd.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR lawngreen[B][COLOR white]SPORT TV 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
 http://127.0.0.1:55333/use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2F78.31.65.171%3A20000%2Flive%2FX6vO3Bk9fW%2Fm6PD19rIAX%2F1.ts&swf=None&auth=&simpledownloader=False 
-#EXTINF:-1 tvg-id="SPORT TV 1.pt" tvg-logo="http://i.imgur.com/qU8wHCd.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT DESPORTO PT[B][COLOR lawngreen[B][COLOR white]SPORT TV 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+#EXTINF:-1 tvg-id="SPORT TV 1.pt" tvg-logo="http://i.imgur.com/qU8wHCd.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR lawngreen[B][COLOR white]SPORT TV 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
 http://127.0.0.1:55333/use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2F46.21.17.2%3A23000%2Flive%2Fvitorio%2Fvitorio%2F12039.ts&swf=None&auth=&simpledownloader=False 
-#EXTINF:-1 tvg-id="SPORT TV 1.pt" tvg-logo="http://i.imgur.com/qU8wHCd.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT DESPORTO PT[B][COLOR lawngreen[B][COLOR white]SPORT TV 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+#EXTINF:-1 tvg-id="SPORT TV 1.pt" tvg-logo="http://i.imgur.com/qU8wHCd.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR lawngreen[B][COLOR white]SPORT TV 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
 rtmp://178.162.199.138/live playPath=boinc?id=26424&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=15 conn=S:OK live=true swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf  flashver=WIN\2021,0,0,182 pageUrl=http://www.embedezcast.com/embedplayer/boinc/1/790/420 
-#EXTINF:-1 tvg-id="SPORT TV 1.pt" tvg-logo="http://i.imgur.com/qU8wHCd.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT DESPORTO PT[B][COLOR lawngreen[B][COLOR white]SPORT TV 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+#EXTINF:-1 tvg-id="SPORT TV 1.pt" tvg-logo="http://i.imgur.com/qU8wHCd.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR lawngreen[B][COLOR white]SPORT TV 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
 rtmp://46.28.53.142/live/ playPath=boinc?id=86894&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=10 conn=S:OK live=true swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2021,0,0,182 pageUrl=http://www.embeducaster.com/embedplayer/boinc/1/730/430 
 
 
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RHIe1rO.png",[B][COLOR gold]30.04 / 18h30PORTO-SPORTING[/B][/COLOR] http://i.imgur.com/RHIe1rO.png
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RHIe1rO.png",[B][COLOR gold]30.04 / 18h30 PORTO-SPORTING[/B][/COLOR] http://i.imgur.com/RHIe1rO.png
 http://0.0.0.0:1234 
 
-#EXTINF:-1 tvg-id="ARENAVISION 9.pt" tvg-logo="http://i.imgur.com/68RhoV5.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] INT DESPORTO INT[B][COLOR lawngreen[B][COLOR white]ARENAVISION 9 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+#EXTINF:-1 tvg-id="ARENAVISION 9.pt" tvg-logo="http://i.imgur.com/68RhoV5.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR lawngreen[B][COLOR white]ARENAVISION 9 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://62623d8609e3d9e19ed08e3a4b018d8603e16ae5&mode=1&name=acestream&mode=1&name=SPORTS 
-#EXTINF:-1 tvg-id="ARENAVISION 10.pt" tvg-logo="http://i.imgur.com/xZFbTaY.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] INT DESPORTO INT[B][COLOR lawngreen[B][COLOR white]ARENAVISION 10 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+#EXTINF:-1 tvg-id="ARENAVISION 10.pt" tvg-logo="http://i.imgur.com/xZFbTaY.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR lawngreen[B][COLOR white]ARENAVISION 10 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://a65db7863d6f4d0e1becb7750931e5ed303e5250&mode=1&name=acestream&mode=1&name=SPORTS 
-#EXTINF:-1 tvg-id="SPORT TV 1.pt" tvg-logo="http://i.imgur.com/qU8wHCd.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT DESPORTO PT[B][COLOR lawngreen[B][COLOR white]SPORT TV 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+#EXTINF:-1 tvg-id="SPORT TV 1.pt" tvg-logo="http://i.imgur.com/qU8wHCd.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR lawngreen[B][COLOR white]SPORT TV 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
 http://127.0.0.1:55333/use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2F78.31.65.171%3A20000%2Flive%2FX6vO3Bk9fW%2Fm6PD19rIAX%2F1.ts&swf=None&auth=&simpledownloader=False 
-#EXTINF:-1 tvg-id="SPORT TV 1.pt" tvg-logo="http://i.imgur.com/qU8wHCd.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT DESPORTO PT[B][COLOR lawngreen[B][COLOR white]SPORT TV 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+#EXTINF:-1 tvg-id="SPORT TV 1.pt" tvg-logo="http://i.imgur.com/qU8wHCd.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR lawngreen[B][COLOR white]SPORT TV 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
 http://127.0.0.1:55333/use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2F46.21.17.2%3A23000%2Flive%2Fvitorio%2Fvitorio%2F12039.ts&swf=None&auth=&simpledownloader=False 
-#EXTINF:-1 tvg-id="SPORT TV 1.pt" tvg-logo="http://i.imgur.com/qU8wHCd.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT DESPORTO PT[B][COLOR lawngreen[B][COLOR white]SPORT TV 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+#EXTINF:-1 tvg-id="SPORT TV 1.pt" tvg-logo="http://i.imgur.com/qU8wHCd.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR lawngreen[B][COLOR white]SPORT TV 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
 rtmp://178.162.199.138/live playPath=boinc?id=26424&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=15 conn=S:OK live=true swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf  flashver=WIN\2021,0,0,182 pageUrl=http://www.embedezcast.com/embedplayer/boinc/1/790/420 
-#EXTINF:-1 tvg-id="SPORT TV 1.pt" tvg-logo="http://i.imgur.com/qU8wHCd.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT DESPORTO PT[B][COLOR lawngreen[B][COLOR white]SPORT TV 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+#EXTINF:-1 tvg-id="SPORT TV 1.pt" tvg-logo="http://i.imgur.com/qU8wHCd.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR lawngreen[B][COLOR white]SPORT TV 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
 rtmp://46.28.53.142/live/ playPath=boinc?id=86894&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=10 conn=S:OK live=true swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2021,0,0,182 pageUrl=http://www.embeducaster.com/embedplayer/boinc/1/730/430 
 
 
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/azxTtmY.png",[B][COLOR gold]01.05 / 16h00ESTORIL-MARITIMO[/B][/COLOR] http://i.imgur.com/azxTtmY.png
+#EXTINF:-1 tvg-logo="http://i.imgur.com/azxTtmY.png",[B][COLOR gold]01.05 / 16h00 ESTORIL-MARITIMO[/B][/COLOR] http://i.imgur.com/azxTtmY.png
 http://0.0.0.0:1234 
 
-#EXTINF:-1 tvg-id="SPORT TV 1.pt" tvg-logo="http://i.imgur.com/qU8wHCd.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT DESPORTO PT[B][COLOR lawngreen[B][COLOR white]SPORT TV 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+#EXTINF:-1 tvg-id="SPORT TV 1.pt" tvg-logo="http://i.imgur.com/qU8wHCd.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR lawngreen[B][COLOR white]SPORT TV 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
 http://127.0.0.1:55333/use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2F78.31.65.171%3A20000%2Flive%2FX6vO3Bk9fW%2Fm6PD19rIAX%2F1.ts&swf=None&auth=&simpledownloader=False 
-#EXTINF:-1 tvg-id="SPORT TV 1.pt" tvg-logo="http://i.imgur.com/qU8wHCd.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT DESPORTO PT[B][COLOR lawngreen[B][COLOR white]SPORT TV 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+#EXTINF:-1 tvg-id="SPORT TV 1.pt" tvg-logo="http://i.imgur.com/qU8wHCd.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR lawngreen[B][COLOR white]SPORT TV 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
 http://127.0.0.1:55333/use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2F46.21.17.2%3A23000%2Flive%2Fvitorio%2Fvitorio%2F12039.ts&swf=None&auth=&simpledownloader=False 
-#EXTINF:-1 tvg-id="SPORT TV 1.pt" tvg-logo="http://i.imgur.com/qU8wHCd.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT DESPORTO PT[B][COLOR lawngreen[B][COLOR white]SPORT TV 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+#EXTINF:-1 tvg-id="SPORT TV 1.pt" tvg-logo="http://i.imgur.com/qU8wHCd.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR lawngreen[B][COLOR white]SPORT TV 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
 rtmp://178.162.199.138/live playPath=boinc?id=26424&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=15 conn=S:OK live=true swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf  flashver=WIN\2021,0,0,182 pageUrl=http://www.embedezcast.com/embedplayer/boinc/1/790/420 
-#EXTINF:-1 tvg-id="SPORT TV 1.pt" tvg-logo="http://i.imgur.com/qU8wHCd.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT DESPORTO PT[B][COLOR lawngreen[B][COLOR white]SPORT TV 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+#EXTINF:-1 tvg-id="SPORT TV 1.pt" tvg-logo="http://i.imgur.com/qU8wHCd.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR lawngreen[B][COLOR white]SPORT TV 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
 rtmp://46.28.53.142/live/ playPath=boinc?id=86894&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=10 conn=S:OK live=true swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2021,0,0,182 pageUrl=http://www.embeducaster.com/embedplayer/boinc/1/730/430 
 
 
@@ -79,17 +80,42 @@ rtmp://46.28.53.142/live/ playPath=boinc?id=86894&pk=e48aa857174960dbfa3a76f4967
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/c1GHY9L.png",[B][COLOR gold]01.05 / 18h30AROUCA-NACIONAL[/B][/COLOR] http://i.imgur.com/c1GHY9L.png
+#EXTINF:-1 tvg-logo="http://i.imgur.com/c1GHY9L.png",[B][COLOR gold]01.05 / 18h30 AROUCA-NACIONAL[/B][/COLOR] http://i.imgur.com/c1GHY9L.png
 http://0.0.0.0:1234 
 
-#EXTINF:-1 tvg-id="SPORT TV 1.pt" tvg-logo="http://i.imgur.com/qU8wHCd.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT DESPORTO PT[B][COLOR lawngreen[B][COLOR white]SPORT TV 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+#EXTINF:-1 tvg-id="SPORT TV 1.pt" tvg-logo="http://i.imgur.com/qU8wHCd.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR lawngreen[B][COLOR white]SPORT TV 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
 http://127.0.0.1:55333/use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2F78.31.65.171%3A20000%2Flive%2FX6vO3Bk9fW%2Fm6PD19rIAX%2F1.ts&swf=None&auth=&simpledownloader=False 
-#EXTINF:-1 tvg-id="SPORT TV 1.pt" tvg-logo="http://i.imgur.com/qU8wHCd.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT DESPORTO PT[B][COLOR lawngreen[B][COLOR white]SPORT TV 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+#EXTINF:-1 tvg-id="SPORT TV 1.pt" tvg-logo="http://i.imgur.com/qU8wHCd.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR lawngreen[B][COLOR white]SPORT TV 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
 http://127.0.0.1:55333/use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2F46.21.17.2%3A23000%2Flive%2Fvitorio%2Fvitorio%2F12039.ts&swf=None&auth=&simpledownloader=False 
-#EXTINF:-1 tvg-id="SPORT TV 1.pt" tvg-logo="http://i.imgur.com/qU8wHCd.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT DESPORTO PT[B][COLOR lawngreen[B][COLOR white]SPORT TV 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+#EXTINF:-1 tvg-id="SPORT TV 1.pt" tvg-logo="http://i.imgur.com/qU8wHCd.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR lawngreen[B][COLOR white]SPORT TV 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
 rtmp://178.162.199.138/live playPath=boinc?id=26424&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=15 conn=S:OK live=true swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf  flashver=WIN\2021,0,0,182 pageUrl=http://www.embedezcast.com/embedplayer/boinc/1/790/420 
-#EXTINF:-1 tvg-id="SPORT TV 1.pt" tvg-logo="http://i.imgur.com/qU8wHCd.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT DESPORTO PT[B][COLOR lawngreen[B][COLOR white]SPORT TV 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+#EXTINF:-1 tvg-id="SPORT TV 1.pt" tvg-logo="http://i.imgur.com/qU8wHCd.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR lawngreen[B][COLOR white]SPORT TV 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
 rtmp://46.28.53.142/live/ playPath=boinc?id=86894&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=10 conn=S:OK live=true swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2021,0,0,182 pageUrl=http://www.embeducaster.com/embedplayer/boinc/1/730/430 
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3nLZluK.png",[B][COLOR gold]01.05 / 20h30 U MADEIRA-ACADEMICA[/B][/COLOR] http://i.imgur.com/3nLZluK.png
+http://0.0.0.0:1234 
+
+#EXTINF:-1 tvg-id="SPORT TV 1.pt" tvg-logo="http://i.imgur.com/qU8wHCd.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR lawngreen[B][COLOR white]SPORT TV 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+http://127.0.0.1:55333/use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2F78.31.65.171%3A20000%2Flive%2FX6vO3Bk9fW%2Fm6PD19rIAX%2F1.ts&swf=None&auth=&simpledownloader=False 
+#EXTINF:-1 tvg-id="SPORT TV 1.pt" tvg-logo="http://i.imgur.com/qU8wHCd.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR lawngreen[B][COLOR white]SPORT TV 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+http://127.0.0.1:55333/use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2F46.21.17.2%3A23000%2Flive%2Fvitorio%2Fvitorio%2F12039.ts&swf=None&auth=&simpledownloader=False 
+#EXTINF:-1 tvg-id="SPORT TV 1.pt" tvg-logo="http://i.imgur.com/qU8wHCd.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR lawngreen[B][COLOR white]SPORT TV 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+rtmp://178.162.199.138/live playPath=boinc?id=26424&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=15 conn=S:OK live=true swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf  flashver=WIN\2021,0,0,182 pageUrl=http://www.embedezcast.com/embedplayer/boinc/1/790/420 
+#EXTINF:-1 tvg-id="SPORT TV 1.pt" tvg-logo="http://i.imgur.com/qU8wHCd.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR lawngreen[B][COLOR white]SPORT TV 1 [/B][/COLOR] [B][COLOR green][SD][/B][/COLOR]
+rtmp://46.28.53.142/live/ playPath=boinc?id=86894&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=10 conn=S:OK live=true swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2021,0,0,182 pageUrl=http://www.embeducaster.com/embedplayer/boinc/1/730/430 
+
+
+
+
+
 
 
 
