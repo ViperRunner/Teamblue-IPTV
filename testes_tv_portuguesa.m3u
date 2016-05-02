@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,[B][COLOR red]==========>[/B][/COLOR][B][COLOR white]TV PORTUGAL[/B][/COLOR][B][COLOR red]<==========[/B][/COLOR] 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NkmSjDj.png",[B][COLOR red]==========>[/B][/COLOR][B][COLOR white]TV PORTUGAL[/B][/COLOR][B][COLOR red]<==========[/B][/COLOR] 
 http://0.0.0.0:1234 
 ************************************************** 
 A BOLA TV 
