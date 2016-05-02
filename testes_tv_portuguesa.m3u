@@ -1,4 +1,5 @@
 #EXTM3U
+
 A BOLA TV 
 #EXTINF:-1 tvg-id="A BOLA TV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png" group-title="GENERALISTAS PT",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]A BOLA TV [/B][/COLOR] [B][COLOR orange][LQ][/B][/COLOR]
 rtmp://178.162.211.97/stream playpath=BOLA33888338?id=23688&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 conn=S:OK   swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10 
@@ -55,27 +56,27 @@ plugin://program.plexus/?mode=1&url=acestream://56d9f9f96167758813bfc5bdcdc4673f
 
 ************************************************** 
 ARENA SPORT 1 
-#EXTINF:-1 tvg-id="ARENA SPORT 1.pt" tvg-logo="http://i.imgur.com/87tP276.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] SRB [B][COLOR white]ARENA SPORT 1 [/B][/COLOR] [B][COLOR blue][SD][/B][/COLOR]
+#EXTINF:-1 tvg-id="ARENA SPORT 1.pt" tvg-logo="http://i.imgur.com/87tP276.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] HU [B][COLOR white]ARENA SPORT 1 [/B][/COLOR] [B][COLOR blue][SD][/B][/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://037943cf5049c5f534385ea9e720dbbf6df11fdd&mode=1&name=acestream&mode=1&name=SPORTS 
 
 ************************************************** 
 ARENA SPORT 2 
-#EXTINF:-1 tvg-id="ARENA SPORT 2.pt" tvg-logo="http://i.imgur.com/r5Q61LZ.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] SRB [B][COLOR white]ARENA SPORT 2 [/B][/COLOR] [B][COLOR blue][SD][/B][/COLOR]
+#EXTINF:-1 tvg-id="ARENA SPORT 2.pt" tvg-logo="http://i.imgur.com/r5Q61LZ.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] HU [B][COLOR white]ARENA SPORT 2 [/B][/COLOR] [B][COLOR blue][SD][/B][/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://480f33fd6e95653faef453d416685d2c4c5cc232&mode=1&name=acestream&mode=1&name=SPORTS 
 
 ************************************************** 
 ARENA SPORT 3 
-#EXTINF:-1 tvg-id="ARENA SPORT 3.pt" tvg-logo="http://i.imgur.com/hx9a1pi.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] SRB [B][COLOR white]ARENA SPORT 3 [/B][/COLOR] [B][COLOR blue][SD][/B][/COLOR]
+#EXTINF:-1 tvg-id="ARENA SPORT 3.pt" tvg-logo="http://i.imgur.com/hx9a1pi.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] HU [B][COLOR white]ARENA SPORT 3 [/B][/COLOR] [B][COLOR blue][SD][/B][/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://8f5d68e9b8746bba681fe37ac68398f87dbf30f3&mode=1&name=acestream&mode=1&name=SPORTS 
 
 ************************************************** 
 ARENA SPORT 4 
-#EXTINF:-1 tvg-id="ARENA SPORT 4.pt" tvg-logo="http://i.imgur.com/gmjRUgV.png" group-title="DESPORTO INT",[B][COLOR lawngreen]•[/B][/COLOR] SRB [B][COLOR white]ARENA SPORT 4 [/B][/COLOR] [B][COLOR blue][SD][/B][/COLOR]
+#EXTINF:-1 tvg-id="ARENA SPORT 4.pt" tvg-logo="http://i.imgur.com/gmjRUgV.png" group-title="DESPORTO INT",[B][COLOR orange]•[/B][/COLOR] HU [B][COLOR white]ARENA SPORT 4 [/B][/COLOR] [B][COLOR blue][SD][/B][/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://ee9ae796416c83c789c8d19b06914ba1a8f1340d&mode=1&name=acestream&mode=1&name=SPORTS 
 
 ************************************************** 
 ARENA SPORT 5 
-#EXTINF:-1 tvg-id="ARENA SPORT 5.pt" tvg-logo="http://i.imgur.com/s7NF5IC.png" group-title="DESPORTO INT",[B][COLOR red]•[/B][/COLOR] SRB [B][COLOR white]ARENA SPORT 5 [/B][/COLOR] [B][COLOR blue][SD][/B][/COLOR]
+#EXTINF:-1 tvg-id="ARENA SPORT 5.pt" tvg-logo="http://i.imgur.com/s7NF5IC.png" group-title="DESPORTO INT",[B][COLOR red]•[/B][/COLOR] HU [B][COLOR white]ARENA SPORT 5 [/B][/COLOR] [B][COLOR blue][SD][/B][/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://5f90220cfbbf558ffdf9a5e4187a34efa93f8f05&mode=1&name=acestream&mode=1&name=SPORTS 
 
 ************************************************** 
@@ -466,6 +467,8 @@ rtmp://179.43.158.196:13379/stream/ playPath=NdTBo1519y0yBoaX9Epd0.stream?r4283i
 rtmp://178.162.199.138/live playPath=boinc?id=26424&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=15 conn=S:OK live=true swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf  flashver=WIN\2021,0,0,182 pageUrl=http://www.embedezcast.com/embedplayer/boinc/1/790/420 
 #EXTINF:-1 tvg-id="SPORT TV 1.pt" tvg-logo="http://i.imgur.com/qU8wHCd.png" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SPORT TV 1 [/B][/COLOR] [B][COLOR blue][SD][/B][/COLOR]
 rtmp://46.28.53.142/live/ playPath=boinc?id=86894&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=10 conn=S:OK live=true swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2021,0,0,182 pageUrl=http://www.embeducaster.com/embedplayer/boinc/1/730/430 
+#EXTINF:-1 tvg-id="SPORT TV 1.pt" tvg-logo="FALSO" group-title="DESPORTO PT",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SPORT TV 1 [/B][/COLOR] [B][COLOR blue][SD][/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/IPTV_PARA_TODOS/FREE/2243.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 SPORT TV 2 
@@ -601,13 +604,3 @@ VIASAT TV3 SPORT 2
 plugin://program.plexus/?mode=1&url=acestream://747791c28682e20b4fd1b7242e0401f98ea724a1&mode=1&name=acestream&mode=1&name=SPORTS 
 
 ************************************************** 
-
-
-
-
-
-
-
-
-
-
