@@ -30,12 +30,12 @@ rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUr
 SIC 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/U0XKwI5.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SIC [/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](f4mtester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http%3A%2F%2Fplay-iptv.zapto.org%3A8000%2Flive%2Fenzo%2FSkype%2F147.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/U0XKwI5.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SIC [/B][/COLOR] [B][COLOR orange][LQ] [/B][/COLOR][B][COLOR red](http)[/B][/COLOR]
-rtmp://95.211.148.133/stream playpath=SIC813747234?id=23687&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/U0XKwI5.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SIC [/B][/COLOR] [B][COLOR orange][LQ] [/B][/COLOR][B][COLOR red](f4mtester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http%3A%2F%2Fevolive-tv.com%3A8000%2Flive%2Fjackman%2Fjackman%2F298.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/U0XKwI5.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SIC [/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](http)[/B][/COLOR]
 rtmp://109.123.116.138/stream playpath=SIC813747234?id=20766&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/U0XKwI5.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SIC [/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](f4mtester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http%3A%2F%2Fevolive-tv.com%3A8000%2Flive%2Fjackman%2Fjackman%2F298.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/U0XKwI5.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SIC [/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](http)[/B][/COLOR]
+rtmp://95.211.148.133/stream playpath=SIC813747234?id=23687&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10 
 
 ************************************************** 
 SIC MULHER 
@@ -67,8 +67,8 @@ rtmp://178.162.199.25/live playPath=tvi0x?id=24420&pk=e48aa857174960dbfa3a76f496
 
 ************************************************** 
 TVI 24 
- 
- 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nYX9hTR.png",[B][COLOR yellow]•[/B][/COLOR] PT [B][COLOR white]TVI 24 [/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](http)[/B][/COLOR]
+http://195.23.102.218:1935/live_tvi24/LIVE_TVI24-1/inspirationlinks.m3u8 
 
 ************************************************** 
 TVI FICCAO 
@@ -121,6 +121,8 @@ http://cp.dmbshare.net:8000/live/whelan/whelan/3499.ts
 
 ************************************************** 
 AXN 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/wxswvq1433343102.png",[B][COLOR yellow]•[/B][/COLOR] PT [B][COLOR white]AXN [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mtester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http%3A%2F%2Fplay-iptv.zapto.org%3A8000%2Flive%2Fjoao%2Fjoao%2F184.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/wxswvq1433343102.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]AXN [/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](http)[/B][/COLOR]
 rtmp://46.28.49.156/live playpath=axn1x?id=84753&pk=b7fca1436f844715207befb980f8505afca13f8d81de8b45a90609577210e932 swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/axn1x/1/650/500 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/wxswvq1433343102.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]AXN [/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](http)[/B][/COLOR]
@@ -137,6 +139,13 @@ AXN WHITE
 rtmp://5.63.149.236/live playpath=axnwhitex?id=77969&pk=b7fca1436f844715207befb980f8505afca13f8d81de8b45a90609577210e932 swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/axnwhitex/1/650/500 
 
 ************************************************** 
+CINEMUNDO 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rrrvxy1436845857.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]CINEMUNDO [/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](f4mtester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http%3A%2F%2Fplay-iptv.zapto.org%3A8000%2Flive%2Fjoao%2Fjoao%2F191.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rrrvxy1436845857.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]CINEMUNDO [/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](f4mtester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http%3A%2F%2Fplay-iptv.zapto.org%3A8000%2Flive%2Fjoao%2Fjoao%2F191.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+
+************************************************** 
 FOX CRIME 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yttqvq1433433074.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]FOX CRIME [/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](http)[/B][/COLOR]
 rtmp://109.123.95.180/live playpath=foxcrimex?id=84766&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/foxcrimex/1/650/500 
@@ -150,6 +159,8 @@ rtmp://85.17.20.72/stream playpath=foxlifea?id=19709&pk=e48aa857174960dbfa3a76f4
 FOX MOVIES 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/sxuwxq1435104089.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]FOX MOVIES [/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](http)[/B][/COLOR]
 rtmp://46.28.53.32/live/ playpath=sical?id=24913&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 conn=S:OK swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/ live=true timeout=10 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/sxuwxq1435104089.png",[B][COLOR yellow]•[/B][/COLOR] PT [B][COLOR white]FOX MOVIES [/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](http)[/B][/COLOR]
+http://iptv.alphacs.tv:8080/live/a1s2d3/1234/646.m3u8 
 
 ************************************************** 
 HOLLYWOOD 
@@ -157,6 +168,16 @@ HOLLYWOOD
 plugin://plugin.video.f4mTester/?url=http%3A%2F%2Fplay-iptv.zapto.org%3A8000%2Flive%2Fenzo%2FSkype%2F158.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xuqyuy1433356382.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]HOLLYWOOD [/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](http)[/B][/COLOR]
 rtmp://146.185.16.58/live playpath=hollywoodx?id=84769&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/hollywoodx/1/650/500 
+
+************************************************** 
+MOV 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ywpyvx1435102521.png",[B][COLOR yellow]•[/B][/COLOR] PT [B][COLOR white]MOV [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mtester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http%3A%2F%2Fplay-iptv.zapto.org%3A8000%2Flive%2Fjoao%2Fjoao%2F182.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+
+************************************************** 
+SyFy 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qxpsqp1433432599.png",[B][COLOR yellow]•[/B][/COLOR] PT [B][COLOR white]SyFy [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mtester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http%3A%2F%2Fevolive-tv.com%3A8000%2Flive%2Fjackman%2Fjackman%2F288.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 TV CINE 1 
@@ -428,21 +449,29 @@ plugin://program.plexus/?mode=1&url=acestream://9c09ca93668937ff878a0922f2873bca
 DIGISPORT 1 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/N6wrADg.png",[B][COLOR lawngreen]•[/B][/COLOR] RO [B][COLOR white]DIGISPORT 1 [/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](Plexus)[/B][/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://587b978995d900afc17d4a5c3ef13797d2b3a0ec&mode=1&name=acestream&mode=1&name=SPORTS 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/N6wrADg.png",[B][COLOR yellow]•[/B][/COLOR] HUN [B][COLOR white]DIGISPORT 1 [/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](http)[/B][/COLOR]
+http://bit.ly/1N0TI8b 
 
 ************************************************** 
 DIGISPORT 2 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CpfkyxZ.png",[B][COLOR lawngreen]•[/B][/COLOR] RO [B][COLOR white]DIGISPORT 2 [/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](Plexus)[/B][/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://3b0796661f783236f24756821f5efb1d15d59d7f&mode=1&name=acestream&mode=1&name=SPORTS 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CpfkyxZ.png",[B][COLOR yellow]•[/B][/COLOR] HUN [B][COLOR white]DIGISPORT 2 [/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](http)[/B][/COLOR]
+http://bit.ly/1IXjIq3 
 
 ************************************************** 
 DIGISPORT 3 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/poK5tXv.png",[B][COLOR lawngreen]•[/B][/COLOR] RO [B][COLOR white]DIGISPORT 3 [/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](Plexus)[/B][/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://http://85.25.43.23:8080/hls/volex_04.m3u8&mode=1&name=acestream&mode=1&name=SPORTS 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/poK5tXv.png",[B][COLOR yellow]•[/B][/COLOR] HUN [B][COLOR white]DIGISPORT 3 [/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](http)[/B][/COLOR]
+http://bit.ly/1ZkL1BX 
 
 ************************************************** 
 DIGISPORT 4 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3m3dwJg.png",[B][COLOR lawngreen]•[/B][/COLOR] RO [B][COLOR white]DIGISPORT 4 [/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](http)[/B][/COLOR]
 http://82.76.249.33/digiedge/digisport4hq/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3m3dwJg.png",[B][COLOR yellow]•[/B][/COLOR] HUN [B][COLOR white]DIGISPORT 4 [/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](http)[/B][/COLOR]
+http://bit.ly/1VWA8Ra 
 
 ************************************************** 
 DOLCE SPORT 1 
@@ -466,8 +495,8 @@ plugin://program.plexus/?mode=1&url=acestream://3f9f7989808cd22569ff5fa2cbe75b48
 
 ************************************************** 
 ESPN BRASIL 
- 
- 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RDEG8LP.png",[B][COLOR yellow]•[/B][/COLOR] BR [B][COLOR white]ESPN BRASIL [/B][/COLOR] [B][COLOR orange][LQ] [/B][/COLOR][B][COLOR red](http)[/B][/COLOR]
+rtmp://31.204.151.253/live?wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMTYgNDozNzo0OSBQTSZoYXNoX3ZhbHVlPWNmdld2azZ3YTk3bzVBYjJHSXNGenc9PSZ2YWxpZG1pbnV0ZXM9MjAw playpath=master05 swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/mestre.php token=boanerges  
 
 ************************************************** 
 FUTBOL 1 
@@ -553,6 +582,8 @@ NTV+ FOOTBALL 3
 PFC 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/tsqstw1436894693.png",[B][COLOR lawngreen]•[/B][/COLOR] BR [B][COLOR white]PFC [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mtester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http%3A%2F%2Frevendedor.amxiptv.club%3A8000%2Flive%2Familcar%2Familcar%2F20.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/tsqstw1436894693.png",[B][COLOR yellow]•[/B][/COLOR] BR [B][COLOR white]PFC [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mtester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=rtmp://www1.iguide.to/iguide playpath=9etjxdg9mmnf06a  swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf  pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=480&channel=32623&width=640&height=480&autoplay=true%22&autoplay=false token=#ed%h0#w18623jsda6523lDGD;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 POLSAT SPORT 
@@ -561,8 +592,8 @@ POLSAT SPORT
 
 ************************************************** 
 RAI SPORT 1 
- 
- 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6ohVjfO.png",[B][COLOR yellow]•[/B][/COLOR] IT [B][COLOR white]RAI SPORT 1 [/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](http)[/B][/COLOR]
+http://b2.httpstream1.rai.it/raisport1.isml/QualityLevels(1296000)/manifest(format=m3u8-aapl).m3u8 
 
 ************************************************** 
 SETANTA SPORTS 
@@ -654,6 +685,13 @@ TSN 1
 plugin://program.plexus/?mode=1&url=acestream://13139e30694a4902cc4bc8e0859d64c9851c80cb&mode=1&name=acestream&mode=1&name=SPORTS 
 
 ************************************************** 
+TSN 2 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/l1NJsdM.png",[B][COLOR yellow]•[/B][/COLOR] CAN [B][COLOR white]TSN 2 [/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](http)[/B][/COLOR]
+rtmp://31.220.2.149:80/live/ playpath=tsnx2 token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://yotv.co 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/l1NJsdM.png",[B][COLOR yellow]•[/B][/COLOR] CAN [B][COLOR white]TSN 2 [/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](http)[/B][/COLOR]
+rtmp://185.63.255.60:80/live playpath=tsnx2 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=tsnx2&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z 
+
+************************************************** 
 TV 2 SPORT 
  
  
@@ -689,8 +727,8 @@ plugin://program.plexus/?mode=1&url=acestream://747791c28682e20b4fd1b7242e0401f9
 http://0.0.0.0:1234 
 ************************************************** 
 SBT 
- 
- 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IpdLuL6.png",[B][COLOR yellow]•[/B][/COLOR] BR [B][COLOR white]SBT [/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](http)[/B][/COLOR]
+rtmp://31.204.151.253/live?wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMTYgNDozNTo0NyBQTSZoYXNoX3ZhbHVlPS9RUkpzVHY3ZDh5QVJYbUVqR0cwQWc9PSZ2YWxpZG1pbnV0ZXM9MjAw playpath=master94 swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/mestre.php token=boanerges 
 
 ************************************************** 
 TV GLOBO 
@@ -717,6 +755,19 @@ http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 RTVE 1 (LA 1) 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/asaFG97.png",[B][COLOR lawngreen]•[/B][/COLOR] ES [B][COLOR white]RTVE 1 (LA 1) [/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](http)[/B][/COLOR]
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpinternacional swfVfy=1 live=1 timeout=15 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/asaFG97.png",[B][COLOR yellow]•[/B][/COLOR] ES [B][COLOR white]RTVE 1 (LA 1) [/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](http)[/B][/COLOR]
+http://hlslive.rtve.es:80/LA1_LV3_IPH/bitrate_1.m3u8 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/asaFG97.png",[B][COLOR yellow]•[/B][/COLOR] ES [B][COLOR white]RTVE 1 (LA 1) [/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](http)[/B][/COLOR]
+http://hlslive.rtve.es:80/LA1_LV3_IPH/bitrate_2.m3u8 
+
+************************************************** 
+RTVE 2 (LA 2) 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/tpsvvr1441658102.png",[B][COLOR yellow]•[/B][/COLOR] ES [B][COLOR white]RTVE 2 (LA 2) [/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](http)[/B][/COLOR]
+http://hlslive.rtve.es:80/LA2_LV3_IPH/bitrate_1.m3u8 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/tpsvvr1441658102.png",[B][COLOR yellow]•[/B][/COLOR] ES [B][COLOR white]RTVE 2 (LA 2) [/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](http)[/B][/COLOR]
+http://hlslive.rtve.es:80/LA2_LV3_IPH/bitrate_2.m3u8 
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/tpsvvr1441658102.png",[B][COLOR yellow]•[/B][/COLOR] ES [B][COLOR white]RTVE 2 (LA 2) [/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](http)[/B][/COLOR]
+http://hlslive.rtve.es:80/LA2_LV3_IPH/LA2_LV3_IPH.m3u8 
 
 ************************************************** 
 »»»»»» INGLATERRA 
