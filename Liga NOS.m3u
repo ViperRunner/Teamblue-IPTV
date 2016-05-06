@@ -9,7 +9,7 @@ http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/WEKcpkS.png",[B][COLOR gold]06.05 / 20h30 P FERREIRA-TONDELA[/B][/COLOR]
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/0cnsKMR.png",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR [B][COLOR white]ARENAVISION 9[/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](Plexus)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0cnsKMR.png",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR [B][COLOR white]ARENAVISION 91[/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](Plexus)[/B][/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://8a8a1e07376832b3369511112bd64524590f3d68&mode=1&name=acestream&mode=1&name=SPORTS
 #EXTINF:-1 tvg-logo="http://i.imgur.com/A2DKVvM.png",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR [B][COLOR white]ARENAVISION 10[/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](Plexus)[/B][/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://ea343c282865d10c319ff05a55e29464dd60a46b&mode=1&name=acestream&mode=1&name=SPORTS
