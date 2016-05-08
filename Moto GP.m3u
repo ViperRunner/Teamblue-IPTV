@@ -55,14 +55,19 @@ http://0.0.0.0:1234
 http://0.0.0.0:1234   
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/J18GoWA.png",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR [B][COLOR white] ARENAVISION 11 [/B][/COLOR]  [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](Plexus)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://df58492e734e39d68b54ea6a8104ac0642103bd5&mode=1&name=acestream&mode=1&name=SPORTS   
+plugin://program.plexus/?mode=1&url=acestream://df58492e734e39d68b54ea6a8104ac0642103bd5&mode=1&name=acestream&mode=1&name=SPORTS
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xnpnMLa.png",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR [B][COLOR white] ARENAVISION 12 [/B][/COLOR]  [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](Plexus)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://f106c58fcb72d1a21e7a500cdf339321744e290f&mode=1&name=acestream&mode=1&name=SPORTS   
+plugin://program.plexus/?mode=1&url=acestream://f106c58fcb72d1a21e7a500cdf339321744e290f&mode=1&name=acestream&mode=1&name=SPORTS
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CpfkyxZ.png",[B][COLOR lawngreen]•[/B][/COLOR] RO [B][COLOR [B][COLOR white] DIGISPORT 2 [/B][/COLOR]  [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](Plexus)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://3b0796661f783236f24756821f5efb1d15d59d7f&mode=1&name=acestream&mode=1&name=SPORTS   
+plugin://program.plexus/?mode=1&url=acestream://3b0796661f783236f24756821f5efb1d15d59d7f&mode=1&name=acestream&mode=1&name=SPORTS
 #EXTINF:-1 tvg-logo="http://i.imgur.com/x4rGg3q.png",[B][COLOR lawngreen]•[/B][/COLOR] UK [B][COLOR [B][COLOR white] MOTORSPORT [/B][/COLOR]  [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](Plexus)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://c8b03380b2ac11239254a7c94c3cbd2ca04cce16&mode=1&name=acestream&mode=1&name=SPORTS   
+plugin://program.plexus/?mode=1&url=acestream://c8b03380b2ac11239254a7c94c3cbd2ca04cce16&mode=1&name=acestream&mode=1&name=SPORTS
 #EXTINF:-1 tvg-logo="http://i.imgur.com/bOAFFza.png",[B][COLOR lawngreen]•[/B][/COLOR] CZ [B][COLOR [B][COLOR white] NOVA SPORT 1 [/B][/COLOR]  [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](Plexus)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://6ad08ea0a5c025f00be8ba1ad106821f27d17296&mode=1&name=acestream&mode=1&name=SPORTS   
+plugin://program.plexus/?mode=1&url=acestream://6ad08ea0a5c025f00be8ba1ad106821f27d17296&mode=1&name=acestream&mode=1&name=SPORTS
 #EXTINF:-1 tvg-logo="http://i.imgur.com/RHiYBnZ.png",[B][COLOR lawngreen]•[/B][/COLOR] POL [B][COLOR [B][COLOR white] POLSAT SPORT NEWS [/B][/COLOR]  [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](Plexus)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://97fa7f7b25775b0daa085c8d6d5a52a357aca6b3&mode=1&name=acestream&mode=1&name=SPORTS   
+plugin://program.plexus/?mode=1&url=acestream://97fa7f7b25775b0daa085c8d6d5a52a357aca6b3&mode=1&name=acestream&mode=1&name=SPORTS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR [B][COLOR white] SPORT TV 5 [/B][/COLOR]  [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](f4mtester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http%3A%2F%2Fwww.q7t1.com%3A8000%2Flive%2Fali54%2Fali54%2F1137.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR [B][COLOR white] SPORT TV 5 [/B][/COLOR]  [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](f4mtester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http%3A%2F%2Fftvnext.stmteam.org%3A8000%2Flive%2Fdelia%2Fdelia%2F36.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+
