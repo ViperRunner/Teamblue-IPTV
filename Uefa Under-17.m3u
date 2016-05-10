@@ -1,4 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/s7qeg3W.png",[B][COLOR skyblue]Campeonato da Europa de Sub-17[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KbRXwLr.png",[B][COLOR skyblue]AGENDA DAS TRANSMISSOES TELEVISIVAS[/B][/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="http://i.imgur.com/s7qeg3W.png",[B][COLOR skyblue]UEFA - SUB-17[/B][/COLOR]
+http://0.0.0.0:1234
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7DOw9tT.png",[B][COLOR gold]11.05 / 13h00 PORTUGAL-BELGICA[/B][/COLOR]
+http://0.0.0.0:1234
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YWjVuSA.png",[B][COLOR gold]11.05 / 16h15 ALEMANHA-AuSTRIA[/B][/COLOR]
 http://0.0.0.0:1234
