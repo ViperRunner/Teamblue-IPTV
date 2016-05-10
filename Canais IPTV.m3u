@@ -306,6 +306,35 @@ SIC K
 plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/vcWBiU3Vrx/siMCr6g0O0/655.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
+»»»»»» DOCUMENTARIOS 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Sky3O5E.png",[B][COLOR red]»»»»»»[/B][/COLOR][B][COLOR white]INFANTIS[/B][/COLOR][B][COLOR red]««««««[/B][/COLOR] 
+http://0.0.0.0:1234 
+************************************************** 
+DISCOVERY CANNEL 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OznL5Kq.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]DISCOVERY CANNEL [B][COLOR green](TEMP->10.05 21h) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/vcWBiU3Vrx/siMCr6g0O0/724.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+
+************************************************** 
+HISTORIA 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OznL5Kq.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]HISTORIA [B][COLOR green](TEMP->10.05 21h) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/vcWBiU3Vrx/siMCr6g0O0/721.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+
+************************************************** 
+NAT GEO WILD 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OznL5Kq.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]NAT GEO WILD [B][COLOR green](TEMP->10.05 21h) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/vcWBiU3Vrx/siMCr6g0O0/720.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+
+************************************************** 
+ODISSEIA 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OznL5Kq.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]ODISSEIA [B][COLOR green](TEMP->10.05 21h) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/vcWBiU3Vrx/siMCr6g0O0/722.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+
+************************************************** 
+TLC 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OznL5Kq.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]TLC [B][COLOR green](TEMP->10.05 21h) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/vcWBiU3Vrx/siMCr6g0O0/705.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+
+************************************************** 
 »»»»»» DESPORTO NACIONAL 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/aN0mPP7.png",[B][COLOR red]»»»»»»[/B][/COLOR][B][COLOR white]DESPORTO NACIONAL[/B][/COLOR][B][COLOR red]««««««[/B][/COLOR] 
 http://0.0.0.0:1234 
