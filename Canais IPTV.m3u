@@ -307,7 +307,7 @@ plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/vcWBiU3Vrx
 
 ************************************************** 
 »»»»»» DOCUMENTARIOS 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Sky3O5E.png",[B][COLOR red]»»»»»»[/B][/COLOR][B][COLOR white]INFANTIS[/B][/COLOR][B][COLOR red]««««««[/B][/COLOR] 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Sky3O5E.png",[B][COLOR red]»»»»»»[/B][/COLOR][B][COLOR white]DOCUMENTARIOS[/B][/COLOR][B][COLOR red]««««««[/B][/COLOR] 
 http://0.0.0.0:1234 
 ************************************************** 
 DISCOVERY CANNEL 
