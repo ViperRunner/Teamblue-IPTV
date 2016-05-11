@@ -1,11 +1,29 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/BLuGCDF.jpg",[B][COLOR skyblue]FORMULA 1 2016[/B][/COLOR]
-http://0.0.0.0:1234
-#EXTINF:-1,[B][COLOR white]--------------------------------------------------[/B][/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/DB7S7u0.jpg",[B][COLOR red]GP [/B][/COLOR]
-http://0.0.0.0:1234
-#EXTINF:-1,[B][COLOR white]--------------------------------------------------[/B][/COLOR]
- 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BLuGCDF.jpg",[B][COLOR skyblue]FORMULA 1 2016[/B][/COLOR]   
+http://0.0.0.0:1234   
+#EXTINF:-1 tvg-logo="http://i.imgur.com/d87JJKZ.jpg",[B][COLOR skyblue]GP DE ESPANHA (BARCELONA)  [/B][/COLOR] 
+http://0.0.0.0:1234   
+#EXTINF:-1,[B][COLOR white]--------------------------------------------------[/B][/COLOR]   
+http://0.0.0.0:1234   
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MgPvryf.jpg",[B][COLOR gold]13.05 / 09h00 FP1  [/B][/COLOR]
+http://0.0.0.0:1234   
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MgPvryf.jpg",[B][COLOR gold]13.05 / 13h00 FP2  [/B][/COLOR]
+http://0.0.0.0:1234   
+http://0.0.0.0:1234   
+#EXTINF:-1,[B][COLOR white]--------------------------------------------------[/B][/COLOR]   
+http://0.0.0.0:1234   
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MgPvryf.jpg",[B][COLOR gold]14.05 / 10h00 FP3  [/B][/COLOR]
+http://0.0.0.0:1234   
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MgPvryf.jpg",[B][COLOR gold]14.05 / 13h00 Q  [/B][/COLOR]
+http://0.0.0.0:1234   
+http://0.0.0.0:1234   
+#EXTINF:-1,[B][COLOR white]--------------------------------------------------[/B][/COLOR]   
+http://0.0.0.0:1234   
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MgPvryf.jpg",[B][COLOR gold]15.05 / 14h00 RAC  [/B][/COLOR]
+http://0.0.0.0:1234   
+#EXTINF:-1,[B][COLOR white]--------------------------------------------------[/B][/COLOR]   
+http://0.0.0.0:1234   
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vcfu9M3.png",[B][COLOR red]CANAIS DISPONIVEIS  [/B][/COLOR] 
+http://0.0.0.0:1234   
