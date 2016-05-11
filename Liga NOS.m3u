@@ -1,8 +1,128 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/KbRXwLr.png",[B][COLOR skyblue]AGENDA DAS TRANSMISSOES TELEVISIVAS[/B][/COLOR]
-http://0.0.0.0:1234
-#EXTINF:-1 tvg-logo="http://i.imgur.com/hE4oRiJ.png",[B][COLOR skyblue]LIGA NOS - JORNADA 34 [/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hE4oRiJ.png",[B][COLOR skyblue]LIGA NOS - JORNADA 34[/B][/COLOR]
 http://0.0.0.0:1234
 
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dwC9GpK.png",[B][COLOR gold]14.05 / 11h45 PORTO-BOAVISTA[/B][/COLOR]
+http://0.0.0.0:1234
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Lzlq2Mp.png",[B][COLOR gold]14.05 / 19h30 TONDEDLA-ACADEMICA[/B][/COLOR]
+http://0.0.0.0:1234
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZJx3YmI.png",[B][COLOR gold]14.05 / 19h30 SETUBAL-P FERREIRA[/B][/COLOR]
+http://0.0.0.0:1234
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HxbJGli.png",[B][COLOR gold]14.05 / 19h30 U MADEIRA-RIO AVE[/B][/COLOR]
+http://0.0.0.0:1234
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rwL19DP.png",[B][COLOR gold]14.05 / 19h30 BELENENSES-ESTORIL[/B][/COLOR]
+http://0.0.0.0:1234
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YajWrfs.png",[B][COLOR gold]15.05 / 17h00 BENFICA-NACIONAL MADEIRA[/B][/COLOR]
+http://0.0.0.0:1234
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fQeDGpj.png",[B][COLOR gold]15.05 / 17h00 BRAGA-SPORTING[/B][/COLOR]
+http://0.0.0.0:1234
