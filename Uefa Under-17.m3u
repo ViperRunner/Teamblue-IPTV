@@ -13,7 +13,7 @@ plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/BV9s3WlYty
 plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/BV9s3WlYty/NjQpSAhcEF/628.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/YWjVuSA.png",[B][COLOR gold]11.05 / 16h15 ALEMANHA-AuSTRIA[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YWjVuSA.png",[B][COLOR gold]11.05 / 16h15 ALEMANHA-AUSTRIA[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/00mXlvU.png",[B][COLOR ]•[/B][/COLOR] PT [B][COLOR [B][COLOR white]EUROSPORT 1 [COLOR green](TEMP->11.05 22h)[/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
