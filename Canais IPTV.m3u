@@ -237,7 +237,7 @@ plugin://plugin.video.f4mTester/?url=http%3A%2F%2Ftvip2016.ddns.net%3A8000%2Fliv
 http://0.0.0.0:1234 
 ************************************************** 
 BABY TV 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/xTAptxu.png",[B][COLOR ]•[/B][/COLOR] PT [B][COLOR white]BABY TV [COLOR green](TEMP->12.05 21h) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xTAptxu.png",[B][COLOR ]•[/B][/COLOR] PT [B][COLOR white]BABY TV [/B][COLOR green](TEMP->12.05 21h) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/bosnacafe/KL1Q5XrvR8/9490.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
