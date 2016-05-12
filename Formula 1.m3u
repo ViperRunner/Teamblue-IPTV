@@ -27,3 +27,20 @@ http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/vcfu9M3.png",[B][COLOR red]CANAIS DISPONIVEIS  [/B][/COLOR] 
 http://0.0.0.0:1234   
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/J18GoWA.png",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR [B][COLOR white] ARENAVISION 11 [/B][/COLOR]  [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](Plexus)[/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://1cb5faaaef8165765a9d069ba13b20f4f9260ce2&mode=1&name=acestream&mode=1&name=SPORTS   
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xnpnMLa.png",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR [B][COLOR white] ARENAVISION 12 [/B][/COLOR]  [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](Plexus)[/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://46204e81564a4ad5f38f67aac8f3fab16dcfe94a&mode=1&name=acestream&mode=1&name=SPORTS   
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NdBGYJy.png",[B][COLOR lawngreen]•[/B][/COLOR] ES [B][COLOR [B][COLOR white] MOVISTAR F1 [/B][/COLOR]  [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](Plexus)[/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://0d321ea1e93dc14da93c48f51b859f9d4bbf64ce&mode=1&name=acestream&mode=1&name=SPORTS   
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NdBGYJy.png",[B][COLOR lawngreen]•[/B][/COLOR] ES [B][COLOR [B][COLOR white] MOVISTAR F1 [/B][/COLOR]  [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](http)[/B][/COLOR]
+http://cdn.sstream.pw/live/tvb117/playlist.m3u8|Referer=http://www.playerhd2.pw/embed5.php   
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NdBGYJy.png",[B][COLOR lawngreen]•[/B][/COLOR] ES [B][COLOR [B][COLOR white] MOVISTAR F1 [/B][/COLOR]  [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](http)[/B][/COLOR]
+rtmp://www1.iguide.to/iguide playpath=kpfk285js6zoxea swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height;=400&channel;=30323&autoplay;=true token=#ed%h0#w18623jsda6523lDGD   
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NdBGYJy.png",[B][COLOR lawngreen]•[/B][/COLOR] ES [B][COLOR [B][COLOR white] MOVISTAR F1 [/B][/COLOR]  [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http%3A%2F%2Ftvip2016.ddns.net%3A8000%2Flive%2Fmarcocalhoa%2F2016%2F522.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25   
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gwmcmK2.png",[B][COLOR lawngreen]•[/B][/COLOR] UK [B][COLOR [B][COLOR white] SKY SPORTS F1 [/B][/COLOR]  [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](Plexus)[/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://078e5de99a310e68f8a86b53d811a4ed43c62a42&mode=1&name=acestream&mode=1&name=SPORTS   
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gwmcmK2.png",[B][COLOR lawngreen]•[/B][/COLOR] UK [B][COLOR [B][COLOR white] SKY SPORTS F1 [/B][/COLOR]  [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](Plexus)[/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://2288397a21c4933d2359f19f54daa4101e297a48&mode=1&name=acestream&mode=1&name=SPORTS   
