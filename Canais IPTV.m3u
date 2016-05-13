@@ -1,7 +1,8 @@
 #EXTM3U
 
+************************************************** 
 »»»»»» PORTUGAL 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/aN0mPP7.png",[B][COLOR red]»»»»»»[/B][/COLOR][B][COLOR white]PORTUGAL[/B][/COLOR][B][COLOR red]««««««[/B][/COLOR] 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/aN0mPP7.png",[B][COLOR red]»»»»»» [/B][/COLOR][B][COLOR white]PORTUGAL[/B][/COLOR][B][COLOR red] ««««««[/B][/COLOR] 
 http://0.0.0.0:1234 
 ************************************************** 
 RTP 1 
@@ -145,7 +146,7 @@ plugin://plugin.video.f4mTester/?url=http%3A%2F%2Ftvip2016.ddns.net%3A8000%2Fliv
 
 ************************************************** 
 »»»»»» FILMES & SERIES 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/uCKFyxE.jpg",[B][COLOR red]»»»»»»[/B][/COLOR][B][COLOR white]FILMES & SERIES[/B][/COLOR][B][COLOR red]««««««[/B][/COLOR] 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/uCKFyxE.jpg",[B][COLOR red]»»»»»» [/B][/COLOR][B][COLOR white]FILMES & SERIES[/B][/COLOR][B][COLOR red] ««««««[/B][/COLOR] 
 http://0.0.0.0:1234 
 ************************************************** 
 AMC 
@@ -285,7 +286,7 @@ plugin://plugin.video.f4mTester/?url=http%3A%2F%2Fftvnext.stmteam.org%3A8000%2Fl
 
 ************************************************** 
 »»»»»» INFANTIS 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/AX6ywzi.png",[B][COLOR red]»»»»»»[/B][/COLOR][B][COLOR white]INFANTIS[/B][/COLOR][B][COLOR red]««««««[/B][/COLOR] 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AX6ywzi.png",[B][COLOR red]»»»»»» [/B][/COLOR][B][COLOR white]INFANTIS[/B][/COLOR][B][COLOR red] ««««««[/B][/COLOR] 
 http://0.0.0.0:1234 
 ************************************************** 
 BABY TV 
@@ -348,7 +349,7 @@ plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/k1zQQajoOm
 
 ************************************************** 
 »»»»»» DOCUMENTARIOS 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Sky3O5E.png",[B][COLOR red]»»»»»»[/B][/COLOR][B][COLOR white]DOCUMENTARIOS[/B][/COLOR][B][COLOR red]««««««[/B][/COLOR] 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Sky3O5E.png",[B][COLOR red]»»»»»» [/B][/COLOR][B][COLOR white]DOCUMENTARIOS[/B][/COLOR][B][COLOR red] ««««««[/B][/COLOR] 
 http://0.0.0.0:1234 
 ************************************************** 
 A&E 
@@ -396,7 +397,7 @@ TLC
 
 ************************************************** 
 »»»»»» DESPORTO NACIONAL 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/aN0mPP7.png",[B][COLOR red]»»»»»»[/B][/COLOR][B][COLOR white]DESPORTO NACIONAL[/B][/COLOR][B][COLOR red]««««««[/B][/COLOR] 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/aN0mPP7.png",[B][COLOR red]»»»»»» [/B][/COLOR][B][COLOR white]DESPORTO NACIONAL[/B][/COLOR][B][COLOR red] ««««««[/B][/COLOR] 
 http://0.0.0.0:1234 
 ************************************************** 
 BENFICA TV 1 
@@ -416,7 +417,7 @@ plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/k1zQQajoOm
 ************************************************** 
 BENFICA TV 2 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mCK5Jwz.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]BENFICA TV 2 [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http%3A%2F%2Fftvnext.stmteam.org%3A8000%2Flive%2Fdelia%2Fdelia%2F21.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/21.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mCK5Jwz.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]BENFICA TV 2 [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/1088.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mCK5Jwz.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]BENFICA TV 2 [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
@@ -426,11 +427,15 @@ plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/k1zQQajoOm
 
 ************************************************** 
 EUROSPORT 1 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/00mXlvU.png",[B][COLOR ]•[/B][/COLOR] PT [B][COLOR white]EUROSPORT 1 [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/132.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/00mXlvU.png",[B][COLOR ]•[/B][/COLOR] PT [B][COLOR white]EUROSPORT 1 [COLOR green](TEMP->13.05 21h) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/k1zQQajoOm/Q8MXxqBROO/629.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 EUROSPORT 2 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/00mXlvU.png",[B][COLOR ]•[/B][/COLOR] PT [B][COLOR white]EUROSPORT 1 [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/846.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/MZBusxr.png",[B][COLOR ]•[/B][/COLOR] PT [B][COLOR white]EUROSPORT 2 [COLOR green](TEMP->13.05 21h) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/k1zQQajoOm/Q8MXxqBROO/628.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
@@ -498,7 +503,7 @@ SPORT TV AMERICAS
 
 ************************************************** 
 »»»»»» DESPORTO INTERNACIONAL 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/W2fMedL.png",[B][COLOR red]»»»»»»[/B][/COLOR][B][COLOR white]DESPORTO INTERNACIONAL[/B][/COLOR][B][COLOR red]««««««[/B][/COLOR] 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W2fMedL.png",[B][COLOR red]»»»»»» [/B][/COLOR][B][COLOR white]DESPORTO INTERNACIONAL[/B][/COLOR][B][COLOR red] ««««««[/B][/COLOR] 
 http://0.0.0.0:1234 
 ************************************************** 
 ARENAVISION 
@@ -1023,7 +1028,7 @@ plugin://program.plexus/?mode=1&url=acestream://747791c28682e20b4fd1b7242e0401f9
 
 ************************************************** 
 »»»»»» MUSICA 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Tl0tEUW.jpg",[B][COLOR red]»»»»»»[/B][/COLOR][B][COLOR white]MUSICA[/B][/COLOR][B][COLOR red]««««««[/B][/COLOR] 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Tl0tEUW.jpg",[B][COLOR red]»»»»»» [/B][/COLOR][B][COLOR white]MUSICA[/B][/COLOR][B][COLOR red] ««««««[/B][/COLOR] 
 http://0.0.0.0:1234 
 ************************************************** 
 C MUSIC 
@@ -1065,7 +1070,7 @@ plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/k1zQQajoOm
 
 ************************************************** 
 »»»»»» BRASIL 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NNIBZDJ.png",[B][COLOR red]»»»»»»[/B][/COLOR][B][COLOR white]BRASIL[/B][/COLOR][B][COLOR red]««««««[/B][/COLOR] 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NNIBZDJ.png",[B][COLOR red]»»»»»» [/B][/COLOR][B][COLOR white]BRASIL[/B][/COLOR][B][COLOR red] ««««««[/B][/COLOR] 
 http://0.0.0.0:1234 
 ************************************************** 
 BAND 
@@ -1099,7 +1104,7 @@ plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/k1zQQajoOm
 
 ************************************************** 
 »»»»»» ESPANHA 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/DBEsmts.png",[B][COLOR red]»»»»»»[/B][/COLOR][B][COLOR white]ESPANHA[/B][/COLOR][B][COLOR red]««««««[/B][/COLOR] 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DBEsmts.png",[B][COLOR red]»»»»»» [/B][/COLOR][B][COLOR white]ESPANHA[/B][/COLOR][B][COLOR red] ««««««[/B][/COLOR] 
 http://0.0.0.0:1234 
 ************************************************** 
 ANTENA 3 
@@ -1134,7 +1139,7 @@ plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/paulol
 
 ************************************************** 
 »»»»»» INGLATERRA 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Z5LleK4.png",[B][COLOR red]»»»»»»[/B][/COLOR][B][COLOR white]INGLATERRA[/B][/COLOR][B][COLOR red]««««««[/B][/COLOR] 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Z5LleK4.png",[B][COLOR red]»»»»»» [/B][/COLOR][B][COLOR white]INGLATERRA[/B][/COLOR][B][COLOR red] ««««««[/B][/COLOR] 
 http://0.0.0.0:1234 
 ************************************************** 
 BBC ONE 
@@ -1148,7 +1153,7 @@ BBC TWO
 
 ************************************************** 
 »»»»»» +18 ADULTOS 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/akxphHm.jpg",[B][COLOR red]»»»»»»[/B][/COLOR][B][COLOR white]+18 ADULTOS[/B][/COLOR][B][COLOR red]««««««[/B][/COLOR] 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/akxphHm.jpg",[B][COLOR red]»»»»»» [/B][/COLOR][B][COLOR white]+18 ADULTOS[/B][/COLOR][B][COLOR red] ««««««[/B][/COLOR] 
 http://0.0.0.0:1234 
 ************************************************** 
 BLUE HUSTLER 
