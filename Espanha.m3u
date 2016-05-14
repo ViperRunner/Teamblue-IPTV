@@ -1,0 +1,37 @@
+#EXTM3U
+************************************************** 
+»»»»»» ESPANHA 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DBEsmts.png",[B][COLOR red]»»»»»» [/B][/COLOR][B][COLOR white]ESPANHA[/B][/COLOR][B][COLOR red] ««««««[/B][/COLOR] 
+http://0.0.0.0:1234 
+************************************************** 
+ANTENA 3 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PG18Gi1.png",[B][COLOR lawngreen]•[/B][/COLOR] ES [B][COLOR white]ANTENA 3 [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](http)[/B][/COLOR]
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/asaFG97.png",[B][COLOR lawngreen]•[/B][/COLOR] ES [B][COLOR white]RTVE 1 (LA 1) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/1264.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/asaFG97.png",[B][COLOR lawngreen]•[/B][/COLOR] ES [B][COLOR white]RTVE 1 (LA 1) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/467.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+
+************************************************** 
+RTVE 1 (LA 1) 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/asaFG97.png",[B][COLOR lawngreen]•[/B][/COLOR] ES [B][COLOR white]RTVE 1 (LA 1) [/B][/COLOR] [B][COLOR orange][LQ] [/B][/COLOR][B][COLOR red](http)[/B][/COLOR]
+http://hlslive.rtve.es:80/LA1_LV3_IPH/bitrate_1.m3u8 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/asaFG97.png",[B][COLOR lawngreen]•[/B][/COLOR] ES [B][COLOR white]RTVE 1 (LA 1) [/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](http)[/B][/COLOR]
+http://hlslive.rtve.es:80/LA1_LV3_IPH/bitrate_2.m3u8 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/asaFG97.png",[B][COLOR lawngreen]•[/B][/COLOR] ES [B][COLOR white]RTVE 1 (LA 1) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/1257.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/asaFG97.png",[B][COLOR lawngreen]•[/B][/COLOR] ES [B][COLOR white]RTVE 1 (LA 1) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/429.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+
+************************************************** 
+RTVE 2 (LA 2) 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AIEiPC7.png",[B][COLOR lawngreen]•[/B][/COLOR] ES [B][COLOR white]RTVE 2 (LA 2) [/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](http)[/B][/COLOR]
+http://hlslive.rtve.es:80/LA2_LV3_IPH/bitrate_1.m3u8 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AIEiPC7.png",[B][COLOR lawngreen]•[/B][/COLOR] ES [B][COLOR white]RTVE 2 (LA 2) [/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](http)[/B][/COLOR]
+http://hlslive.rtve.es:80/LA2_LV3_IPH/bitrate_2.m3u8 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AIEiPC7.png",[B][COLOR lawngreen]•[/B][/COLOR] ES [B][COLOR white]RTVE 2 (LA 2) [/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](http)[/B][/COLOR]
+http://hlslive.rtve.es:80/LA2_LV3_IPH/LA2_LV3_IPH.m3u8 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AIEiPC7.png",[B][COLOR lawngreen]•[/B][/COLOR] ES [B][COLOR white]RTVE 2 (LA 2) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/426.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+
+************************************************** 
