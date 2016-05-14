@@ -11,12 +11,12 @@ plugin://program.plexus/?mode=1&url=acestream://f641b69c412e13179f5891981afefd7d
 plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/103.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/FXDakNf.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]BENFICA TV 1 [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/100.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/FXDakNf.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]BENFICA TV 1 [COLOR green](TEMP->14.05 22h30) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/yPcOH3vGYZ/RYOskWgmQn/633.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/FXDakNf.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]BENFICA TV 1 [COLOR green](TEMP->14.05 22h30) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/yPcOH3vGYZ/RYOskWgmQn/727.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/FXDakNf.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]BENFICA TV 1 [COLOR green](TEMP->14.05 22h30) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/yPcOH3vGYZ/RYOskWgmQn/728.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FXDakNf.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]BENFICA TV 1 [COLOR green](TEMP->15.05 21h) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/U2zfGeWkKn/8l4QLWnVxY/728.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FXDakNf.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]BENFICA TV 1 [COLOR green](TEMP->15.05 21h) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/U2zfGeWkKn/8l4QLWnVxY/727.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FXDakNf.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]BENFICA TV 1 [COLOR green](TEMP->15.05 21h) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/U2zfGeWkKn/8l4QLWnVxY/633.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 BENFICA TV 2 
@@ -26,26 +26,26 @@ plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/
 plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/1088.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mCK5Jwz.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]BENFICA TV 2 [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/21.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/mCK5Jwz.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]BENFICA TV 2 [COLOR green](TEMP->14.05 22h30) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/yPcOH3vGYZ/RYOskWgmQn/662.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/mCK5Jwz.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]BENFICA TV 2 [COLOR green](TEMP->14.05 22h30) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/yPcOH3vGYZ/RYOskWgmQn/677.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/mCK5Jwz.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]BENFICA TV 2 [COLOR green](TEMP->15.05 21h) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/U2zfGeWkKn/8l4QLWnVxY/677.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/mCK5Jwz.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]BENFICA TV 2 [COLOR green](TEMP->15.05 21h) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/U2zfGeWkKn/8l4QLWnVxY/662.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 EUROSPORT 1 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/00mXlvU.png",[B][COLOR ]•[/B][/COLOR] PT [B][COLOR white]EUROSPORT 1 [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/132.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/00mXlvU.png",[B][COLOR ]•[/B][/COLOR] PT [B][COLOR white]EUROSPORT 1 [COLOR green](TEMP->14.05 22h30) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/yPcOH3vGYZ/RYOskWgmQn/681.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/00mXlvU.png",[B][COLOR ]•[/B][/COLOR] PT [B][COLOR white]EUROSPORT 1 [COLOR green](TEMP->14.05 22h30) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/yPcOH3vGYZ/RYOskWgmQn/629.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/00mXlvU.png",[B][COLOR ]•[/B][/COLOR] PT [B][COLOR white]EUROSPORT 1 [COLOR green](TEMP->15.05 21h) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/U2zfGeWkKn/8l4QLWnVxY/681.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/00mXlvU.png",[B][COLOR ]•[/B][/COLOR] PT [B][COLOR white]EUROSPORT 1 [COLOR green](TEMP->15.05 21h) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/U2zfGeWkKn/8l4QLWnVxY/629.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 EUROSPORT 2 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MZBusxr.png",[B][COLOR ]•[/B][/COLOR] PT [B][COLOR white]EUROSPORT 2 [COLOR green](TEMP->14.05 22h30) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/yPcOH3vGYZ/RYOskWgmQn/682.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MZBusxr.png",[B][COLOR ]•[/B][/COLOR] PT [B][COLOR white]EUROSPORT 2 [COLOR green](TEMP->14.05 22h30) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/yPcOH3vGYZ/RYOskWgmQn/628.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MZBusxr.png",[B][COLOR ]•[/B][/COLOR] PT [B][COLOR white]EUROSPORT 2 [COLOR green](TEMP->15.05 21h) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/U2zfGeWkKn/8l4QLWnVxY/682.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MZBusxr.png",[B][COLOR ]•[/B][/COLOR] PT [B][COLOR white]EUROSPORT 2 [COLOR green](TEMP->15.05 21h) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/U2zfGeWkKn/8l4QLWnVxY/628.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 EUROSPORT 2 XTRA 
@@ -58,10 +58,10 @@ SPORT TV 1
 plugin://program.plexus/?mode=1&url=acestream://bf31f0641c56bc891da56e233063f0f463c634c3&mode=1&name=acestream&mode=1&name=SPORTS 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SPORT TV 1 [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/98.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#REF!
-plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/yPcOH3vGYZ/RYOskWgmQn/7252.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SPORT TV 1 [COLOR green](TEMP->14.05 22h30) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/yPcOH3vGYZ/RYOskWgmQn/676.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SPORT TV 1 (FHD) [COLOR green](TEMP->15.05 21h) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/U2zfGeWkKn/8l4QLWnVxY/7252.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SPORT TV 1 [COLOR green](TEMP->15.05 21h) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/U2zfGeWkKn/8l4QLWnVxY/676.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 SPORT TV 2 
@@ -71,10 +71,10 @@ plugin://program.plexus/?mode=1&url=acestream://8552183706501a3a9b617f2d28c5d8f6
 plugin://plugin.video.f4mTester/?url=http://worldtv.noip.me:8000/live/Ozkan/Erdem/281.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SPORT TV 2 [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/10.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SPORT TV 2 [B][COLOR green](TEMP->14.05 22h30) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/yPcOH3vGYZ/RYOskWgmQn/675.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SPORT TV 2 [B][COLOR green](TEMP->14.05 22h30) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/yPcOH3vGYZ/RYOskWgmQn/7253.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SPORT TV 2 (FHD) [B][COLOR green](TEMP->15.05 21h) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/U2zfGeWkKn/8l4QLWnVxY/7253.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fsgRDjH.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SPORT TV 2 [B][COLOR green](TEMP->15.05 21h) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/U2zfGeWkKn/8l4QLWnVxY/675.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 SPORT TV 3 
@@ -82,17 +82,17 @@ SPORT TV 3
 plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/2028.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SPORT TV 3 [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/8.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SPORT TV 3 [COLOR green](TEMP->14.05 22h30) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/yPcOH3vGYZ/RYOskWgmQn/674.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SPORT TV 3 [COLOR green](TEMP->14.05 22h30) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/yPcOH3vGYZ/RYOskWgmQn/7254.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SPORT TV 3 (FHD) [COLOR green](TEMP->15.05 21h) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/U2zfGeWkKn/8l4QLWnVxY/7254.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XvI6JNr.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SPORT TV 3 [COLOR green](TEMP->15.05 21h) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/U2zfGeWkKn/8l4QLWnVxY/674.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 SPORT TV 4 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SPORT TV 4 [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](Plexus)[/B][/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://e02d9cd3da0079a46a69d08ff70eb4bd325370cd&mode=1&name=acestream&mode=1&name=SPORTS 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SPORT TV 4 [COLOR green](TEMP->14.05 22h30) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/yPcOH3vGYZ/RYOskWgmQn/673.ts|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IZCGvyl.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SPORT TV 4 [COLOR green](TEMP->15.05 21h) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/U2zfGeWkKn/8l4QLWnVxY/673.ts|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 SPORT TV 5 
@@ -100,8 +100,8 @@ SPORT TV 5
 plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/1089.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SPORT TV 5 [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/36.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SPORT TV 5 [COLOR green](TEMP->14.05 22h30) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/yPcOH3vGYZ/RYOskWgmQn/672.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SPORT TV 5 [COLOR green](TEMP->15.05 21h) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/U2zfGeWkKn/8l4QLWnVxY/672.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 SPORT TV AMERICAS 
@@ -109,3 +109,6 @@ SPORT TV AMERICAS
  
 
 ************************************************** 
+
+
+
