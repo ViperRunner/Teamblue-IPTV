@@ -1,0 +1,65 @@
+#EXTM3U
+************************************************** 
+»»»»»» INFANTIS 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AX6ywzi.png",[B][COLOR red]»»»»»» [/B][/COLOR][B][COLOR white]INFANTIS[/B][/COLOR][B][COLOR red] ««««««[/B][/COLOR] 
+http://0.0.0.0:1234 
+************************************************** 
+BABY TV 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xTAptxu.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]BABY TV [COLOR green](TEMP->14.05 22h30) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/yPcOH3vGYZ/RYOskWgmQn/695.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+
+************************************************** 
+CANAL PANDA 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zWiKosU.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]CANAL PANDA [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http%3A%2F%2Fksportiptv.com%3A1557%2Flive%2Felvis%2Felvis%2F2202.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zWiKosU.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]CANAL PANDA [COLOR green](TEMP->14.05 22h30) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/yPcOH3vGYZ/RYOskWgmQn/691.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+
+************************************************** 
+CARTOON NETWORK 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]CARTOON NETWORK [COLOR green](TEMP->14.05 22h30) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/yPcOH3vGYZ/RYOskWgmQn/694.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+
+************************************************** 
+DISNEY CHANNEL 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/g0UK661.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]DISNEY CHANNEL [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/11.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/g0UK661.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]DISNEY CHANNEL [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/bosnacafe/KL1Q5XrvR8/3310.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+
+************************************************** 
+DISNEY JUNIOR 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]DISNEY JUNIOR [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http%3A%2F%2Fftvnext.stmteam.org%3A8000%2Flive%2Fdelia%2Fdelia%2F37.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]DISNEY JUNIOR [COLOR green](TEMP->14.05 22h30) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/yPcOH3vGYZ/RYOskWgmQn/689.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+
+************************************************** 
+JIM JAM 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/b6Mhyk9.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]JIM JAM [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http%3A%2F%2Fftvnext.stmteam.org%3A8000%2Flive%2Fdelia%2Fdelia%2F56.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/b6Mhyk9.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]JIM JAM [COLOR green](TEMP->14.05 22h30) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/yPcOH3vGYZ/RYOskWgmQn/692.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+
+************************************************** 
+NICKELODEON 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]NICKELODEON [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http%3A%2F%2Fftvnext.stmteam.org%3A8000%2Flive%2Fdelia%2Fdelia%2F62.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8fMIHmp.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]NICKELODEON [COLOR green](TEMP->14.05 22h30) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/yPcOH3vGYZ/RYOskWgmQn/690.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+
+************************************************** 
+PANDA BIGGS 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HKbRVtU.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]PANDA BIGGS [/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/delia/delia/458.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HKbRVtU.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]PANDA BIGGS [COLOR green](TEMP->14.05 22h30) [/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/yPcOH3vGYZ/RYOskWgmQn/644.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+
+************************************************** 
+SIC K 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/lhej3uE.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SIC K [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http%3A%2F%2Fftvnext.stmteam.org%3A8000%2Flive%2Fdelia%2Fdelia%2F133.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/lhej3uE.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SIC K [COLOR green](TEMP->14.05 22h30) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/yPcOH3vGYZ/RYOskWgmQn/655.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+
+************************************************** 
