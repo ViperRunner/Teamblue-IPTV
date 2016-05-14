@@ -7,6 +7,8 @@ http://0.0.0.0:1234
 A&E 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/u7IKaDs.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]A&E [/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://127.0.0.1:55333/use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2Fftvnext.stmteam.org%3A8000%2Flive%2Fdelia%2Fdelia%2F397.ts&swf=None&auth=&simpledownloader=False;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/u7IKaDs.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]A&E [COLOR green](TEMP->15.05 21h) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/U2zfGeWkKn/8l4QLWnVxY/726.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 DISCOVERY CANNEL 
@@ -14,11 +16,13 @@ DISCOVERY CANNEL
 rtmp://178.162.199.155/live playpath=discoveryx?id=84775&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/discoveryx/1/650/500 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/SOkf3AW.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]DISCOVERY CANNEL [/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](http)[/B][/COLOR]
 rtmp://37.130.226.172/live playpath=discoveryx?id=84775&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/discoveryx/1/650/500 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/SOkf3AW.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]DISCOVERY CANNEL [COLOR green](TEMP->15.05 21h) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/U2zfGeWkKn/8l4QLWnVxY/724.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 E! 
- 
- 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Ta2wvuo.png",[B][COLOR ]•[/B][/COLOR] PT [B][COLOR white]E! [COLOR green](TEMP->15.05 21h) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/U2zfGeWkKn/8l4QLWnVxY/702.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 HISTORIA 
@@ -26,11 +30,15 @@ HISTORIA
 rtmp://46.165.251.98/stream playpath=historiab?id=21918&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/g5uYzpc.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]HISTORIA [/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](http)[/B][/COLOR]
 rtmp://178.162.211.231/stream playpath=historiab?id=21918&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/g5uYzpc.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]HISTORIA [COLOR green](TEMP->15.05 21h) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/U2zfGeWkKn/8l4QLWnVxY/721.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 NATIONAL GEOGRAPHIC CHANNEL 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/dOcMZGB.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]NATIONAL GEOGRAPHIC CHANNEL [/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](http)[/B][/COLOR]
 rtmp://146.185.16.56/live playpath=natgeoax?id=84757&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=10    conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226   pageUrl=http://www.embeducaster.com/embedplayer/natgeoax/1/650/500 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dOcMZGB.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]NATIONAL GEOGRAPHIC CHANNEL [COLOR green](TEMP->15.05 21h) [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/U2zfGeWkKn/8l4QLWnVxY/723.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 NAT GEO WILD 
@@ -40,11 +48,3 @@ plugin://plugin.video.f4mTester/?url=http%3A%2F%2Fwww.x-media.tv%3A58080%2Flive%
 ************************************************** 
 ODISSEIA 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/QyFiRiO.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]ODISSEIA [/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](http)[/B][/COLOR]
-rtmp://46.28.53.142/live playpath=odisseiax?id=84765&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=10    conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226   pageUrl=http://www.embeducaster.com/embedplayer/natgeoax/1/650/500 
-
-************************************************** 
-TLC 
- 
- 
-
-************************************************** 
