@@ -1,0 +1,16 @@
+#EXTM3U
+************************************************** 
+»»»»»» INGLATERRA 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Z5LleK4.png",[B][COLOR red]»»»»»» [/B][/COLOR][B][COLOR white]INGLATERRA[/B][/COLOR][B][COLOR red] ««««««[/B][/COLOR] 
+http://0.0.0.0:1234 
+************************************************** 
+BBC ONE 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IGYGsia.png",[B][COLOR lawngreen]•[/B][/COLOR] UK [B][COLOR white]BBC ONE [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](Plexus)[/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://485a771d1389af6fcb5fa50e7534c46b9553b6e5&mode=1&name=acestream&mode=1&name=SPORTS 
+
+************************************************** 
+BBC TWO 
+ 
+ 
+
+************************************************** 
