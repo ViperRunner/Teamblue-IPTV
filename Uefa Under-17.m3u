@@ -3,7 +3,6 @@
 #EXTINF:-1 tvg-logo="http://i.imgur.com/s7qeg3W.png",[B][COLOR skyblue]UEFA - SUB-17[/B][/COLOR]
 http://0.0.0.0:1234
 
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/2joFQr5.png",[B][COLOR gold]14.05 / 12h00 PORTUGAL-AUSTRIA[/B][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zblX9QP.png",[B][COLOR gold]14.05 / 17h00 ALEMANHA-BELGICA[/B][/COLOR]
@@ -12,3 +11,11 @@ http://0.0.0.0:1234
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="http://i.imgur.com/DvLwuJB.png",[B][COLOR gold]15.05 / 17h00 ESPANHA-INGLATERRA[/B][/COLOR]
 http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-logo=http://i.imgur.com/vcfu9M3.png,[B][COLOR red]CANAIS DISPONIVEIS[/B][/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MZBusxr.png",[B][COLOR ]•[/B][/COLOR] PT [B][COLOR [B][COLOR white]EUROSPORT 2 [COLOR green](TEMP->14.05 22h30)[/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/yPcOH3vGYZ/RYOskWgmQn/682.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MZBusxr.png",[B][COLOR ]•[/B][/COLOR] PT [B][COLOR [B][COLOR white]EUROSPORT 2 [COLOR green](TEMP->14.05 22h30)[/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/yPcOH3vGYZ/RYOskWgmQn/628.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
