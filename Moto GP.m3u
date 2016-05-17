@@ -1,7 +1,5 @@
 #EXTM3U
  
-#EXTINF:-1 tvg-logo="http://i.imgur.com/KbRXwLr.png",[B][COLOR skyblue]AGENDA DAS TRANSMISSOES TELEVISIVAS[/B][/COLOR]   
-http://0.0.0.0:1234   
 #EXTINF:-1 tvg-logo="http://i.imgur.com/AxHsgKI.jpg",[B][COLOR skyblue]MOTOGP 2016[/B][/COLOR]   
 http://0.0.0.0:1234   
 #EXTINF:-1 tvg-logo="http://i.imgur.com/YWdMfRm.jpg",[B][COLOR skyblue]GP ITALIA  [/B][/COLOR] 
