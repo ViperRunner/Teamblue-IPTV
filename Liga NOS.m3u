@@ -1,44 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/hE4oRiJ.png",[B][COLOR skyblue]LIGA NOS - JORNADA 34[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hE4oRiJ.png",[B][COLOR skyblue]LIGA NOS[/B][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/YajWrfs.png",[B][COLOR gold]15.05 / 17h00 BENFICA-NACIONAL MADEIRA[/B][/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/0cnsKMR.png",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR [B][COLOR white]ARENAVISION 9[/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](Plexus)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://770e83d3a3e26cd326574529d41544c7e32d07d8&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/A2DKVvM.png",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR [B][COLOR white]ARENAVISION 10[/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](Plexus)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://bced6d4b19765cd883c2b1345bb74e388ca083cc&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/FXDakNf.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR [B][COLOR white]BENFICA TV 1[/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](Plexus)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://f641b69c412e13179f5891981afefd7d119e4a93&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/FXDakNf.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR [B][COLOR white]BENFICA TV 1[/B][/COLOR] [B][COLOR green][FHD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http%3A%2F%2Fftvnext.stmteam.org%3A8000%2Flive%2Fpauloleite3%2FcarlosXXlfts%2F103.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1 tvg-logo="http://i.imgur.com/FXDakNf.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR [B][COLOR white]BENFICA TV 1[/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http%3A%2F%2Ftv.kitboxtv.com%3A8000%2Flive%2FOzkan%2FErdem%2F717.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1 tvg-logo="http://i.imgur.com/FXDakNf.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR [B][COLOR white]BENFICA TV 1[/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/717.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1 tvg-logo="http://i.imgur.com/FXDakNf.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR [B][COLOR white]BENFICA TV 1[/B][/COLOR] [B][COLOR orange][LQ] [/B][/COLOR][B][COLOR red](http)[/B][/COLOR]
-rtmp://206.190.129.28/live playPath=slbueich?id=22954&pk=b7fca1436f844715207befb980f8505afca13f8d81de8b45a90609577210e932 swfVfy=1 timeout=15 live=true conn=S:OK swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf flashver=WIN\2021,0,0,216 pageUrl=http://www.streamifyplayer.com/embedplayer/slbueich/1/620/430
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3C563o6.png",[B][COLOR lawngreen]•[/B][/COLOR] UK [B][COLOR [B][COLOR white]BT SPORT EUROPE[/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://worldtv.noip.me:8000/live/Ozkan/Erdem/433.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/fQeDGpj.png",[B][COLOR gold]15.05 / 17h00 BRAGA-SPORTING[/B][/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR [B][COLOR white]SPORT TV 1[/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](Plexus)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://bf31f0641c56bc891da56e233063f0f463c634c3&mode=1&name=acestream&mode=1&name=SPORTS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR [B][COLOR white]SPORT TV 1[/B][/COLOR] [B][COLOR green][FHD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http%3A%2F%2Fftvnext.stmteam.org%3A8000%2Flive%2Fpauloleite3%2FcarlosXXlfts%2F98.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR [B][COLOR white]SPORT TV 1[/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http%3A%2F%2Fftvnext.stmteam.org%3A8000%2Flive%2Fpauloleite3%2FcarlosXXlfts%2F2.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR [B][COLOR white]SPORT TV 1[/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/280.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR [B][COLOR white]SPORT TV 1[/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](http)[/B][/COLOR]
-rtmp://146.185.16.56/live/ playPath=10uiui?id=87110&pk=b7fca1436f844715207befb980f8505afca13f8d81de8b45a90609577210e932 swfVfy=1 timeout=10 conn=S:OK live=true swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2021,0,0,216 pageUrl=http://www.embeducaster.com/embedplayer/10uiui/1/730/430
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR [B][COLOR white]SPORT TV 1[/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](http)[/B][/COLOR]
-rtmp://146.185.16.58/live playPath=10uiui?id=26650&pk=b7fca1436f844715207befb980f8505afca13f8d81de8b45a90609577210e932 swfVfy=1 timeout=15 conn=S:OK live=true swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf  flashver=WIN\2021,0,0,216 pageUrl=http://www.embedezcast.com/embedplayer/10uiui/1/790/420
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR [B][COLOR white]SPORT TV 1[/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](http)[/B][/COLOR]
-rtmp://146.185.16.64/live playPath=10uiui?id=26650&pk=b7fca1436f844715207befb980f8505afca13f8d81de8b45a90609577210e932 swfVfy=1 timeout=15 conn=S:OK live=true swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf  flashver=WIN\2021,0,0,216 pageUrl=http://www.embedezcast.com/embedplayer/10uiui/1/790/420
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3rjsCFB.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR [B][COLOR white]SPORT TV 1[/B][/COLOR] [B][COLOR blue][SD] [/B][/COLOR][B][COLOR red](http)[/B][/COLOR]
-rtmp://46.28.53.22/live playPath=10uiui?id=26650&pk=b7fca1436f844715207befb980f8505afca13f8d81de8b45a90609577210e932 swfVfy=1 timeout=15 conn=S:OK live=true swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf  flashver=WIN\2021,0,0,216 pageUrl=http://www.embedezcast.com/embedplayer/10uiui/1/790/420
