@@ -5,8 +5,8 @@
 http://0.0.0.0:1234 
 ************************************************** 
 A&E 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/u7IKaDs.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]A&E [COLOR green](TEMP->16.05 21h) [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/PtQRKoEXBh/SCP4D7caAm/726.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/u7IKaDs.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]A&E [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/hugo/hugo/79.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 DISCOVERY CANNEL 
@@ -15,8 +15,8 @@ plugin://plugin.video.f4mTester/?url=http%3A%2F%2Fworldtv.noip.me%3A8000%2Flive%
 
 ************************************************** 
 E! 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Ta2wvuo.png",[B][COLOR ]•[/B][/COLOR] PT [B][COLOR white]E! [COLOR green](TEMP->16.05 21h) [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/PtQRKoEXBh/SCP4D7caAm/702.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+ 
+ 
 
 ************************************************** 
 HISTORIA 
@@ -26,11 +26,15 @@ rtmp://46.165.251.98/stream playpath=historiab?id=21918&pk=e48aa857174960dbfa3a7
 rtmp://178.162.211.231/stream playpath=historiab?id=21918&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/g5uYzpc.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]HISTORIA [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http%3A%2F%2Fgiptv.gemaccs.com%3A8899%2Flive%2Fbelkhirabdou1%2Fbelkhirabdou1%2F377.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/g5uYzpc.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]HISTORIA [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/hugo/hugo/99.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 NATIONAL GEOGRAPHIC CHANNEL 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/dOcMZGB.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]NATIONAL GEOGRAPHIC CHANNEL [/B][/COLOR] [B][COLOR royalblue][HD 1080p] [B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http%3A%2F%2Fgiptv.gemaccs.com%3A8899%2Flive%2Fbelkhirabdou1%2Fbelkhirabdou1%2F472.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dOcMZGB.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]NATIONAL GEOGRAPHIC CHANNEL [/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/hugo/hugo/73.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 NAT GEO WILD 
@@ -44,7 +48,7 @@ rtmp://46.28.53.142/live playpath=odisseiax?id=84765&pk=e48aa857174960dbfa3a76f4
 
 ************************************************** 
 TLC 
- 
- 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZfEc8g5.png",[B][COLOR ]•[/B][/COLOR] PT [B][COLOR white]TLC [/B][/COLOR] [B][COLOR green][HD] [/B][/COLOR][B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/hugo/hugo/77.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
