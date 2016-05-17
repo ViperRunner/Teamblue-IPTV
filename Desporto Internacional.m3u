@@ -6,21 +6,21 @@ http://0.0.0.0:1234
 ************************************************** 
 ARENAVISION 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Fi9iCjo.png",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR white]ARENAVISION 1 [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](Plexus)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://aecd52ebb6277372ceadd82a8db774e7c81b5039&mode=1&name=acestream&mode=1&name=SPORTS 
+plugin://program.plexus/?mode=1&url=acestream://df5e6b21940b9f56fb6f55cafcd2c38de0ba7f06&mode=1&name=acestream&mode=1&name=SPORTS 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/GXIUOwx.png",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR white]ARENAVISION 2 [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](Plexus)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://034f28a5c77f9de0a4bf2e8fcff807da9abfbde1&mode=1&name=acestream&mode=1&name=SPORTS 
+plugin://program.plexus/?mode=1&url=acestream://39eb8aa152e28148bd9a69960291b0398188d244&mode=1&name=acestream&mode=1&name=SPORTS 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/JdhMWOk.png",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR white]ARENAVISION 3 [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](Plexus)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://45b10cd864f66525c0122362d33b94ccf2e7bfe4&mode=1&name=acestream&mode=1&name=SPORTS 
+plugin://program.plexus/?mode=1&url=acestream://af106aa68b7710889684b9c789bbaec2a3979692&mode=1&name=acestream&mode=1&name=SPORTS 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/SpkdaR0.png",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR white]ARENAVISION 4 [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](Plexus)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://0fabfd96a9e7f0212a6068b1e0b0c4f3bdcf6ec3&mode=1&name=acestream&mode=1&name=SPORTS 
+plugin://program.plexus/?mode=1&url=acestream://8977077d30d5cdb17ce603a58e03e1d7d0aa2240&mode=1&name=acestream&mode=1&name=SPORTS 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/rihnkMv.png",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR white]ARENAVISION 5 [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](Plexus)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://c95a113175bf52a26e3b177d04b4d04353ac418b&mode=1&name=acestream&mode=1&name=SPORTS 
+plugin://program.plexus/?mode=1&url=acestream://6cfdfaf4049f4339b4f317c2d71869a6b6b74d8a&mode=1&name=acestream&mode=1&name=SPORTS 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/UOjiqCF.png",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR white]ARENAVISION 6 [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](Plexus)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://d37a0ed9e37dc521e57e1210cde37d38b14c6d2b&mode=1&name=acestream&mode=1&name=SPORTS 
+plugin://program.plexus/?mode=1&url=acestream://afa7e6d0f117b02bbbb005f99ceacf1e15d24459&mode=1&name=acestream&mode=1&name=SPORTS 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G3xmauW.png",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR white]ARENAVISION 7 [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](Plexus)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://0e341fc9ea6caf10b6564fc03723c1f5d65f6099&mode=1&name=acestream&mode=1&name=SPORTS 
+plugin://program.plexus/?mode=1&url=acestream://1d02723d2951c46c5c914f5889f619f3d3d60baf&mode=1&name=acestream&mode=1&name=SPORTS 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/TdgjIIx.png",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR white]ARENAVISION 8 [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](Plexus)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://279826b1f8b302a9fa33644c33d9feaf1164f4b9&mode=1&name=acestream&mode=1&name=SPORTS 
+plugin://program.plexus/?mode=1&url=acestream://cb1b9d41430da013f07ab2affc8c3216e62cc81f&mode=1&name=acestream&mode=1&name=SPORTS 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/0cnsKMR.png",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR white]ARENAVISION 9 [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](Plexus)[/B][/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://770e83d3a3e26cd326574529d41544c7e32d07d8&mode=1&name=acestream&mode=1&name=SPORTS 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/A2DKVvM.png",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR white]ARENAVISION 10 [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](Plexus)[/B][/COLOR]
@@ -30,21 +30,21 @@ plugin://program.plexus/?mode=1&url=acestream://1cb5faaaef8165765a9d069ba13b20f4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xnpnMLa.png",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR white]ARENAVISION 12 [/B][/COLOR] [B][COLOR royalblue][HD] [B][COLOR red](Plexus)[/B][/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://46204e81564a4ad5f38f67aac8f3fab16dcfe94a&mode=1&name=acestream&mode=1&name=SPORTS 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G734OM8.png",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR white]ARENAVISION 13 [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](Plexus)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://5ce67c887de8fa560eee16753cc0d84830d800c8&mode=1&name=acestream&mode=1&name=SPORTS 
+plugin://program.plexus/?mode=1&url=acestream://3b43069329b2adb29a31567532a0a6535f2773e9&mode=1&name=acestream&mode=1&name=SPORTS 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/OuiyrIa.png",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR white]ARENAVISION 14 [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](Plexus)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://0937225dfedb7bcb01901a99d811ceacd1bc1070&mode=1&name=acestream&mode=1&name=SPORTS 
+plugin://program.plexus/?mode=1&url=acestream://ff429498d6228e040074002ddfa9d08ac61ba09e&mode=1&name=acestream&mode=1&name=SPORTS 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/lBK3eHN.png",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR white]ARENAVISION 15 [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](Plexus)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://9ab93d768e901961a9851384ecbc71d90987da81&mode=1&name=acestream&mode=1&name=SPORTS 
+plugin://program.plexus/?mode=1&url=acestream://80e39baabf5d1b8702a2e69a22a2bf01a9776eba&mode=1&name=acestream&mode=1&name=SPORTS 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/1mxNJcG.png",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR white]ARENAVISION 16 [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](Plexus)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://4430148b90bb4a952da9e5c9774d39fba51b0a81&mode=1&name=acestream&mode=1&name=SPORTS 
+plugin://program.plexus/?mode=1&url=acestream://fb376b9c500dab700e08b5e44de7bc249fe6ee83&mode=1&name=acestream&mode=1&name=SPORTS 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/nZfjsX0.png",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR white]ARENAVISION 17 [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](Plexus)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://5d9775a93fcbaaaeeadd716510b4255e7df6b85e&mode=1&name=acestream&mode=1&name=SPORTS 
+plugin://program.plexus/?mode=1&url=acestream://7b84e024dc34246ccc0739643f510ad4d9b66bca&mode=1&name=acestream&mode=1&name=SPORTS 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/97LTrHf.png",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR white]ARENAVISION 18 [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](Plexus)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://83a3011db96a09b36774e3231333f4f0559f99e3&mode=1&name=acestream&mode=1&name=SPORTS 
+plugin://program.plexus/?mode=1&url=acestream://78c87fbfb16782528861aaafddd28d6e829b2121&mode=1&name=acestream&mode=1&name=SPORTS 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/49UOinV.png",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR white]ARENAVISION 19 [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](Plexus)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://2f5a7965ef2fa6788fe2d025552c0561f16edd7b&mode=1&name=acestream&mode=1&name=SPORTS 
+plugin://program.plexus/?mode=1&url=acestream://72a814d15884761ee3d0dcbc311ccf5c1676df80&mode=1&name=acestream&mode=1&name=SPORTS 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/vVNtyJv.png",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR white]ARENAVISION 20 [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](Plexus)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://2f56f756eb2b511a5a5d7bb6798581d46e15fda2&mode=1&name=acestream&mode=1&name=SPORTS 
+plugin://program.plexus/?mode=1&url=acestream://64d664073734c37a0fb93eaf2a28ca5a0a03b902&mode=1&name=acestream&mode=1&name=SPORTS 
 
 ************************************************** 
 ARENA SPORT 1 
