@@ -4,5 +4,50 @@
 http://0.0.0.0:1234   
 #EXTINF:-1 tvg-logo="http://i.imgur.com/AxHsgKI.jpg",[B][COLOR skyblue]MOTOGP 2016[/B][/COLOR]   
 http://0.0.0.0:1234   
-#EXTINF:-1 tvg-logo="",[B][COLOR skyblue]GP [/B][/COLOR] 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YWdMfRm.jpg",[B][COLOR skyblue]GP ITALIA  [/B][/COLOR] 
+http://0.0.0.0:1234   
+#EXTINF:-1,[B][COLOR white]--------------------------------------------------[/B][/COLOR]   
+http://0.0.0.0:1234   
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MgPvryf.jpg",[B][COLOR gold]20.05 / 08h00 MOTO3 - FP1  [/B][/COLOR]
+http://0.0.0.0:1234   
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MgPvryf.jpg",[B][COLOR gold]20.05 / 08h55 MOTOGP - FP1  [/B][/COLOR]
+http://0.0.0.0:1234   
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MgPvryf.jpg",[B][COLOR gold]20.05 / 09h55 MOTO2 - FP1  [/B][/COLOR]
+http://0.0.0.0:1234   
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MgPvryf.jpg",[B][COLOR gold]20.05 / 12h10 MOTO3 - FP2  [/B][/COLOR]
+http://0.0.0.0:1234   
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MgPvryf.jpg",[B][COLOR gold]20.05 / 13h05 MOTOGP - FP2  [/B][/COLOR]
+http://0.0.0.0:1234   
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MgPvryf.jpg",[B][COLOR gold]20.05 / 14h05 MOTO2 - FP2  [/B][/COLOR]
+http://0.0.0.0:1234   
+#EXTINF:-1,[B][COLOR white]--------------------------------------------------[/B][/COLOR]   
+http://0.0.0.0:1234   
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MgPvryf.jpg",[B][COLOR gold]21.05 / 08h00 MOTO3 - FP3  [/B][/COLOR]
+http://0.0.0.0:1234   
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MgPvryf.jpg",[B][COLOR gold]21.05 / 08h55 MOTOGP - FP3  [/B][/COLOR]
+http://0.0.0.0:1234   
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MgPvryf.jpg",[B][COLOR gold]21.05 / 09h55 MOTO2 - FP3  [/B][/COLOR]
+http://0.0.0.0:1234   
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MgPvryf.jpg",[B][COLOR gold]21.05 / 11h35 MOTO3 - QP  [/B][/COLOR]
+http://0.0.0.0:1234   
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MgPvryf.jpg",[B][COLOR gold]21.05 / 12h30 MOTOGP - FP4  [/B][/COLOR]
+http://0.0.0.0:1234   
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MgPvryf.jpg",[B][COLOR gold]21.05 / 13h10 MOTOGP - Q1  [/B][/COLOR]
+http://0.0.0.0:1234   
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MgPvryf.jpg",[B][COLOR gold]21.05 / 14h05 MOTO2 - QP  [/B][/COLOR]
+http://0.0.0.0:1234   
+#EXTINF:-1,[B][COLOR white]--------------------------------------------------[/B][/COLOR]   
+http://0.0.0.0:1234   
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MgPvryf.jpg",[B][COLOR gold]22.05 / 07h40 MOTO3-MOTO2-MOTOGP - WUP  [/B][/COLOR]
+http://0.0.0.0:1234   
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MgPvryf.jpg",[B][COLOR gold]22.05 / 10h00 MOTO3 - RAC  [/B][/COLOR]
+http://0.0.0.0:1234   
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MgPvryf.jpg",[B][COLOR gold]22.05 / 11h20 MOTO2 - RAC  [/B][/COLOR]
+http://0.0.0.0:1234   
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MgPvryf.jpg",[B][COLOR gold]22.05 / 13h00 MOTOGP - RAC  [/B][/COLOR]
+http://0.0.0.0:1234   
+#EXTINF:-1,[B][COLOR white]--------------------------------------------------[/B][/COLOR]   
+http://0.0.0.0:1234   
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vcfu9M3.png",[B][COLOR red]CANAIS DISPONIVEIS  [/B][/COLOR] 
 http://0.0.0.0:1234   
