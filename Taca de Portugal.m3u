@@ -1,9 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/TCLwyWP.png",[B][COLOR skyblue]TACA DE PORTUGAL - FINAL[/B][/COLOR]																																																																																																																																																																																																																																																															
-http://0.0.0.0:1234																																																																																																																																																																																																																																																														#REF!	#REF!
-																																																																																																																																																																																																																																																														#REF!	#REF!
-																																																																																																																																																																																																																																																														#REF!	#REF!
-#EXTINF:-1 tvg-logo="http://i.imgur.com/0edMOEn.png",[B][COLOR gold]22.05 / 17h15 PORTO-BRAGA[/B][/COLOR]	[B][COLOR gold]22.05 / 17h15PORTO-BRAGA[/B][/COLOR]	22.05 / 17h15 [/B][/COLOR]http://i.imgur.com/0edMOEn.png	 / 17h15 PORTO-BRAGA[/B][/COLOR]http://i.imgur.com/0edMOEn.png	17h15 PORTO-BRAGAhttp://i.imgur.com/0edMOEn.png		 PORTO-BRAGA[/B][/COLOR]http://i.imgur.com/0edMOEn.png	PORTO-BRAGA[/B][/COLOR]		[/B][/COLOR]http://i.imgur.com/0edMOEn.png			http://i.imgur.com/0edMOEn.png																																																																																																																																																																																																																																																		#REF!	#REF!
-http://0.0.0.0:1234																																																																																																																																																																																																																																																														#REF!	#REF!
-																																																																																																																																																																																																																																																														#REF!	#REF!
+#EXTINF:-1 tvg-logo="http://i.imgur.com/TCLwyWP.png",[B][COLOR skyblue]TACA DE PORTUGAL - FINAL[/B][/COLOR]
+http://0.0.0.0:1234
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0edMOEn.png",[B][COLOR gold]22.05 / 17h15 PORTO-BRAGA[/B][/COLOR]
+http://0.0.0.0:1234
