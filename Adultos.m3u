@@ -37,6 +37,8 @@ FRENCH LOVER TV
 HOT 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/PNlKIGF.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]HOT [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](http)[/B][/COLOR]
 rtmp://199.195.194.60/live playpath=porcas?id=86529&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 conn=S:OK swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/porcas/1/599/399 live=true timeout=10 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PNlKIGF.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]HOT [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/hugo/hugo/113.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 HUSTLER 
@@ -78,6 +80,8 @@ plugin://plugin.video.f4mTester/?url=http://italians-world.net:6969/live/1bruno/
 PLAYBOY 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/aWVrG8f.png",[B][COLOR lawngreen]•[/B][/COLOR] US [B][COLOR white]PLAYBOY [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/PtQRKoEXBh/SCP4D7caAm/396.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/aWVrG8f.png",[B][COLOR lawngreen]•[/B][/COLOR] US [B][COLOR white]PLAYBOY [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/hugo/hugo/112.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 PRIVATE 
@@ -113,10 +117,6 @@ SEXTREME
 VENUS 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/u86OVer.png",[B][COLOR lawngreen]•[/B][/COLOR] US [B][COLOR white]VENUS [/B][/COLOR] [B][COLOR royalblue][HD 720p] [B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/PtQRKoEXBh/SCP4D7caAm/395.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/u86OVer.png",[B][COLOR lawngreen]•[/B][/COLOR] US [B][COLOR white]VENUS [/B][/COLOR] [B][COLOR royalblue][HD 720p] [B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/hugo/hugo/111.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
-************************************************** 
-XXL 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/HMqvWV6.png",[B][COLOR lawngreen]•[/B][/COLOR] FR [B][COLOR white]XXL [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](Plexus)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://01533f0cea3ad3f3fdf6cfbfe9b8e29f8adf8509&mode=1&name=acestream&mode=1&name=SPORTS 
-
-************************************************** 
