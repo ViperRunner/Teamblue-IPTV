@@ -1,14 +1,15 @@
 #EXTM3U
 
-»»»»»» PORTUGAL 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/aN0mPP7.png",[B][COLOR red]»»»»»» [/B][/COLOR][B][COLOR white]PORTUGAL[/B][/COLOR][B][COLOR red] ««««««[/B][/COLOR] 
-http://0.0.0.0:1234 
 #EXTINF:-1,[B][COLOR yellow]ALGUNS CANAIS PRECISAM DE MAIS QUE UM CLIQUE PARA ABRIR[/B][/COLOR]
 http://0.0.0.0:1234 
 #EXTINF:-1,[B][COLOR yellow]SE OS CANAIS NAO ABRIREM LIMPEM A CACHE E VOLTEM A TENTAR[/B][/COLOR]
 http://0.0.0.0:1234
-#EXTINF:-1,[B][COLOR white]--------------------------------------------------[/B][/COLOR]   
+#EXTINF:-1,[B][COLOR white]--------------------------------------------------[/B][/COLOR]  
 http://0.0.0.0:1234
+
+»»»»»» PORTUGAL 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/aN0mPP7.png",[B][COLOR red]»»»»»» [/B][/COLOR][B][COLOR white]PORTUGAL[/B][/COLOR][B][COLOR red] ««««««[/B][/COLOR] 
+http://0.0.0.0:1234 
 ************************************************** 
 RTP 1 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pjjlbCF.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]RTP 1 [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](http)[/B][/COLOR]
@@ -78,8 +79,8 @@ plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/hugo/hug
 
 ************************************************** 
 SIC NOTICIAS 
- 
- 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qdQ02xS.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SIC NOTICIAS [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptv.temnet.pt:8000/live/sarmento/sarmento/10.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 SIC RADICAL 
@@ -101,8 +102,8 @@ plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/hugo/hug
 
 ************************************************** 
 TVI 24 
- 
- 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nYX9hTR.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]TVI 24 [/B][/COLOR] [B][COLOR royalblue][HD 720p] [B][COLOR red](http)[/B][/COLOR]
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8   
 
 ************************************************** 
 TVI FICCAO 
@@ -132,8 +133,8 @@ plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/hugo/hug
 
 ************************************************** 
 SPORTING TV 
- 
- 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SPORTING TV [/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://bestiptv.diz.la:8000/live/Campeao/zzpeA32Mqg/214.ts|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 CMTV 
