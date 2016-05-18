@@ -3,6 +3,8 @@
 »»»»»» PORTUGAL 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/aN0mPP7.png",[B][COLOR red]»»»»»» [/B][/COLOR][B][COLOR white]PORTUGAL[/B][/COLOR][B][COLOR red] ««««««[/B][/COLOR] 
 http://0.0.0.0:1234 
+#EXTINF:-1,[B][COLOR yellow]ALGUNS CANAIS PRECISAM DE MAIS QUE UM CLIQUE PARA ABRIR[/B][/COLOR]
+http://0.0.0.0:1234 
 #EXTINF:-1,[B][COLOR yellow]SE OS CANAIS NAO ABRIREM LIMPEM A CACHE E VOLTEM A TENTAR[/B][/COLOR]
 http://0.0.0.0:1234 
 ************************************************** 
