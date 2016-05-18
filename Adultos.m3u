@@ -24,6 +24,8 @@ BRAZZERS TV EUROPE
 CENTO X CENTO 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/dMjv1oM.png",[B][COLOR lawngreen]•[/B][/COLOR] UK [B][COLOR white]CENTO X CENTO [/B][/COLOR] [B][COLOR royalblue][FHD 1080p] [B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://italians-world.net:6969/live/1bruno/1bruno/435.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dMjv1oM.png",[B][COLOR lawngreen]•[/B][/COLOR] UK [B][COLOR white]CENTO X CENTO [/B][/COLOR] [B][COLOR royalblue][HD] [B][COLOR red](Plexus)[/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://6206b03bb942169e0f0635f6e9c12b28d5f0b231&mode=1&name=acestream&mode=1&name=SPORTS 
 
 ************************************************** 
 DORCEL TV 
@@ -53,8 +55,8 @@ plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/hugo/hug
 
 ************************************************** 
 HUSTLER 
- 
- 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AjzCkE3.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]HUSTLER [/B][/COLOR] [B][COLOR royalblue][HD] [B][COLOR red](Plexus)[/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://c09916206950e5dbd914898620f0cef0a2415925&mode=1&name=acestream&mode=1&name=SPORTS 
 
 ************************************************** 
 JASMIN TV 
@@ -63,8 +65,8 @@ JASMIN TV
 
 ************************************************** 
 O-LA-LA 
- 
- 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/uboe37v.png",[B][COLOR ]•[/B][/COLOR] US [B][COLOR white]O-LA-LA [/B][/COLOR] [B][COLOR royalblue][HD] [B][COLOR red](Plexus)[/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://4fcc98b714af289fb70bcccdb3ac34d223aedaa7&mode=1&name=acestream&mode=1&name=SPORTS 
 
 ************************************************** 
 PASSIONXXX 
@@ -103,21 +105,27 @@ plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/PtQRKoEXBh/SC
 REDLIGHT 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/4hkhNSx.png",[B][COLOR lawngreen]•[/B][/COLOR] US [B][COLOR white]REDLIGHT [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/PtQRKoEXBh/SCP4D7caAm/1412.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4hkhNSx.png",[B][COLOR lawngreen]•[/B][/COLOR] US [B][COLOR white]REDLIGHT [/B][/COLOR] [B][COLOR royalblue][HF] [B][COLOR red](Plexus)[/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://47146c9977bd00a38563c6f422002fdfbd68d233&mode=1&name=acestream&mode=1&name=SPORTS 
 
 ************************************************** 
 SATISFACTION 
- 
- 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/GF6hRDX.png",[B][COLOR ]•[/B][/COLOR] US [B][COLOR white]SATISFACTION [/B][/COLOR] [B][COLOR royalblue][HD] [B][COLOR red](Plexus)[/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://8ccddc62a5040e745a10bb09a341359d322980e5&mode=1&name=acestream&mode=1&name=SPORTS 
 
 ************************************************** 
 SCT 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IZAwlob.png",[B][COLOR ]•[/B][/COLOR] US [B][COLOR white]SCT [/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://italians-world.net:6969/live/1bruno/1bruno/439.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IZAwlob.png",[B][COLOR ]•[/B][/COLOR] US [B][COLOR white]SCT [/B][/COLOR] [B][COLOR royalblue][HD] [B][COLOR red](Plexus)[/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://b7de4fb28531c0ad3b084cfdfed64f79cbb54ea2&mode=1&name=acestream&mode=1&name=SPORTS 
 
 ************************************************** 
 SEXTO SENSO 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/UHpPAG7.png",[B][COLOR ]•[/B][/COLOR] US [B][COLOR white]SEXTO SENSO [/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://italians-world.net:6969/live/1bruno/1bruno/437.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UHpPAG7.png",[B][COLOR ]•[/B][/COLOR] US [B][COLOR white]SEXTO SENSO [/B][/COLOR] [B][COLOR royalblue][HD] [B][COLOR red](Plexus)[/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://5473bab798e27e8d2f8b5003c7fa8569405b79e5&mode=1&name=acestream&mode=1&name=SPORTS 
 
 ************************************************** 
 SEXTREME 
@@ -137,122 +145,3 @@ XXL
 plugin://program.plexus/?mode=1&url=acestream://01533f0cea3ad3f3fdf6cfbfe9b8e29f8adf8509&mode=1&name=acestream&mode=1&name=SPORTS 
 
 ************************************************** 
-
-************************************************** 
-
-BLUE HUSTLER 
- 
- 
-
-************************************************** 
-BRAZZERS TV EUROPE 
- 
- 
-
-************************************************** 
-CENTO X CENTO 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/dMjv1oM.png",[B][COLOR lawngreen]•[/B][/COLOR] UK [B][COLOR white]CENTO X CENTO [/B][/COLOR] [B][COLOR royalblue][FHD 1080p] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://italians-world.net:6969/live/1bruno/1bruno/435.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-
-************************************************** 
-DORCEL TV 
- 
- 
-
-************************************************** 
-EVIL ANGEL TV 
- 
- 
-
-************************************************** 
-FRENCH LOVER TV 
- 
- 
-
-************************************************** 
-HOT 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/PNlKIGF.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]HOT [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](http)[/B][/COLOR]
-rtmp://199.195.194.60/live playpath=porcas?id=86529&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 conn=S:OK swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/porcas/1/599/399 live=true timeout=10 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/PNlKIGF.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]HOT [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/hugo/hugo/113.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-
-************************************************** 
-HUSTLER 
- 
- 
-
-************************************************** 
-JASMIN TV 
- 
- 
-
-************************************************** 
-O-LA-LA 
- 
- 
-
-************************************************** 
-PASSIONXXX 
- 
- 
-
-************************************************** 
-PENTHOUSE 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/knluNWt.png",[B][COLOR lawngreen]•[/B][/COLOR] US [B][COLOR white]PENTHOUSE [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/PtQRKoEXBh/SCP4D7caAm/1405.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/knluNWt.png",[B][COLOR lawngreen]•[/B][/COLOR] US [B][COLOR white]PENTHOUSE [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/PtQRKoEXBh/SCP4D7caAm/1406.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/knluNWt.png",[B][COLOR lawngreen]•[/B][/COLOR] US [B][COLOR white]SATISFACTION [/B][/COLOR] [B][COLOR royalblue][HD 1080p] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/PtQRKoEXBh/SCP4D7caAm/1414.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/knluNWt.png",[B][COLOR lawngreen]•[/B][/COLOR] US [B][COLOR white]FRENCH LOVER TV [/B][/COLOR] [B][COLOR royalblue][FHD 1080p] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/PtQRKoEXBh/SCP4D7caAm/397.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-
-************************************************** 
-PINK O TV 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UHpPAG7.png",[B][COLOR lawngreen]•[/B][/COLOR] US [B][COLOR white]PINK O TV [/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://italians-world.net:6969/live/1bruno/1bruno/433.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-
-************************************************** 
-PLAYBOY 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/aWVrG8f.png",[B][COLOR lawngreen]•[/B][/COLOR] US [B][COLOR white]PLAYBOY [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/PtQRKoEXBh/SCP4D7caAm/396.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/aWVrG8f.png",[B][COLOR lawngreen]•[/B][/COLOR] US [B][COLOR white]PLAYBOY [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/hugo/hugo/112.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-
-************************************************** 
-PRIVATE 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/lhIgBCW.png",[B][COLOR lawngreen]•[/B][/COLOR] US [B][COLOR white]PRIVATE [/B][/COLOR] [B][COLOR royalblue][HD 720p] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/PtQRKoEXBh/SCP4D7caAm/398.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-
-************************************************** 
-REDLIGHT 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4hkhNSx.png",[B][COLOR lawngreen]•[/B][/COLOR] US [B][COLOR white]REDLIGHT [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/PtQRKoEXBh/SCP4D7caAm/1412.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-
-************************************************** 
-SATISFACTION 
- 
- 
-
-************************************************** 
-SCT 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IZAwlob.png",[B][COLOR ]•[/B][/COLOR] US [B][COLOR white]SCT [/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://italians-world.net:6969/live/1bruno/1bruno/439.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-
-************************************************** 
-SEXTO SENSO 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UHpPAG7.png",[B][COLOR ]•[/B][/COLOR] US [B][COLOR white]SEXTO SENSO [/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://italians-world.net:6969/live/1bruno/1bruno/437.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-
-************************************************** 
-SEXTREME 
- 
- 
-
-************************************************** 
-VENUS 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/u86OVer.png",[B][COLOR lawngreen]•[/B][/COLOR] US [B][COLOR white]VENUS [/B][/COLOR] [B][COLOR royalblue][HD 720p] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/PtQRKoEXBh/SCP4D7caAm/395.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/u86OVer.png",[B][COLOR lawngreen]•[/B][/COLOR] US [B][COLOR white]VENUS [/B][/COLOR] [B][COLOR royalblue][HD 720p] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/hugo/hugo/111.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-
