@@ -17,3 +17,7 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo=http://i.imgur.com/vcfu9M3.png,[B][COLOR red]CANAIS DISPONIVEIS[/B][/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0tybBJ0.jpg",[B][COLOR ]•[/B][/COLOR] PT [B][COLOR [B][COLOR white]EUROSPORT 2 XTRA[/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/hugo/hugo/585.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+
+
