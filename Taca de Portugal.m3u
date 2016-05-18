@@ -2,7 +2,12 @@
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/TCLwyWP.png",[B][COLOR skyblue]TACA DE PORTUGAL - FINAL[/B][/COLOR]
 http://0.0.0.0:1234
-
+#EXTINF:-1,[B][COLOR yellow]ALGUNS CANAIS PRECISAM DE MAIS QUE UM CLIQUE PARA ABRIR[/B][/COLOR]
+http://0.0.0.0:1234 
+#EXTINF:-1,[B][COLOR yellow]SE OS CANAIS NAO ABRIREM LIMPEM A CACHE E VOLTEM A TENTAR[/B][/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1,[B][COLOR white]--------------------------------------------------[/B][/COLOR]   
+http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/0edMOEn.png",[B][COLOR gold]22.05 / 17h15 PORTO-BRAGA[/B][/COLOR]
 http://0.0.0.0:1234
