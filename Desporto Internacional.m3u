@@ -84,38 +84,20 @@ plugin://plugin.video.f4mTester/?url=http://boxiptv.noip.us:9998/live/anton/skyp
 
 ************************************************** 
 beiN SPORTS 1 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UNGRg6Q.png",[B][COLOR lawngreen]•[/B][/COLOR] FR [B][COLOR white]beiN SPORTS 1 [/B][/COLOR] [B][COLOR royalblue][HD 720p] [B][COLOR red](f4mTester)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UNGRg6Q.png",[B][COLOR lawngreen]•[/B][/COLOR] FR [B][COLOR white]beiN SPORTS 1 [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/hugo/hugo/245.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UNGRg6Q.png",[B][COLOR lawngreen]•[/B][/COLOR] FR [B][COLOR white]beiN SPORTS 1 [/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UNGRg6Q.png",[B][COLOR lawngreen]•[/B][/COLOR] FR [B][COLOR white]beiN SPORTS 1 [/B][/COLOR] [B][COLOR royalblue][HD 720p] [B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://boxiptv.noip.us:9998/live/anton/skype/17.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 beiN SPORTS 2 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/AZSqeFo.png",[B][COLOR lawngreen]•[/B][/COLOR] FR [B][COLOR white]beiN SPORTS 2 [/B][/COLOR] [B][COLOR royalblue][HD] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/pauloleite/carlosXXlfts/460.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/AZSqeFo.png",[B][COLOR lawngreen]•[/B][/COLOR] FR [B][COLOR white]beiN SPORTS 2 [/B][/COLOR] [B][COLOR royalblue][HD] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/460.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/AZSqeFo.png",[B][COLOR lawngreen]•[/B][/COLOR] FR [B][COLOR white]beiN SPORTS 2 [/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://italians-world.net:6969/live/1bruno/1bruno/2880.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/AZSqeFo.png",[B][COLOR lawngreen]•[/B][/COLOR] FR [B][COLOR white]beiN SPORTS 2 [/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/hugo/hugo/246.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/AZSqeFo.png",[B][COLOR lawngreen]•[/B][/COLOR] FR [B][COLOR white]beiN SPORTS 2 [/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://boxiptv.noip.us:9998/live/anton/skype/18.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+ 
+ 
 
 ************************************************** 
 beiN SPORTS 3 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ouI3hiP.png",[B][COLOR lawngreen]•[/B][/COLOR] FR [B][COLOR white]beiN SPORTS 3 [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](Plexus)[/B][/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://811607ee8ef5e358c28d1f7fab1b3910ead79fdd&mode=1&name=acestream&mode=1&name=SPORTS 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ouI3hiP.png",[B][COLOR lawngreen]•[/B][/COLOR] FR [B][COLOR white]beiN SPORTS 3 [/B][/COLOR] [B][COLOR royalblue][HD] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/pauloleite/carlosXXlfts/854.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ouI3hiP.png",[B][COLOR lawngreen]•[/B][/COLOR] FR [B][COLOR white]beiN SPORTS 3 [/B][/COLOR] [B][COLOR royalblue][HD] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://ftvnext.stmteam.org:8000/live/pauloleite3/carlosXXlfts/854.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ouI3hiP.png",[B][COLOR lawngreen]•[/B][/COLOR] FR [B][COLOR white]beiN SPORTS 3 [/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://italians-world.net:6969/live/1bruno/1bruno/2881.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ouI3hiP.png",[B][COLOR lawngreen]•[/B][/COLOR] FR [B][COLOR white]beiN SPORTS 3 [/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/hugo/hugo/247.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ouI3hiP.png",[B][COLOR lawngreen]•[/B][/COLOR] FR [B][COLOR white]beiN SPORTS 3 [/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://boxiptv.noip.us:9998/live/anton/skype/19.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 beiN SPORTS N 
@@ -129,39 +111,27 @@ plugin://program.plexus/?mode=1&url=acestream://ccce682c9f6deca50fca77949dc426ba
 
 ************************************************** 
 BT SPORT 1 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rto6R1B.png",[B][COLOR lawngreen]•[/B][/COLOR] UK [B][COLOR white]BT SPORT 1 [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](Plexus)[/B][/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://e9483138766afe76ce02d22257911e4121394e0f&mode=1&name=acestream&mode=1&name=SPORTS 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rto6R1B.png",[B][COLOR lawngreen]•[/B][/COLOR] UK [B][COLOR white]BT SPORT 1 [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](http)[/B][/COLOR]
-rtmp://185.63.255.18:80/live playpath=wodhs1j swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://rocktv.co/embedu.php?live=wodhs1j&vw;=736&vh;=438 token=%Zrey(nKa@#Z 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rto6R1B.png",[B][COLOR lawngreen]•[/B][/COLOR] UK [B][COLOR white]BT SPORT 1 [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](http)[/B][/COLOR]
-rtmp://185.63.252.221:1935/liveedge/?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMTYgMTA6MzE6MDUgQU0maGFzaF92YWx1ZT1mSzloU1pLTzNVL2hpQ0lEMjB1aE9nPT0mdmFsaWRtaW51dGVzPTEw/ibrodtv26_fwfns7fs swfUrl=http://otronivel.me/jw7/jwplayer.flash.swf flashver=WIN\2021,0,0,182 timeout=15 live=true swfVfy=1 pageUrl=http://miplayer.net/embedplayer.php?width=640&height=480&id=ibrodtv26&autoplay=true&strech=exactfit 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rto6R1B.png",[B][COLOR lawngreen]•[/B][/COLOR] UK [B][COLOR white]BT SPORT 1 [/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://italians-world.net:6969/live/1bruno/1bruno/2906.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rto6R1B.png",[B][COLOR lawngreen]•[/B][/COLOR] UK [B][COLOR white]BT SPORT 1 [/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rto6R1B.png",[B][COLOR lawngreen]•[/B][/COLOR] UK [B][COLOR white]BT SPORT 1 [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://boxiptv.noip.us:9998/live/anton/skype/700.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 BT SPORT 2 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/QLKzBRu.png",[B][COLOR lawngreen]•[/B][/COLOR] UK [B][COLOR white]BT SPORT 2 [/B][/COLOR] [B][COLOR royalblue][HD] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://tvip2016.ddns.net:8000/live/marcocalhoa/2016/324.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/QLKzBRu.png",[B][COLOR lawngreen]•[/B][/COLOR] UK [B][COLOR white]BT SPORT 2 [/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://italians-world.net:6969/live/1bruno/1bruno/2907.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/QLKzBRu.png",[B][COLOR lawngreen]•[/B][/COLOR] UK [B][COLOR white]BT SPORT 2 [/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://i.imgur.com/QLKzBRu.png",[B][COLOR lawngreen]•[/B][/COLOR] UK [B][COLOR white]BT SPORT 2 [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://boxiptv.noip.us:9998/live/anton/skype/302.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/QLKzBRu.png",[B][COLOR lawngreen]•[/B][/COLOR] UK [B][COLOR white]BT SPORT 2 [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/618.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 BT SPORT ESPN 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UI7Rz8P.png",[B][COLOR lawngreen]•[/B][/COLOR] UK [B][COLOR white]BT SPORT ESPN [/B][/COLOR] [B][COLOR royalblue][LQ] [B][COLOR red](http)[/B][/COLOR]
-rtmp://185.63.255.60:80/live playpath=espnxukk swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.yotv.co/embed.php?live=espnxukk&vw=620&vh=490 token=%Zrey(nKa@#Z 
+ 
+ 
 
 ************************************************** 
 BT SPORT EUROPE 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3C563o6.png",[B][COLOR lawngreen]•[/B][/COLOR] UK [B][COLOR white]BT SPORT EUROPE [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://italians-world.net:6969/live/1bruno/1bruno/2908.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3C563o6.png",[B][COLOR lawngreen]•[/B][/COLOR] UK [B][COLOR white]BT SPORT EUROPE [/B][/COLOR] [B][COLOR red](http)[/B][/COLOR]
-http://185.59.222.65:8080/MHAJbmmhhjPIAmbteuro/index.m3u8 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3C563o6.png",[B][COLOR lawngreen]•[/B][/COLOR] UK [B][COLOR white]BT SPORT EUROPE [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](http)[/B][/COLOR]
+rtmpe://80.82.78.29/live?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDE2IDQ6MDk6MDYgUE0maGFzaF92YWx1ZT1jOE41a2ZON1hSSm9ZWnR2TVVjWVpnPT0mdmFsaWRtaW51dGVzPTEw playpath=46CtiooQ6M5wQOaQLL swfUrl=http://cast4u.tv/jwplayer/jwplayer.flash.swf token=%XB00(nKH@#. flashver=WIN\2021,0,0,216 live=1 timeout=15 pageUrl=http://www.cast4u.tv/embed.php?live=bteu&vw=620&vh=490   
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3C563o6.png",[B][COLOR lawngreen]•[/B][/COLOR] UK [B][COLOR white]BT SPORT EUROPE [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](http)[/B][/COLOR]
+http://cdn.sportlive.ws/hls/XS0L1VlEpdr_sPjvXnmNZA/1463591144/bteurope.m3u8|Referer=http://api.peer5.com/clappr/assets/HLSPlayer.swf&User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36   
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3C563o6.png",[B][COLOR lawngreen]•[/B][/COLOR] UK [B][COLOR white]BT SPORT EUROPE [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](http)[/B][/COLOR]
 http://149.202.188.59:8080/live/zxH3HyIGFF/RnlHTlQ8MB/933.ts 
 
@@ -324,7 +294,7 @@ plugin://plugin.video.f4mTester/?url=http://boxiptv.noip.us:9998/live/anton/skyp
 
 ************************************************** 
 FOX SPORT 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/xXisgHi.png",[B][COLOR lawngreen]•[/B][/COLOR] IT [B][COLOR white]FOX SPORT [/B][/COLOR] [B][COLOR royalblue][HD] [B][COLOR red](Plexus)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xXisgHi.png",[B][COLOR lawngreen]•[/B][/COLOR] IT [B][COLOR white]FOX SPORT [/B][/COLOR] [B][COLOR royalblue][HD 720p] [B][COLOR red](Plexus)[/B][/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://6fefff95707964bd43b7b973150dbfdc036cb629&mode=1&name=acestream&mode=1&name=SPORTS 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xXisgHi.png",[B][COLOR lawngreen]•[/B][/COLOR] IT [B][COLOR white]FOX SPORT [/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://boxiptv.noip.us:9998/live/anton/skype/496.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
