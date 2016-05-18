@@ -2,8 +2,13 @@
 
 »»»»»» DESPORTO INTERNACIONAL 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/W2fMedL.png",[B][COLOR red]»»»»»» [/B][/COLOR][B][COLOR white]DESPORTO INTERNACIONAL[/B][/COLOR][B][COLOR red] ««««««[/B][/COLOR] 
+http://0.0.0.0:1234
+#EXTINF:-1,[B][COLOR yellow]ALGUNS CANAIS PRECISAM DE MAIS QUE UM CLIQUE PARA ABRIR[/B][/COLOR]
 http://0.0.0.0:1234 
+#EXTINF:-1,[B][COLOR yellow]SE OS CANAIS NAO ABRIREM LIMPEM A CACHE E VOLTEM A TENTAR[/B][/COLOR]
+http://0.0.0.0:1234
 ************************************************** 
+
 ARENAVISION 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Fi9iCjo.png",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR white]ARENAVISION 1 [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](Plexus)[/B][/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://df5e6b21940b9f56fb6f55cafcd2c38de0ba7f06&mode=1&name=acestream&mode=1&name=SPORTS 
