@@ -9,9 +9,9 @@ http://0.0.0.0:1234
 #EXTINF:-1,[B][COLOR white]--------------------------------------------------[/B][/COLOR]   
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rmpYJAi.png",[B][COLOR gold]18.05 / 13h00 PORTUGAL-HOLANDA[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rmpYJAi.png",[B][COLOR gold]18.05 / 12h00 PORTUGAL-HOLANDA[/B][/COLOR]
 http://0.0.0.0:1234
-#EXTINF:-1 tvg-logo="http://i.imgur.com/YBuE1fc.png",[B][COLOR gold]18.05 / 18h00 ALEMANHA-ESPANHA[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YBuE1fc.png",[B][COLOR gold]18.05 / 17h00 ALEMANHA-ESPANHA[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo=http://i.imgur.com/vcfu9M3.png,[B][COLOR red]CANAIS DISPONIVEIS[/B][/COLOR]
