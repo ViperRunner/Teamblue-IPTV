@@ -1,0 +1,42 @@
+#EXTM3U
+ 
+#EXTINF:-1,[B][COLOR yellow]ALGUNS CANAIS PRECISAM DE MAIS QUE UM CLIQUE PARA ABRIR[/B][/COLOR]
+http://0.0.0.0:1234 
+#EXTINF:-1,[B][COLOR yellow]SE OS CANAIS NAO ABRIREM LIMPEM A CACHE E VOLTEM A TENTAR[/B][/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1,[B][COLOR white]--------------------------------------------------[/B][/COLOR]   
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2gIqckp.jpg",[B][COLOR skyblue]RALLY DE PORTUGAL 2016[/B][/COLOR]   
+http://0.0.0.0:1234
+#EXTINF:-1,[B][COLOR white]--------------------------------------------------[/B][/COLOR]   
+http://0.0.0.0:1234  
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vDnXiQJ.png",[B][COLOR gold]19.05/18h00 ANTEVISÃO RALLY PORTUGAL [B][COLOR lawngreen](SPTV.5)[/B][/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vDnXiQJ.png",[B][COLOR gold]19.05/19h00 SS1 LOUSADA [B][COLOR lawngreen](RTP.2)[/B][/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vDnXiQJ.png",[B][COLOR gold]19.05/20h30 SS1 LOUSADA [B][COLOR lawngreen](RTP.2)[/B][/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vDnXiQJ.png",[B][COLOR gold]20.05/19h00 SS8 e SS9 PORTO [B][COLOR lawngreen](RTP.1)[/B][/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vDnXiQJ.png",[B][COLOR gold]20.05/23h00 RESUMO 1º DIA [B][COLOR lawngreen](SPTV.5)[/B][/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vDnXiQJ.png",[B][COLOR gold]21.05/10h50 RESUMO 1º DIA [B][COLOR lawngreen](SPTV.5)[/B][/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vDnXiQJ.png",[B][COLOR gold]21.05/12h00 SS12 AMARANTE 1 [B][COLOR lawngreen](RTP.2)[/B][/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vDnXiQJ.png",[B][COLOR gold]21.05/18h00 SS15 AMARANTE 2 [B][COLOR lawngreen](RTP.2)[/B][/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vDnXiQJ.png",[B][COLOR gold]21.05/23h00 RESUMO 2º DIA [B][COLOR lawngreen](SPTV.5)[/B][/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vDnXiQJ.png",[B][COLOR gold]22.05/09h05 SS17 FAFE 1 [B][COLOR lawngreen](RTP.1)[/B][/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vDnXiQJ.png",[B][COLOR gold]22.05/12h05 SS19 FAFE 2 (Power Stage) [B][COLOR lawngreen](RTP.1)[/B][/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vDnXiQJ.png",[B][COLOR gold]22.05/23h00 RESUMO 3º DIA [B][COLOR lawngreen](SPTV.5)[/B][/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vDnXiQJ.png",[B][COLOR gold]23.05/08h00 RESUMO 3º DIA [B][COLOR lawngreen](SPTV.5)[/B][/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vDnXiQJ.png",[B][COLOR gold]23.05/23h00 RESUMO TOTAL [B][COLOR lawngreen](SPTV.5)[/B][/COLOR]
+http://0.0.0.0:1234
