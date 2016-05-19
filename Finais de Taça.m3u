@@ -14,9 +14,32 @@ http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/avqFcPx.png",[B][COLOR gold]UK: 21.05/17h30 MAN UNITED-CRYSTAL PALACE [B][COLOR lawngreen](SPTV.1)[/B][/COLOR]
 http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="http://i.imgur.com/avqFcPx.png",[B][COLOR gold]UK: 21.05/17h30 MAN UNITED-CRYSTAL PALACE [B][COLOR lawngreen](ARENAVISION 14)[/B][/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="http://i.imgur.com/avqFcPx.png",[B][COLOR gold]UK: 21.05/17h30 MAN UNITED-CRYSTAL PALACE [B][COLOR lawngreen](ARENAVISION 15)[/B][/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="http://i.imgur.com/avqFcPx.png",[B][COLOR gold]UK: 21.05/17h30 MAN UNITED-CRYSTAL PALACE [B][COLOR lawngreen](BBC ONE)[/B][/COLOR]
+http://0.0.0.0:1234
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/nNprvq3.png",[B][COLOR gold]DE: 21.05/19h00 DORTMUND-BAYERN MUNIQUE [B][COLOR lawngreen](SPTV.2)[/B][/COLOR]
 http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nNprvq3.png",[B][COLOR gold]DE: 21.05/19h00 DORTMUND-BAYERN MUNIQUE [B][COLOR lawngreen](ARENAVISION 7)[/B][/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nNprvq3.png",[B][COLOR gold]DE: 21.05/19h00 DORTMUND-BAYERN MUNIQUE [B][COLOR lawngreen](ARENAVISION 8)[/B][/COLOR]
+http://0.0.0.0:1234
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CnLXViU.png",[B][COLOR gold]IT: 21.05/19h45 JUNVENTUS-AC MILAN [B][COLOR lawngreen](SPTV.1)[/B][/COLOR]
 http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CnLXViU.png",[B][COLOR gold]IT: 21.05/19h45 JUNVENTUS-AC MILAN [B][COLOR lawngreen](ARENAVISION 11)[/B][/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CnLXViU.png",[B][COLOR gold]IT: 21.05/19h45 JUNVENTUS-AC MILAN [B][COLOR lawngreen](ARENAVISION 12)[/B][/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CnLXViU.png",[B][COLOR gold]IT: 21.05/19h45 JUNVENTUS-AC MILAN [B][COLOR lawngreen](RAI 1)[/B][/COLOR]
+http://0.0.0.0:1234
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mUok6o6.png",[B][COLOR gold]ES: 22.05/20h30 BARCELONA-SEVILHA [B][COLOR lawngreen](SPTV.1)[/B][/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="http://i.imgur.com/mUok6o6.png",[B][COLOR gold]ES: 22.05/20h30 BARCELONA-SEVILHA [B][COLOR lawngreen](ARENAVISION 9)[/B][/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="http://i.imgur.com/mUok6o6.png",[B][COLOR gold]ES: 22.05/20h30 BARCELONA-SEVILHA [B][COLOR lawngreen](ARENAVISION 10)[/B][/COLOR]
 http://0.0.0.0:1234
