@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/s7qeg3W.png",[B][COLOR skyblue]UEFA - SUB-17 - MEIAS FINAIS[/B][/COLOR]
-http://0.0.0.0:1234
 #EXTINF:-1,[B][COLOR yellow]ALGUNS CANAIS PRECISAM DE MAIS QUE UM CLIQUE PARA ABRIR[/B][/COLOR]
 http://0.0.0.0:1234 
 #EXTINF:-1,[B][COLOR yellow]SE OS CANAIS NAO ABRIREM LIMPEM A CACHE E VOLTEM A TENTAR[/B][/COLOR]
@@ -9,15 +7,10 @@ http://0.0.0.0:1234
 #EXTINF:-1,[B][COLOR white]--------------------------------------------------[/B][/COLOR]   
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/rmpYJAi.png",[B][COLOR gold]18.05 / 12h00 PORTUGAL-HOLANDA[/B][/COLOR]
-http://0.0.0.0:1234
-#EXTINF:-1 tvg-logo="http://i.imgur.com/YBuE1fc.png",[B][COLOR gold]18.05 / 17h00 ALEMANHA-ESPANHA[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://i.imgur.com/s7qeg3W.png",[B][COLOR skyblue]UEFA - SUB-17 - FINAL[/B][/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-logo=http://i.imgur.com/vcfu9M3.png,[B][COLOR red]CANAIS DISPONIVEIS[/B][/COLOR]
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Sy7CwEr.png",[B][COLOR gold]21.05 / 17h00 PORTUGAL-ESPANHA[/B][/COLOR]
 http://0.0.0.0:1234
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MZBusxr.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR [B][COLOR white]EUROSPORT 2[/B][/COLOR] [B][COLOR royalblue][HD] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/hugo/hugo/61.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-
 
