@@ -1,0 +1,22 @@
+#EXTM3U
+ 
+#EXTINF:-1,[B][COLOR yellow]ALGUNS CANAIS PRECISAM DE MAIS QUE UM CLIQUE PARA ABRIR[/B][/COLOR]
+http://0.0.0.0:1234 
+#EXTINF:-1,[B][COLOR yellow]SE OS CANAIS NAO ABRIREM LIMPEM A CACHE E VOLTEM A TENTAR[/B][/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1,[B][COLOR white]--------------------------------------------------[/B][/COLOR]   
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/APuW3lp.png",[B][COLOR skyblue]FINAIS DE TAÇA 2016[/B][/COLOR]   
+http://0.0.0.0:1234
+#EXTINF:-1,[B][COLOR white]--------------------------------------------------[/B][/COLOR]   
+http://0.0.0.0:1234  
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/avqFcPx.png",[B][COLOR gold]INGLATERRA: 21.05/17h30 MAN UNITED-CRYSTAL PALACE [B][COLOR lawngreen](SPTV.1)[/B][/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nNprvq3.png",[B][COLOR gold]ALEMANHA:   21.05/19h00 DORTMUND-BAYERN MUNIQUE [B][COLOR lawngreen](SPTV.2)[/B][/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CnLXViU.png",[B][COLOR gold]ITALIA:     21.05/19h45 JUNVENTUS-AC MILAN [B][COLOR lawngreen](SPTV.1)[/B][/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="http://i.imgur.com/mUok6o6.png",[B][COLOR gold]ESPANHA:    22.05/20h30 BARCELONA-SEVILHA [B][COLOR lawngreen](SPTV.1)[/B][/COLOR]
+http://0.0.0.0:1234
