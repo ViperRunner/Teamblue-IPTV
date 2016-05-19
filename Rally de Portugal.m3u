@@ -13,30 +13,30 @@ http://0.0.0.0:1234
 http://0.0.0.0:1234  
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/vDnXiQJ.png",[B][COLOR gold]19.05/18h00 ANTEVISÃO RALLY PORTUGAL [B][COLOR lawngreen](SPTV.5)[/B][/COLOR]
-http://0.0.0.0:1234
+plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/hugo/hugo/121.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/vDnXiQJ.png",[B][COLOR gold]19.05/19h00 SS1 LOUSADA [B][COLOR lawngreen](RTP.2)[/B][/COLOR]
-http://0.0.0.0:1234
+plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/eftim66/7xUGhc8XsjaWuZId/454.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/vDnXiQJ.png",[B][COLOR gold]19.05/20h30 SS1 LOUSADA [B][COLOR lawngreen](RTP.2)[/B][/COLOR]
-http://0.0.0.0:1234
+plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/eftim66/7xUGhc8XsjaWuZId/454.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/vDnXiQJ.png",[B][COLOR gold]20.05/19h00 SS8 e SS9 PORTO [B][COLOR lawngreen](RTP.1)[/B][/COLOR]
-http://0.0.0.0:1234
+plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/eftim66/7xUGhc8XsjaWuZId/452.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/vDnXiQJ.png",[B][COLOR gold]20.05/23h00 RESUMO 1º DIA [B][COLOR lawngreen](SPTV.5)[/B][/COLOR]
-http://0.0.0.0:1234
+plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/hugo/hugo/121.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/vDnXiQJ.png",[B][COLOR gold]21.05/10h50 RESUMO 1º DIA [B][COLOR lawngreen](SPTV.5)[/B][/COLOR]
-http://0.0.0.0:1234
+plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/hugo/hugo/121.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/vDnXiQJ.png",[B][COLOR gold]21.05/12h00 SS12 AMARANTE 1 [B][COLOR lawngreen](RTP.2)[/B][/COLOR]
-http://0.0.0.0:1234
+plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/eftim66/7xUGhc8XsjaWuZId/454.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/vDnXiQJ.png",[B][COLOR gold]21.05/18h00 SS15 AMARANTE 2 [B][COLOR lawngreen](RTP.2)[/B][/COLOR]
-http://0.0.0.0:1234
+plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/hugo/hugo/121.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/vDnXiQJ.png",[B][COLOR gold]21.05/23h00 RESUMO 2º DIA [B][COLOR lawngreen](SPTV.5)[/B][/COLOR]
-http://0.0.0.0:1234
+plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/hugo/hugo/121.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/vDnXiQJ.png",[B][COLOR gold]22.05/09h05 SS17 FAFE 1 [B][COLOR lawngreen](RTP.1)[/B][/COLOR]
-http://0.0.0.0:1234
+plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/eftim66/7xUGhc8XsjaWuZId/452.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/vDnXiQJ.png",[B][COLOR gold]22.05/12h05 SS19 FAFE 2 (Power Stage) [B][COLOR lawngreen](RTP.1)[/B][/COLOR]
-http://0.0.0.0:1234
+plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/eftim66/7xUGhc8XsjaWuZId/452.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/vDnXiQJ.png",[B][COLOR gold]22.05/23h00 RESUMO 3º DIA [B][COLOR lawngreen](SPTV.5)[/B][/COLOR]
-http://0.0.0.0:1234
+plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/hugo/hugo/121.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/vDnXiQJ.png",[B][COLOR gold]23.05/08h00 RESUMO 3º DIA [B][COLOR lawngreen](SPTV.5)[/B][/COLOR]
-http://0.0.0.0:1234
+plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/hugo/hugo/121.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/vDnXiQJ.png",[B][COLOR gold]23.05/23h00 RESUMO TOTAL [B][COLOR lawngreen](SPTV.5)[/B][/COLOR]
-http://0.0.0.0:1234
+plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/hugo/hugo/121.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
