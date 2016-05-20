@@ -8,9 +8,9 @@ http://0.0.0.0:1234
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/AxHsgKI.jpg",[B][COLOR skyblue]MOTOGP 2016[/B][/COLOR]   
-http://0.0.0.0:1234
+http://0.0.0.0:1234   
 #EXTINF:-1 tvg-logo="http://i.imgur.com/YWdMfRm.jpg",[B][COLOR skyblue]GP ITALIA  [/B][/COLOR] 
-http://0.0.0.0:1234
+http://0.0.0.0:1234   
 #EXTINF:-1,[B][COLOR white]--------------------------------------------------[/B][/COLOR]   
 http://0.0.0.0:1234   
 #EXTINF:-1 tvg-logo="http://i.imgur.com/MgPvryf.jpg",[B][COLOR gold]20.05 / 08h00 MOTO3 - FP1  [/B][/COLOR]
@@ -56,3 +56,16 @@ http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/vcfu9M3.png",[B][COLOR red]CANAIS DISPONIVEIS  [/B][/COLOR] 
 http://0.0.0.0:1234   
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR [B][COLOR white] SPORT TV 5 [/B][/COLOR]  [B][COLOR royalblue][SD] [B][COLOR red](http)[/B][/COLOR]
+rtmp://179.43.158.203:17879/stream playPath=g0IBo1519y0yBo2LWxCbT.stream?r831i221yr519i9665rr6747a221kr6747a221kr221i113br6747a221kr9665i477mr9719i628lr9665i477mr6747a221kr628i9719n swfUrl=http://thecdn.04stream.com/p/ooolo1.swf flashver=WIN\2020,0,0,306 timeout=15 live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&width=600&height=460&a=t24i134yt319i3453rt6483a134kt6483a134kt134i378bt6483a134kt3453i13mt5447i31lt3453i13mt6483a134kt31i5447n&st=k5p2v4n4w574x2s2f436q24693u5y2i36546d364o3s243f44474x254t2t27413q2t2s284&adx=&stream=6454j584j5m574x2d4i5q2k55494b4n2m544j3a3f4w21374f476w226d3j474m3v3r4a3j5q3y34363z3q274943474u2y24444r264o2m5w2f3l4v5v2x2p243x46476o4n434n3v356d364j283x5i4p5d4h20524o5i5z5r5l2o256z3n204o284b474c464a413o2c423f4o594z27423a4l594t2s2x2d4x2h533x2i5p2a454b434p2o234z3n204o204&sooor=OA==&str=is&ok=&cat=3&link=1&idom=thefeed2all.eu   
+#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR [B][COLOR white] SPORT TV 5 [/B][/COLOR]  [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/hugo/hugo/47.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25   
+#EXTINF:-1 tvg-logo="http://i.imgur.com/QLKzBRu.png",[B][COLOR lawngreen]•[/B][/COLOR] UK [B][COLOR [B][COLOR white] BT SPORT 2 [/B][/COLOR]  [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/618.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25   
+#EXTINF:-1 tvg-logo="http://i.imgur.com/J18GoWA.png",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR [B][COLOR white] ARENAVISION 11 [/B][/COLOR]  [B][COLOR royalblue][HD] [B][COLOR red](Plexus)[/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://1cb5faaaef8165765a9d069ba13b20f4f9260ce2&mode=1&name=acestream&mode=1&name=SPORTS   
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xnpnMLa.png",[B][COLOR lawngreen]•[/B][/COLOR] INT [B][COLOR [B][COLOR white] ARENAVISION 12 [/B][/COLOR]  [B][COLOR royalblue][HD] [B][COLOR red](Plexus)[/B][/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://46204e81564a4ad5f38f67aac8f3fab16dcfe94a&mode=1&name=acestream&mode=1&name=SPORTS   
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NdBGYJy.png",[B][COLOR lawngreen]•[/B][/COLOR] ES [B][COLOR [B][COLOR white] MOVISTAR F1 [/B][/COLOR]  [B][COLOR royalblue][SD] [B][COLOR red](http)[/B][/COLOR]
+rtmp://www1.iguide.to/iguide playpath=kpfk285js6zoxea swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height;=400&channel;=30323&autoplay;=true token=#ed%h0#w18623jsda6523lDGD   
