@@ -79,7 +79,7 @@ plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/nevermin
 ************************************************** 
 FOX CRIME 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Q8uJUlH.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]FOX CRIME [/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://163.172.14.11:12000/live/36AEg3hEXeGXgry8/725fST9spTbSsQRA/1280.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+http://163.172.14.11:12000/live/36AEg3hEXeGXgry8/725fST9spTbSsQRA/1280.ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Q8uJUlH.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]FOX CRIME [/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/nevermind/nevermind/31.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
