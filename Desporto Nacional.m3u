@@ -108,14 +108,14 @@ plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/hugo/hug
 
 ************************************************** 
 SPORT TV 4 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SPORT TV 5 [/B][/COLOR] [B][COLOR royalblue][1080p] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/522.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+ 
+ 
 
 ************************************************** 
 SPORT TV 5 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png",[B][COLOR yellow]•[/B][/COLOR] PT [B][COLOR white]SPORT TV 5 [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](http)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SPORT TV 5 [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](http)[/B][/COLOR]
 rtmp://179.43.158.203:17879/stream playPath=g0IBo1519y0yBo2LWxCbT.stream?r831i221yr519i9665rr6747a221kr6747a221kr221i113br6747a221kr9665i477mr9719i628lr9665i477mr6747a221kr628i9719n swfUrl=http://thecdn.04stream.com/p/ooolo1.swf flashver=WIN\2020,0,0,306 timeout=15 live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&width=600&height=460&a=t24i134yt319i3453rt6483a134kt6483a134kt134i378bt6483a134kt3453i13mt5447i31lt3453i13mt6483a134kt31i5447n&st=k5p2v4n4w574x2s2f436q24693u5y2i36546d364o3s243f44474x254t2t27413q2t2s284&adx=&stream=6454j584j5m574x2d4i5q2k55494b4n2m544j3a3f4w21374f476w226d3j474m3v3r4a3j5q3y34363z3q274943474u2y24444r264o2m5w2f3l4v5v2x2p243x46476o4n434n3v356d364j283x5i4p5d4h20524o5i5z5r5l2o256z3n204o284b474c464a413o2c423f4o594z27423a4l594t2s2x2d4x2h533x2i5p2a454b434p2o234z3n204o204&sooor=OA==&str=is&ok=&cat=3&link=1&idom=thefeed2all.eu 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SPORT TV 5 [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png",[B][COLOR red]•[/B][/COLOR] PT [B][COLOR white]SPORT TV 5 [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/eftim66/7xUGhc8XsjaWuZId/434.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SPORT TV 5 [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/hugo/hugo/47.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
@@ -125,6 +125,8 @@ plugin://plugin.video.f4mTester/?url=http://149.202.188.59:8080/live/zxH3HyIGFF/
 plugin://plugin.video.f4mTester/?url=http://iptv.temnet.pt:8000/live/sarmento/sarmento/36.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SPORT TV 5 [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/elvis/elvis/1696.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SPORT TV 5 [/B][/COLOR] [B][COLOR royalblue][1080p] [B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/522.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SPORT TV 5 [/B][/COLOR] [B][COLOR royalblue][1080p] [B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/hugo/hugo/52.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/G8yH187.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SPORT TV 5 [/B][/COLOR] [B][COLOR royalblue][1080p] [B][COLOR red](f4mTester)[/B][/COLOR]
