@@ -14,3 +14,7 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Sy7CwEr.png",[B][COLOR gold]21.05 / 17h00 PORTUGAL-ESPANHA[/B][/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MZBusxr.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR [B][COLOR white]EUROSPORT 2[/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http%3A%2F%2Fipsatpro.com%3A8000%2Flive%2Frita%2Frita%2F927.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
+#EXTINF:-1 tvg-logo="http://i.imgur.com/pjjlbCF.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR [B][COLOR white]RTP 1[/B][/COLOR] [B][COLOR royalblue][1080p (LBR)] [B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/nevermind/nevermind/124.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
