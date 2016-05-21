@@ -34,6 +34,8 @@ CARTOON NETWORK
 plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/hugo/hugo/94.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]CARTOON NETWORK [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/nevermind/nevermind/94.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EuQiOf1.png",[B][COLOR yellow]•[/B][/COLOR] PT [B][COLOR white]CARTOON NETWORK [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rita/rita/920.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 DISNEY CHANNEL 
@@ -43,6 +45,8 @@ plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/eftim66/7x
 plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/hugo/hugo/93.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/g0UK661.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]DISNEY CHANNEL [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/nevermind/nevermind/93.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/g0UK661.png",[B][COLOR yellow]•[/B][/COLOR] PT [B][COLOR white]DISNEY CHANNEL [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rita/rita/904.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 DISNEY JUNIOR 
@@ -52,6 +56,8 @@ plugin://plugin.video.f4mTester/?url=http://tv.kitboxtv.com:8000/live/Ozkan/Erde
 plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/hugo/hugo/92.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]DISNEY JUNIOR [/B][/COLOR] [B][COLOR royalblue][720p] [B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/nevermind/nevermind/92.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CZvsFYH.png",[B][COLOR yellow]•[/B][/COLOR] PT [B][COLOR white]DISNEY JUNIOR [/B][/COLOR] [B][COLOR royalblue][720p] [B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rita/rita/905.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 JIM JAM 
@@ -59,6 +65,8 @@ JIM JAM
 plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/hugo/hugo/95.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/b6Mhyk9.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]JIM JAM [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/nevermind/nevermind/95.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/b6Mhyk9.png",[B][COLOR yellow]•[/B][/COLOR] PT [B][COLOR white]JIM JAM [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/rita/rita/918.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 NICKELODEON 
@@ -82,3 +90,4 @@ plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/nevermin
 plugin://plugin.video.f4mTester/?url=http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/705.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
+
