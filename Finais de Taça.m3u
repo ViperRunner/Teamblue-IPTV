@@ -15,9 +15,9 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="http://i.imgur.com/avqFcPx.png",[B][COLOR gold]UK: 21.05/17h30 MAN UNITED-CRYSTAL PALACE [B][COLOR lawngreen](SPTV.1)[/B][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="http://i.imgur.com/avqFcPx.png",[B][COLOR gold]UK: 21.05/17h30 MAN UNITED-CRYSTAL PALACE [B][COLOR lawngreen](ARENAVISION 14)[/B][/COLOR]
-http://0.0.0.0:1234
+plugin://program.plexus/?mode=1&url=acestream://ff429498d6228e040074002ddfa9d08ac61ba09e&mode=1&name=acestream&mode=1&name=SPORTS 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/avqFcPx.png",[B][COLOR gold]UK: 21.05/17h30 MAN UNITED-CRYSTAL PALACE [B][COLOR lawngreen](ARENAVISION 15)[/B][/COLOR]
-http://0.0.0.0:1234
+plugin://program.plexus/?mode=1&url=acestream://80e39baabf5d1b8702a2e69a22a2bf01a9776eba&mode=1&name=acestream&mode=1&name=SPORTS 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/avqFcPx.png",[B][COLOR gold]UK: 21.05/17h30 MAN UNITED-CRYSTAL PALACE [B][COLOR lawngreen](BBC ONE)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/shakeel/shakeel/1194.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
@@ -26,24 +26,24 @@ plugin://plugin.video.f4mTester/?url=http://iptvxsempre.zapto.org:8000/live/ales
 #EXTINF:-1 tvg-logo="http://i.imgur.com/nNprvq3.png",[B][COLOR gold]DE: 21.05/19h00 DORTMUND-BAYERN MUNIQUE [B][COLOR lawngreen](SPTV.2)[/B][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="http://i.imgur.com/nNprvq3.png",[B][COLOR gold]DE: 21.05/19h00 DORTMUND-BAYERN MUNIQUE [B][COLOR lawngreen](ARENAVISION 7)[/B][/COLOR]
-http://0.0.0.0:1234
+plugin://program.plexus/?mode=1&url=acestream://1d02723d2951c46c5c914f5889f619f3d3d60baf&mode=1&name=acestream&mode=1&name=SPORTS 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/nNprvq3.png",[B][COLOR gold]DE: 21.05/19h00 DORTMUND-BAYERN MUNIQUE [B][COLOR lawngreen](ARENAVISION 8)[/B][/COLOR]
-http://0.0.0.0:1234
+plugin://program.plexus/?mode=1&url=acestream://cb1b9d41430da013f07ab2affc8c3216e62cc81f&mode=1&name=acestream&mode=1&name=SPORTS 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CnLXViU.png",[B][COLOR gold]IT: 21.05/19h45 JUNVENTUS-AC MILAN [B][COLOR lawngreen](SPTV.1)[/B][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CnLXViU.png",[B][COLOR gold]IT: 21.05/19h45 JUNVENTUS-AC MILAN [B][COLOR lawngreen](ARENAVISION 11)[/B][/COLOR]
-http://0.0.0.0:1234
+plugin://program.plexus/?mode=1&url=acestream://1cb5faaaef8165765a9d069ba13b20f4f9260ce2&mode=1&name=acestream&mode=1&name=SPORTS 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CnLXViU.png",[B][COLOR gold]IT: 21.05/19h45 JUNVENTUS-AC MILAN [B][COLOR lawngreen](ARENAVISION 12)[/B][/COLOR]
-http://0.0.0.0:1234
+plugin://program.plexus/?mode=1&url=acestream://46204e81564a4ad5f38f67aac8f3fab16dcfe94a&mode=1&name=acestream&mode=1&name=SPORTS 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CnLXViU.png",[B][COLOR gold]IT: 21.05/19h45 JUNVENTUS-AC MILAN [B][COLOR lawngreen](RAI 1)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/shakeel/shakeel/348.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mUok6o6.png",[B][COLOR gold]ES: 22.05/20h30 BARCELONA-SEVILHA [B][COLOR lawngreen](SPTV.1)[/B][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mUok6o6.png",[B][COLOR gold]ES: 22.05/20h30 BARCELONA-SEVILHA [B][COLOR lawngreen](ARENAVISION 9)[/B][/COLOR]
-http://0.0.0.0:1234
+plugin://program.plexus/?mode=1&url=acestream://770e83d3a3e26cd326574529d41544c7e32d07d8&mode=1&name=acestream&mode=1&name=SPORTS 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mUok6o6.png",[B][COLOR gold]ES: 22.05/20h30 BARCELONA-SEVILHA [B][COLOR lawngreen](ARENAVISION 10)[/B][/COLOR]
-http://0.0.0.0:1234
+plugin://program.plexus/?mode=1&url=acestream://bced6d4b19765cd883c2b1345bb74e388ca083cc&mode=1&name=acestream&mode=1&name=SPORTS 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/U4djygi.png",[B][COLOR gold]ES: 22.05/20h30 BARCELONA-SEVILHA [B][COLOR lawngreen](TELECINCO)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/1060.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
