@@ -7,29 +7,36 @@ http://0.0.0.0:1234
 #EXTINF:-1,[B][COLOR white]--------------------------------------------------[/B][/COLOR]   
 http://0.0.0.0:1234
 
-************************************************** 
 »»»»»» +18 ADULTOS 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/akxphHm.jpg",[B][COLOR red]»»»»»» [/B][/COLOR][B][COLOR white]+18 ADULTOS[/B][/COLOR][B][COLOR red] ««««««[/B][/COLOR] 
 http://0.0.0.0:1234 
 ************************************************** 
 BLUE HUSTLER 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Ir3BvGm.png",[B][COLOR ]•[/B][/COLOR] UK [B][COLOR white]BLUE HUSTLER [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Ir3BvGm.png",[B][COLOR lawngreen]•[/B][/COLOR] UK [B][COLOR white]BLUE HUSTLER [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://195.154.183.48:8000/live/roberto1/roberto1/1100.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Ir3BvGm.png",[B][COLOR yellow]•[/B][/COLOR] UK [B][COLOR white]BLUE HUSTLER [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1100.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 BRAZZERS TV EUROPE 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/WX9eQjO.png",[B][COLOR ]•[/B][/COLOR] UK [B][COLOR white]BRAZZERS TV EUROPE [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WX9eQjO.png",[B][COLOR lawngreen]•[/B][/COLOR] UK [B][COLOR white]BRAZZERS TV EUROPE [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://195.154.183.48:8000/live/roberto1/roberto1/1102.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WX9eQjO.png",[B][COLOR yellow]•[/B][/COLOR] UK [B][COLOR white]BRAZZERS TV EUROPE [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1102.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 CENTO X CENTO 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/dMjv1oM.png",[B][COLOR lawngreen]•[/B][/COLOR] UK [B][COLOR white]CENTO X CENTO [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://195.154.183.48:8000/live/roberto1/roberto1/1104.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dMjv1oM.png",[B][COLOR yellow]•[/B][/COLOR] UK [B][COLOR white]CENTO X CENTO [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1104.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 DORCEL TV 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/CJrT6sq.png",[B][COLOR ]•[/B][/COLOR] FR [B][COLOR white]DORCEL TV [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CJrT6sq.png",[B][COLOR lawngreen]•[/B][/COLOR] FR [B][COLOR white]DORCEL TV [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://195.154.183.48:8000/live/roberto1/roberto1/1106.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CJrT6sq.png",[B][COLOR yellow]•[/B][/COLOR] FR [B][COLOR white]DORCEL TV [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1106.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 EVIL ANGEL TV 
@@ -38,18 +45,24 @@ EVIL ANGEL TV
 
 ************************************************** 
 FRENCH LOVER TV 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/QThbm4S.png",[B][COLOR ]•[/B][/COLOR] FR [B][COLOR white]FRENCH LOVER TV [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](http)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://i.imgur.com/QThbm4S.png",[B][COLOR lawngreen]•[/B][/COLOR] FR [B][COLOR white]FRENCH LOVER TV [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](http)[/B][/COLOR]
 http://178.46.154.106:8000/play/a01x 
 
 ************************************************** 
 HOT 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/PNlKIGF.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]HOT [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](http)[/B][/COLOR]
 rtmp://199.195.194.60/live playpath=porcas?id=86529&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 conn=S:OK swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/porcas/1/599/399 live=true timeout=10 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PNlKIGF.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]HOT [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/nevermind/nevermind/113.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PNlKIGF.png",[B][COLOR yellow]•[/B][/COLOR] PT [B][COLOR white]HOT [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1109.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 HUSTLER 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/AjzCkE3.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]HUSTLER [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://195.154.183.48:8000/live/roberto1/roberto1/1110.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AjzCkE3.png",[B][COLOR yellow]•[/B][/COLOR] PT [B][COLOR white]HUSTLER [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1110.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 JASMIN TV 
@@ -63,8 +76,10 @@ NUART
 
 ************************************************** 
 O-LA-LA 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/uboe37v.png",[B][COLOR ]•[/B][/COLOR] US [B][COLOR white]O-LA-LA [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://i.imgur.com/uboe37v.png",[B][COLOR lawngreen]•[/B][/COLOR] US [B][COLOR white]O-LA-LA [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://195.154.183.48:8000/live/roberto1/roberto1/1113.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/uboe37v.png",[B][COLOR yellow]•[/B][/COLOR] US [B][COLOR white]O-LA-LA [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1113.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 PASSIONXXX 
@@ -77,26 +92,38 @@ http://178.46.154.106:8000/play/a025
 PENTHOUSE 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/knluNWt.png",[B][COLOR lawngreen]•[/B][/COLOR] US [B][COLOR white]PENTHOUSE [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://195.154.183.48:8000/live/roberto1/roberto1/1114.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/knluNWt.png",[B][COLOR lawngreen]•[/B][/COLOR] US [B][COLOR white]PENTHOUSE [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/nevermind/nevermind/110.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/knluNWt.png",[B][COLOR yellow]•[/B][/COLOR] US [B][COLOR white]PENTHOUSE [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1114.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 PINK O TV 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/UHpPAG7.png",[B][COLOR lawngreen]•[/B][/COLOR] US [B][COLOR white]PINK O TV [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://195.154.183.48:8000/live/roberto1/roberto1/1119.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UHpPAG7.png",[B][COLOR yellow]•[/B][/COLOR] US [B][COLOR white]PINK O TV [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1119.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 PLAYBOY 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/aWVrG8f.png",[B][COLOR lawngreen]•[/B][/COLOR] US [B][COLOR white]PLAYBOY [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://195.154.183.48:8000/live/roberto1/roberto1/1121.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/aWVrG8f.png",[B][COLOR lawngreen]•[/B][/COLOR] US [B][COLOR white]PLAYBOY [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/nevermind/nevermind/112.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 PRIVATE 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/lhIgBCW.png",[B][COLOR lawngreen]•[/B][/COLOR] US [B][COLOR white]PRIVATE [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://195.154.183.48:8000/live/roberto1/roberto1/1132.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/lhIgBCW.png",[B][COLOR yellow]•[/B][/COLOR] US [B][COLOR white]PRIVATE [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1132.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 REDLIGHT 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/4hkhNSx.png",[B][COLOR lawngreen]•[/B][/COLOR] US [B][COLOR white]REDLIGHT [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://195.154.183.48:8000/live/roberto1/roberto1/1133.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4hkhNSx.png",[B][COLOR yellow]•[/B][/COLOR] US [B][COLOR white]REDLIGHT [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1133.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 SATISFACTION 
@@ -105,15 +132,19 @@ SATISFACTION
 
 ************************************************** 
 SCT 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IZAwlob.png",[B][COLOR ]•[/B][/COLOR] US [B][COLOR white]SCT [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IZAwlob.png",[B][COLOR lawngreen]•[/B][/COLOR] US [B][COLOR white]SCT [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://195.154.183.48:8000/live/roberto1/roberto1/1135.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IZAwlob.png",[B][COLOR ]•[/B][/COLOR] US [B][COLOR white]SCT [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IZAwlob.png",[B][COLOR lawngreen]•[/B][/COLOR] US [B][COLOR white]SCT [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://195.154.183.48:8000/live/roberto1/roberto1/1134.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IZAwlob.png",[B][COLOR yellow]•[/B][/COLOR] US [B][COLOR white]SCT [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1134.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 SEXTO SENSO 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UHpPAG7.png",[B][COLOR ]•[/B][/COLOR] US [B][COLOR white]SEXTO SENSO [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UHpPAG7.png",[B][COLOR lawngreen]•[/B][/COLOR] US [B][COLOR white]SEXTO SENSO [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://195.154.183.48:8000/live/roberto1/roberto1/1136.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UHpPAG7.png",[B][COLOR yellow]•[/B][/COLOR] US [B][COLOR white]SEXTO SENSO [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://iptvxsempre.zapto.org:8000/live/alesandro/alesandro/1136.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 SEXTREME 
@@ -124,6 +155,8 @@ SEXTREME
 VENUS 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/u86OVer.png",[B][COLOR lawngreen]•[/B][/COLOR] US [B][COLOR white]VENUS [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://195.154.183.48:8000/live/roberto1/roberto1/1137.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/u86OVer.png",[B][COLOR lawngreen]•[/B][/COLOR] US [B][COLOR white]VENUS [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/nevermind/nevermind/111.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 XXL 
