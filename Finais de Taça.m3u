@@ -37,7 +37,7 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CnLXViU.png",[B][COLOR gold]IT: 21.05/19h45 JUNVENTUS-AC MILAN [B][COLOR lawngreen](ARENAVISION 12)[/B][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="http://i.imgur.com/CnLXViU.png",[B][COLOR gold]IT: 21.05/19h45 JUNVENTUS-AC MILAN [B][COLOR lawngreen](RAI 1)[/B][/COLOR]
-http://0.0.0.0:1234
+plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/shakeel/shakeel/348.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mUok6o6.png",[B][COLOR gold]ES: 22.05/20h30 BARCELONA-SEVILHA [B][COLOR lawngreen](SPTV.1)[/B][/COLOR]
 http://0.0.0.0:1234
