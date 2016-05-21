@@ -45,5 +45,5 @@ plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/shakeel/sha
 plugin://program.plexus/?mode=1&url=acestream://770e83d3a3e26cd326574529d41544c7e32d07d8&mode=1&name=acestream&mode=1&name=SPORTS 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mUok6o6.png",[B][COLOR gold]ES: 22.05/20h30 BARCELONA-SEVILHA [B][COLOR lawngreen](ARENAVISION 10)[/B][/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://bced6d4b19765cd883c2b1345bb74e388ca083cc&mode=1&name=acestream&mode=1&name=SPORTS 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/U4djygi.png",[B][COLOR gold]ES: 22.05/20h30 BARCELONA-SEVILHA [B][COLOR lawngreen](TELECINCO)[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://i.imgur.com/mUok6o6.png",[B][COLOR gold]ES: 22.05/20h30 BARCELONA-SEVILHA [B][COLOR lawngreen](TELECINCO)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/1060.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
