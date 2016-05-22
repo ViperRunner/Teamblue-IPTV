@@ -6,6 +6,10 @@ http://0.0.0.0:1234
 http://0.0.0.0:1234
 #EXTINF:-1,[B][COLOR white]--------------------------------------------------[/B][/COLOR]   
 http://0.0.0.0:1234
+#EXTINF:-1,[B][COLOR yellow]ATUALIZACAO: 22.05.2016[/B][/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1,[B][COLOR white]--------------------------------------------------[/B][/COLOR]   
+http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/2gIqckp.jpg",[B][COLOR skyblue]RALLY DE PORTUGAL 2016[/B][/COLOR]   
 http://0.0.0.0:1234
