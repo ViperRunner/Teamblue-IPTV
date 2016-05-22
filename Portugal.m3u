@@ -6,6 +6,10 @@ http://0.0.0.0:1234
 http://0.0.0.0:1234
 #EXTINF:-1,[B][COLOR white]--------------------------------------------------[/B][/COLOR]  
 http://0.0.0.0:1234
+#EXTINF:-1,[B][COLOR yellow]ATUALIZACAO: 22.05.2016[/B][/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1,[B][COLOR white]--------------------------------------------------[/B][/COLOR]  
+http://0.0.0.0:1234
 
 »»»»»» PORTUGAL 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/aN0mPP7.png",[B][COLOR red]»»»»»» [/B][/COLOR][B][COLOR white]PORTUGAL[/B][/COLOR][B][COLOR red] ««««««[/B][/COLOR] 
@@ -13,51 +17,27 @@ http://0.0.0.0:1234
 ************************************************** 
 RTP 1 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/pjjlbCF.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]RTP 1 [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/shakeel/shakeel/1747.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/pjjlbCF.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]RTP 1 [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/699.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/pjjlbCF.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]RTP 1 [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/nevermind/nevermind/1.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/pjjlbCF.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]RTP 1 [/B][/COLOR] [B][COLOR royalblue][1080p] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/nevermind/nevermind/415.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/pjjlbCF.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]RTP 1 [/B][/COLOR] [B][COLOR royalblue][1080p (LBR)] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/nevermind/nevermind/124.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+plugin://plugin.video.f4mTester/?url=http%3A%2F%2Ftv.kitboxtv.com%3A8000%2Flive%2FOzkan%2FErdem%2F699.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 RTP 2 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/krvWl4X.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]RTP 2 [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/shakeel/shakeel/1748.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/krvWl4X.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]RTP 2 [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/700.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/krvWl4X.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]RTP 2 [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/nevermind/nevermind/2.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/krvWl4X.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]RTP 2 [/B][/COLOR] [B][COLOR royalblue][1080p] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/nevermind/nevermind/587.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/krvWl4X.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]RTP 2 [/B][/COLOR] [B][COLOR royalblue][1080p (LBR)] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/nevermind/nevermind/125.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+plugin://plugin.video.f4mTester/?url=http%3A%2F%2Ftv.kitboxtv.com%3A8000%2Flive%2FOzkan%2FErdem%2F700.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 RTP 3 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/mrqnruN.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]RTP 3 [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/nevermind/nevermind/7.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+plugin://plugin.video.f4mTester/?url=http%3A%2F%2Ffastroot.ddns.net%3A8000%2Flive%2Fhugo%2Fhugo%2F7.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 RTP ACORES 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/om9BKuk.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]RTP ACORES [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/shakeel/shakeel/1749.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/om9BKuk.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]RTP ACORES [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/701.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/om9BKuk.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]RTP ACORES [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/nevermind/nevermind/15.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+plugin://plugin.video.f4mTester/?url=http%3A%2F%2Ftv.kitboxtv.com%3A8000%2Flive%2FOzkan%2FErdem%2F701.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 RTP INTERNACIONAL 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/YPL4ncR.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]RTP INTERNACIONAL [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](http)[/B][/COLOR]
-http://www.x-media.tv:58080/live/eftim66/7xUGhc8XsjaWuZId/453.ts 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/YPL4ncR.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]RTP INTERNACIONAL [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](http)[/B][/COLOR]
-rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpinternacional?mag swfVfy=1 live=1 timeout=15 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/YPL4ncR.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]RTP INTERNACIONAL [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](http)[/B][/COLOR]
-rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpinternacional swfVfy=1 live=1 timeout=15 
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36 
 
 ************************************************** 
 RTP AFRICA 
@@ -69,11 +49,7 @@ plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/shakeel/sha
 ************************************************** 
 RTP MADEIRA 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EQk4X7n.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]RTP MADEIRA [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/703.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/EQk4X7n.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]RTP MADEIRA [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/shakeel/shakeel/1753.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/EQk4X7n.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]RTP MADEIRA [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/nevermind/nevermind/14.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+plugin://plugin.video.f4mTester/?url=http%3A%2F%2Ftv.kitboxtv.com%3A8000%2Flive%2FOzkan%2FErdem%2F703.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 RTP MEMORIA 
@@ -87,11 +63,7 @@ plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/nevermin
 ************************************************** 
 SIC 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/U0XKwI5.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SIC [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/nevermind/nevermind/3.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/U0XKwI5.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SIC [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/704.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/U0XKwI5.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SIC [/B][/COLOR] [B][COLOR royalblue][1080p (LBR)] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/nevermind/nevermind/126.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+plugin://plugin.video.f4mTester/?url=http%3A%2F%2Ftv.kitboxtv.com%3A8000%2Flive%2FOzkan%2FErdem%2F704.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 SIC CARAS 
@@ -101,42 +73,32 @@ plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/nevermin
 ************************************************** 
 SIC MULHER 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/PM9mIG3.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SIC MULHER [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/nevermind/nevermind/8.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+plugin://plugin.video.f4mTester/?url=http%3A%2F%2Ftv.kitboxtv.com%3A8000%2Flive%2FOzkan%2FErdem%2F706.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 SIC NOTICIAS 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qdQ02xS.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SIC NOTICIAS [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/707.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/qdQ02xS.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SIC NOTICIAS [/B][/COLOR] [B][COLOR royalblue][1080p] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/nevermind/nevermind/5.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+plugin://plugin.video.f4mTester/?url=http%3A%2F%2Ftv.kitboxtv.com%3A8000%2Flive%2FOzkan%2FErdem%2F707.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 SIC RADICAL 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Vvv2OcG.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SIC RADICAL [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/nevermind/nevermind/9.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+plugin://plugin.video.f4mTester/?url=http%3A%2F%2Ffastroot.ddns.net%3A8000%2Flive%2Fhugo%2Fhugo%2F9.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 TVI 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/eoUkAQT.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]TVI [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/nevermind/nevermind/4.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/eoUkAQT.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]TVI [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/708.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/eoUkAQT.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]TVI [/B][/COLOR] [B][COLOR royalblue][1080p ] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/nevermind/nevermind/588.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/eoUkAQT.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]TVI [/B][/COLOR] [B][COLOR royalblue][1080p (LBR)] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/nevermind/nevermind/127.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+plugin://plugin.video.f4mTester/?url=http%3A%2F%2Ftv.kitboxtv.com%3A8000%2Flive%2FOzkan%2FErdem%2F708.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 TVI 24 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/nYX9hTR.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]TVI 24 [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/709.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/nYX9hTR.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]TVI 24 [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/nevermind/nevermind/6.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+plugin://plugin.video.f4mTester/?url=http%3A%2F%2Ftv.kitboxtv.com%3A8000%2Flive%2FOzkan%2FErdem%2F709.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 TVI FICCAO 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/1OKBioL.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]TVI FICCAO [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/nevermind/nevermind/37.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1OKBioL.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]TVI FICCAO [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](http)[/B][/COLOR]
+http://178.162.199.25:8088/live/tvicrl/playlist.m3u8?id=24273&pk=3de9e2141a3eb056f83272f38a0c1e007655ca6c015db8843a6dd3b0044c2429 
 
 ************************************************** 
 TVI REALITY 
@@ -146,9 +108,7 @@ plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/nevermin
 ************************************************** 
 PORTO CANAL 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6Ojn6Et.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]PORTO CANAL [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/nevermind/nevermind/11.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6Ojn6Et.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]PORTO CANAL [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/698.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+plugin://plugin.video.f4mTester/?url=http%3A%2F%2Ftv.kitboxtv.com%3A8000%2Flive%2FOzkan%2FErdem%2F698.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 A BOLA TV 
@@ -158,17 +118,7 @@ plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/nevermin
 ************************************************** 
 SPORTING TV 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SPORTING TV [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/shakeel/shakeel/1280.ts|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SPORTING TV [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/285.ts|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SPORTING TV [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/720.ts|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SPORTING TV [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/nevermind/nevermind/58.ts|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SPORTING TV [/B][/COLOR] [B][COLOR royalblue][1080p] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/nevermind/nevermind/59.ts|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/KTEBwY0.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]SPORTING TV [/B][/COLOR] [B][COLOR royalblue][1080p (LBR)] [B][COLOR red](f4mTester)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/nevermind/nevermind/123.ts|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
+plugin://plugin.video.f4mTester/?url=http%3A%2F%2Ftv.kitboxtv.com%3A8000%2Flive%2FOzkan%2FErdem%2F285.ts|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 
 ************************************************** 
 CMTV 
@@ -176,10 +126,5 @@ CMTV
 plugin://plugin.video.f4mTester/?url=http://tv.kitboxtv.com:8000/live/Ozkan/Erdem/692.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/uvqwuu1436843714.png",[B][COLOR lawngreen]•[/B][/COLOR] PT [B][COLOR white]CMTV [/B][/COLOR] [B][COLOR royalblue][SD] [B][COLOR red](f4mTester)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://fastroot.ddns.net:8000/live/nevermind/nevermind/16.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 
-
-************************************************** 
-ARTV 
- 
- 
 
 ************************************************** 
