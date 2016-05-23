@@ -12,13 +12,13 @@
 RTP 1
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP 1[B][COLOR royalblue] [SD] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>http://ORBIT-IPTV.COM:2500/live/3030/3030/1747.ts</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/3030/3030/1747.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/pjjlbCF.png</thumbnail>
 </item>
 RTP 2
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP 2[B][COLOR royalblue] [SD] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>http://ORBIT-IPTV.COM:2500/live/3030/3030/1748.ts</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/3030/3030/1748.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/krvWl4X.png</thumbnail>
 </item>
 RTP 3
@@ -30,13 +30,13 @@ RTP 3
 RTP ACORES
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP ACORES[B][COLOR royalblue] [SD] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>http://ORBIT-IPTV.COM:2500/live/3030/3030/1749.ts</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/3030/3030/1749.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/mrqnruN.png</thumbnail>
 </item>
 RTP AFRICA
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP AFRICA[B][COLOR royalblue] [SD] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>http://ORBIT-IPTV.COM:2500/live/3030/3030/1750.ts</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/3030/3030/1750.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/YWi6NzU.png</thumbnail>
 </item>
 RTP INTERNACIONAL
@@ -48,13 +48,13 @@ RTP INTERNACIONAL
 RTP MADEIRA
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP MADEIRA[B][COLOR royalblue] [SD] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>http://ORBIT-IPTV.COM:2500/live/3030/3030/1753.ts</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/3030/3030/1753.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/YPL4ncR.png</thumbnail>
 </item>
 RTP MEMORIA
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP MEMORIA[B][COLOR royalblue] [SD] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>http://ORBIT-IPTV.COM:2500/live/3030/3030/1754.ts</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/3030/3030/1754.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/lWlG90R.png</thumbnail>
 </item>
 SIC
@@ -126,7 +126,7 @@ A BOLA TV
 SPORTING TV
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORTING TV[B][COLOR royalblue] [SD] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>http://ORBIT-IPTV.COM:2500/live/3030/3030/1280.ts</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/3030/3030/1280.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/KTEBwY0.png</thumbnail>
 </item>
 CMTV
