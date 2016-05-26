@@ -1,5 +1,5 @@
 <item>
-<title>[B][COLOR yellow]ATUALIZACAO: 25.05.2016[/B][/COLOR]</title>
+<title>[B][COLOR yellow]ATUALIZACAO: 26.05.2016[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail></thumbnail>
 </item>
@@ -17,8 +17,8 @@ BENFICA TV 1
 </item>
 BENFICA TV 2
 <item>
-<title></title>
-<link></link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]BENFICA TV 2[B][COLOR royalblue] [HD 720p] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.39.66.183:8000/live/bruno/bruno/56.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/mCK5Jwz.png</thumbnail>
 </item>
 EUROSPORT 1
@@ -39,6 +39,12 @@ EUROSPORT 2 XTRA
 <link></link>
 <thumbnail></thumbnail>
 </item>
+EUROSPORT NEWS
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]EUROSPORT NEWS[B][COLOR royalblue] [HD 720p] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/922.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/r6gIP7Y.png</thumbnail>
+</item>
 MOTORS TV
 <item>
 <title></title>
@@ -47,9 +53,9 @@ MOTORS TV
 </item>
 SPORT TV 1
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1[B][COLOR royalblue] [HD 1080p] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Giovanni/xSq7wb3dB6/880.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
 </item>
 SPORT TV 2
 <item>
@@ -65,9 +71,9 @@ SPORT TV 3
 </item>
 SPORT TV 4
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 4[B][COLOR royalblue] [HD 1080p] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/883.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/IZCGvyl.png</thumbnail>
 </item>
 SPORT TV 5
 <item>
