@@ -1,5 +1,5 @@
 <item>
-<title>[B][COLOR yellow]ATUALIZACAO: 25.05.2016[/B][/COLOR]</title>
+<title>[B][COLOR yellow]ATUALIZACAO: 26.05.2016[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail></thumbnail>
 </item>
@@ -59,9 +59,9 @@ RTP MEMORIA
 </item>
 SIC
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC[B][COLOR royalblue] [SD 576p] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/924.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/U0XKwI5.png</thumbnail>
 </item>
 SIC CARAS
 <item>
@@ -101,9 +101,15 @@ TVI 24
 </item>
 TVI FICCAO
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TVI FICCAO[B][COLOR royalblue] [SD] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Giovanni/xSq7wb3dB6/886.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/1OKBioL.png</thumbnail>
+</item>
++TVI
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]+TVI[B][COLOR royalblue] [SD 576p] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/887.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/XZBNbmj.png</thumbnail>
 </item>
 TVI REALITY
 <item>
@@ -119,9 +125,15 @@ PORTO CANAL
 </item>
 A BOLA TV
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]A BOLA TV[B][COLOR royalblue] [SD 576p] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Giovanni/xSq7wb3dB6/910.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/aDTQAYr.png</thumbnail>
+</item>
+CMTV
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]CMTV[B][COLOR royalblue] [SD 480p] [B][COLOR red](http)[/B][/COLOR]</title>
+<link>rtmp://178.162.193.26/stream playpath=cmtvb?id=21917&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uvqwuu1436843714.png</thumbnail>
 </item>
 SPORTING TV
 <item>
@@ -129,9 +141,27 @@ SPORTING TV
 <link>plugin://plugin.video.f4mTester/?url=http://boxiptv.noip.us:9998/live/ourartou/ourartou/1028.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/KTEBwY0.png</thumbnail>
 </item>
-CMTV
+TV GLOBO
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]CMTV[B][COLOR royalblue] [SD 480p] [B][COLOR red](http)[/B][/COLOR]</title>
-<link>rtmp://178.162.193.26/stream playpath=cmtvb?id=21917&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/uvqwuu1436843714.png</thumbnail>
+<title>lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TV GLOBO[B][COLOR royalblue] [SD 576p] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/888.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/1OKBioL.png</thumbnail>
+</item>
+TV GLOBO PREMIUM
+<item>
+<title>lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TV GLOBO PREMIUM[B][COLOR royalblue] [SD 576p] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Antonioenzo/Wqvbh99so2/931.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/1OKBioL.png</thumbnail>
+</item>
+TV RECORD
+<item>
+<title>lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TV RECORD[B][COLOR royalblue] [SD 576p] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Giovanni/xSq7wb3dB6/917.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/1OKBioL.png</thumbnail>
+</item>
+TV RECORD NEWS
+<item>
+<title>lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TV RECORD NEWS[B][COLOR royalblue] [SD 576p] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.39.66.183:8000/live/bruno/bruno/4.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/RWZ8Pdl.png</thumbnail>
 </item>
