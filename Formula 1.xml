@@ -62,9 +62,10 @@
 ARENAVISION 11
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] INT: [B][COLOR white]ARENAVISION 11[B][COLOR royalblue] [HD ] [B][COLOR red](Plexus)[/B][/COLOR]</title>
-<externallink>plugin://program.plexus/?mode=1&url=acestream://1cb5faaaef8165765a9d069ba13b20f4f9260ce2&name=Sports</externallink>
+<link>plugin://program.plexus/?url=acestream://1cb5faaaef8165765a9d069ba13b20f4f9260ce2&amp;mode=1&amp;name=acestream+title</link>
 <thumbnail>http://i.imgur.com/J18GoWA.png</thumbnail>
 </item>
+
 ARENAVISION 12
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] INT: [B][COLOR white]ARENAVISION 12[B][COLOR royalblue] [HD ] [B][COLOR red](Plexus)[/B][/COLOR]</title>
