@@ -23,97 +23,39 @@
 <thumbnail>http://i.imgur.com/vcfu9M3.png</thumbnail>
 </item>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+SPORT TV 1
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1[B][COLOR royalblue] [SD 576p] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ORBIT-IPTV.COM:2500/live/3030/3030/1969.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
+</item>
+ARENA SPORT 1
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] HU: [B][COLOR white]ARENA SPORT 1[B][COLOR royalblue] [ ] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Giovanni/xSq7wb3dB6/283.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/G9yWMcV.png</thumbnail>
+</item>
+ARENA SPORT 1
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] SRB: [B][COLOR white]ARENA SPORT 1[B][COLOR royalblue] [ ] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/sandra/sandra/3182.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/G9yWMcV.png</thumbnail>
+</item>
+beiN SPORTS 1
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]beiN SPORTS 1[B][COLOR royalblue] [ ] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/kantor/kantor/5676.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/UNGRg6Q.png</thumbnail>
+</item>
+SKY SPORT 1
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]SKY SPORT 1[B][COLOR royalblue] [ ] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Giovanni/xSq7wb3dB6/829.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/0DAevQo.png</thumbnail>
+</item>
+BT SPORT 1
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] UK: [B][COLOR white]BT SPORT 1[B][COLOR royalblue] [ ] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Giovanni/xSq7wb3dB6/543.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/rto6R1B.png</thumbnail>
+</item>
