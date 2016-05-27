@@ -1,1 +1,42 @@
+<item>
+<title>[B][COLOR yellow]ATUALIZACAO: 27.05.2016[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]--------------------------------------------------[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail></thumbnail>
+</item>
+**************************************************
+CANAL+ DEPORTES
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]CANAL+ DEPORTES[B][COLOR royalblue] [ ] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/salvodc/salvaturesster/4153.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/LhzfKei.png</thumbnail>
+</item>
+CANAL+ FUTBOL
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]CANAL+ FUTBOL[B][COLOR royalblue] [ ] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/salvodc/salvaturesster/4152.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/yh7Xc0G.png</thumbnail>
+</item>
+CANAL+ LIGA 2
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]CANAL+ LIGA 2[B][COLOR royalblue] [ ] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/salvodc/salvaturesster/4162.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/BGgiyqM.png</thumbnail>
+</item>
+MOVISTAR F1
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]MOVISTAR F1[B][COLOR royalblue] [ ] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Giovanni/xSq7wb3dB6/1010.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/NdBGYJy.png</thumbnail>
+</item>
+MOVISTAR MOTOGP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]MOVISTAR MOTOGP[B][COLOR royalblue] [ ] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/salvodc/salvaturesster/4174.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/jOfo0CH.png</thumbnail>
+</item>
 
