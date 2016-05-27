@@ -1,1 +1,53 @@
-
+<item>
+<title>[B][COLOR yellow]ATUALIZACAO: 27.05.2016[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]--------------------------------------------------[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail></thumbnail>
+</item>
+**************************************************
+RAI SPORT 1
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] IT: [B][COLOR white]RAI SPORT 1[B][COLOR royalblue] [ ] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip-tv-fry.dyndns.tv:7799/live/nunzio/nunzio/57.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/6ohVjfO.png</thumbnail>
+</item>
+RAI SPORT 2
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] IT: [B][COLOR white]RAI SPORT 2[B][COLOR royalblue] [ ] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip-tv-fry.dyndns.tv:7799/live/nunzio/nunzio/58.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/GSmMg8K.png</thumbnail>
+</item>
+SKY SPORT 1
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] IT: [B][COLOR white]SKY SPORT 1[B][COLOR royalblue] [ ] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip-tv-fry.dyndns.tv:7799/live/nunzio/nunzio/47.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/3mfIB6Q.jpg</thumbnail>
+</item>
+SKY SPORT 2
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] IT: [B][COLOR white]SKY SPORT 2[B][COLOR royalblue] [ ] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip-tv-fry.dyndns.tv:7799/live/nunzio/nunzio/2673.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/yfF9Rh7.jpg</thumbnail>
+</item>
+SKY SPORT 3
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] IT: [B][COLOR white]SKY SPORT 3[B][COLOR royalblue] [ ] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ip-tv-fry.dyndns.tv:7799/live/nunzio/nunzio/2674.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/OUz9C7a.png</thumbnail>
+</item>
+SKY SPORT F1
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] IT: [B][COLOR white]SKY SPORT F1[B][COLOR royalblue] [ ] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/salvodc/salvaturesster/75.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/gwmcmK2.png</thumbnail>
+</item>
+SKY SPORT MOTOGP
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] IT: [B][COLOR white]SKY SPORT MOTOGP[B][COLOR royalblue] [ ] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/salvodc/salvaturesster/76.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_it_sport_moto_gp_hd.png</thumbnail>
+</item>
