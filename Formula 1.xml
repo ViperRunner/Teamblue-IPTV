@@ -1,31 +1,119 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="http://i.imgur.com/BLuGCDF.jpg",[B][COLOR skyblue]FORMULA 1 2016[/B][/COLOR]   
-http://0.0.0.0:1234   
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ufRRUf9.jpg",[B][COLOR skyblue]GP DO MONACO  [/B][/COLOR] 
-http://0.0.0.0:1234   
-#EXTINF:-1,[B][COLOR white]--------------------------------------------------[/B][/COLOR]   
-http://0.0.0.0:1234   
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MgPvryf.jpg",[B][COLOR gold] /  FP1  [/B][/COLOR]
-http://0.0.0.0:1234   
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MgPvryf.jpg",[B][COLOR gold]0 /  FP2  [/B][/COLOR]
-http://0.0.0.0:1234   
-http://0.0.0.0:1234   
-#EXTINF:-1,[B][COLOR white]--------------------------------------------------[/B][/COLOR]   
-http://0.0.0.0:1234   
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MgPvryf.jpg",[B][COLOR gold]28.05 / 10h00 FP3  [/B][/COLOR]
-http://0.0.0.0:1234   
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MgPvryf.jpg",[B][COLOR gold]28.05 / 13h00 Q  [/B][/COLOR]
-http://0.0.0.0:1234   
-http://0.0.0.0:1234   
-#EXTINF:-1,[B][COLOR white]--------------------------------------------------[/B][/COLOR]   
-http://0.0.0.0:1234   
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MgPvryf.jpg",[B][COLOR gold]29.05 / 13h00 RAC  [/B][/COLOR]
-http://0.0.0.0:1234   
-#EXTINF:-1,[B][COLOR white]--------------------------------------------------[/B][/COLOR]   
-http://0.0.0.0:1234   
+<item>
+<title>[B][COLOR skyblue]FORMULA 1 2016[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/BLuGCDF.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR skyblue]GP DO MONACO[/B][/COLOR]</title>
+<link>ttp://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/ufRRUf9.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]--------------------------------------------------[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[B][COLOR gold]28.05 / 10h00 FP3[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/MgPvryf.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR gold]28.05 / 13h00 Q[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/MgPvryf.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]--------------------------------------------------[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[B][COLOR gold]29.05 / 13h00 RAC[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/MgPvryf.jpg</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]--------------------------------------------------[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[B][COLOR red]CANAIS DISPONIVEIS[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail>http://i.imgur.com/vcfu9M3.png</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/vcfu9M3.png",[B][COLOR red]CANAIS DISPONIVEIS  [/B][/COLOR] 
-http://0.0.0.0:1234   
+ARENAVISION 11
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] INT: [B][COLOR white]ARENAVISION 11[B][COLOR royalblue] [HD ] [B][COLOR red](Plexus)[/B][/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&url=acestream://1cb5faaaef8165765a9d069ba13b20f4f9260ce2&name=Sports</link>
+<thumbnail>http://i.imgur.com/J18GoWA.png</thumbnail>
+</item>
+ARENAVISION 12
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] INT: [B][COLOR white]ARENAVISION 12[B][COLOR royalblue] [HD ] [B][COLOR red](Plexus)[/B][/COLOR]</title>
+<link>plugin://program.plexus/?mode=1&url=acestream://46204e81564a4ad5f38f67aac8f3fab16dcfe94a&mode=1&name=acestream&mode=1&name=SPORTS</link>
+<thumbnail>http://i.imgur.com/xnpnMLa.png</thumbnail>
+</item>
 
-#EXTINF:-1,ARENAVISION
-plugin://program.plexus/?mode=1&url=acestream://359a65b9d81e5bf1eaaa8467fd888e08152dc5be&name=SportTV1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
