@@ -11,121 +11,121 @@
 **************************************************
 ARENAVISION 1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] INT: [B][COLOR white]ARENAVISION 1[B][COLOR royalblue] [HD ] [B][COLOR red](f4mtester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=df5e6b21940b9f56fb6f55cafcd2c38de0ba7f06;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] INT: [B][COLOR white]ARENAVISION 1[B][COLOR royalblue] [HD ] [B][COLOR red](Plexus)[/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://df5e6b21940b9f56fb6f55cafcd2c38de0ba7f06&amp;mode=1&amp;name=acestream+SPORTS</link>
 <thumbnail>http://i.imgur.com/Fi9iCjo.png</thumbnail>
 </item>
 ARENAVISION 2
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] INT: [B][COLOR white]ARENAVISION 2[B][COLOR royalblue] [HD ] [B][COLOR red](Plexus)[/B][/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&url=acestream://&mode=1&name=acestream&mode=1&name=SPORTS</link>
+<link>plugin://program.plexus/?url=acestream://39eb8aa152e28148bd9a69960291b0398188d244&amp;mode=1&amp;name=acestream+SPORTS</link>
 <thumbnail>http://i.imgur.com/GXIUOwx.png</thumbnail>
 </item>
 ARENAVISION 3
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] INT: [B][COLOR white]ARENAVISION 3[B][COLOR royalblue] [HD ] [B][COLOR red](Plexus)[/B][/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&url=acestream://&mode=1&name=acestream&mode=1&name=SPORTS</link>
+<link>plugin://program.plexus/?url=acestream://af106aa68b7710889684b9c789bbaec2a3979692&amp;mode=1&amp;name=acestream+SPORTS</link>
 <thumbnail>http://i.imgur.com/JdhMWOk.png</thumbnail>
 </item>
 ARENAVISION 4
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] INT: [B][COLOR white]ARENAVISION 4[B][COLOR royalblue] [HD ] [B][COLOR red](Plexus)[/B][/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&url=acestream://&mode=1&name=acestream&mode=1&name=SPORTS</link>
+<link>plugin://program.plexus/?url=acestream://8977077d30d5cdb17ce603a58e03e1d7d0aa2240&amp;mode=1&amp;name=acestream+SPORTS</link>
 <thumbnail>http://i.imgur.com/SpkdaR0.png</thumbnail>
 </item>
 ARENAVISION 5
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] INT: [B][COLOR white]ARENAVISION 5[B][COLOR royalblue] [HD ] [B][COLOR red](Plexus)[/B][/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&url=acestream://&mode=1&name=acestream&mode=1&name=SPORTS</link>
-<thumbnail>http://i.imgur.com/rihnkMv.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 ARENAVISION 6
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] INT: [B][COLOR white]ARENAVISION 6[B][COLOR royalblue] [HD ] [B][COLOR red](Plexus)[/B][/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&url=acestream://&mode=1&name=acestream&mode=1&name=SPORTS</link>
-<thumbnail>http://i.imgur.com/UOjiqCF.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 ARENAVISION 7
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] INT: [B][COLOR white]ARENAVISION 7[B][COLOR royalblue] [HD ] [B][COLOR red](Plexus)[/B][/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&url=acestream://&mode=1&name=acestream&mode=1&name=SPORTS</link>
-<thumbnail>http://i.imgur.com/G3xmauW.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 ARENAVISION 8
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] INT: [B][COLOR white]ARENAVISION 8[B][COLOR royalblue] [HD ] [B][COLOR red](Plexus)[/B][/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&url=acestream://&mode=1&name=acestream&mode=1&name=SPORTS</link>
-<thumbnail>http://i.imgur.com/TdgjIIx.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 ARENAVISION 9
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] INT: [B][COLOR white]ARENAVISION 9[B][COLOR royalblue] [HD ] [B][COLOR red](Plexus)[/B][/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&url=acestream://&mode=1&name=acestream&mode=1&name=SPORTS</link>
+<link>plugin://program.plexus/?url=acestream://770e83d3a3e26cd326574529d41544c7e32d07d8&amp;mode=1&amp;name=acestream+SPORTS</link>
 <thumbnail>http://i.imgur.com/0cnsKMR.png</thumbnail>
 </item>
 ARENAVISION 10
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] INT: [B][COLOR white]ARENAVISION 10[B][COLOR royalblue] [HD ] [B][COLOR red](Plexus)[/B][/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&url=acestream://&mode=1&name=acestream&mode=1&name=SPORTS</link>
+<link>plugin://program.plexus/?url=acestream://bced6d4b19765cd883c2b1345bb74e388ca083cc&amp;mode=1&amp;name=acestream+SPORTS</link>
 <thumbnail>http://i.imgur.com/A2DKVvM.png</thumbnail>
 </item>
 ARENAVISION 11
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] INT: [B][COLOR white]ARENAVISION 11[B][COLOR royalblue] [HD ] [B][COLOR red](Plexus)[/B][/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&url=acestream://1cb5faaaef8165765a9d069ba13b20f4f9260ce2&mode=1&name=acestream&mode=1&name=SPORTS</link>
+<link>plugin://program.plexus/?url=acestream://1cb5faaaef8165765a9d069ba13b20f4f9260ce2&amp;mode=1&amp;name=acestream+SPORTS</link>
 <thumbnail>http://i.imgur.com/J18GoWA.png</thumbnail>
 </item>
 ARENAVISION 12
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] INT: [B][COLOR white]ARENAVISION 12[B][COLOR royalblue] [HD ] [B][COLOR red](Plexus)[/B][/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&url=acestream://46204e81564a4ad5f38f67aac8f3fab16dcfe94a&mode=1&name=acestream&mode=1&name=SPORTS</link>
+<link>plugin://program.plexus/?url=acestream://46204e81564a4ad5f38f67aac8f3fab16dcfe94a&amp;mode=1&amp;name=acestream+SPORTS</link>
 <thumbnail>http://i.imgur.com/xnpnMLa.png</thumbnail>
 </item>
 ARENAVISION 13
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] INT: [B][COLOR white]ARENAVISION 13[B][COLOR royalblue] [HD ] [B][COLOR red](Plexus)[/B][/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&url=acestream://&mode=1&name=acestream&mode=1&name=SPORTS</link>
-<thumbnail>http://i.imgur.com/G734OM8.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 ARENAVISION 14
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] INT: [B][COLOR white]ARENAVISION 14[B][COLOR royalblue] [HD ] [B][COLOR red](Plexus)[/B][/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&url=acestream://&mode=1&name=acestream&mode=1&name=SPORTS</link>
-<thumbnail>http://i.imgur.com/OuiyrIa.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 ARENAVISION 15
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] INT: [B][COLOR white]ARENAVISION 15[B][COLOR royalblue] [HD ] [B][COLOR red](Plexus)[/B][/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&url=acestream://&mode=1&name=acestream&mode=1&name=SPORTS</link>
-<thumbnail>http://i.imgur.com/lBK3eHN.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 ARENAVISION 16
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] INT: [B][COLOR white]ARENAVISION 16[B][COLOR royalblue] [HD ] [B][COLOR red](Plexus)[/B][/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&url=acestream://&mode=1&name=acestream&mode=1&name=SPORTS</link>
-<thumbnail>http://i.imgur.com/1mxNJcG.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 ARENAVISION 17
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] INT: [B][COLOR white]ARENAVISION 17[B][COLOR royalblue] [HD ] [B][COLOR red](Plexus)[/B][/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&url=acestream://&mode=1&name=acestream&mode=1&name=SPORTS</link>
-<thumbnail>http://i.imgur.com/nZfjsX0.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 ARENAVISION 18
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] INT: [B][COLOR white]ARENAVISION 18[B][COLOR royalblue] [HD ] [B][COLOR red](Plexus)[/B][/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&url=acestream://&mode=1&name=acestream&mode=1&name=SPORTS</link>
-<thumbnail>http://i.imgur.com/97LTrHf.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 ARENAVISION 19
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] INT: [B][COLOR white]ARENAVISION 19[B][COLOR royalblue] [HD ] [B][COLOR red](Plexus)[/B][/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&url=acestream://&mode=1&name=acestream&mode=1&name=SPORTS</link>
-<thumbnail>http://i.imgur.com/49UOinV.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 ARENAVISION 20
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] INT: [B][COLOR white]ARENAVISION 20[B][COLOR royalblue] [HD ] [B][COLOR red](Plexus)[/B][/COLOR]</title>
-<link>plugin://program.plexus/?mode=1&url=acestream://&mode=1&name=acestream&mode=1&name=SPORTS</link>
-<thumbnail>http://i.imgur.com/vVNtyJv.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
