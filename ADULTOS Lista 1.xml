@@ -1,5 +1,5 @@
 <item>
-<title>[B][COLOR yellow]ATUALIZACAO: 28.02.2016[/B][/COLOR]</title>
+<title>[B][COLOR yellow]ATUALIZACAO: 29.02.2016[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail></thumbnail>
 </item>
@@ -53,15 +53,15 @@ HOT
 </item>
 HUSTLER
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] UK: [B][COLOR white]HUSTLER[B][COLOR royalblue] [HD 1080p] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/W9yYsrqm4o/5923D2605/2005.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i.imgur.com/AjzCkE3.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 JASMIN TV
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] UK: [B][COLOR white]JASMIN TV[B][COLOR royalblue] [HD 720p] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/W9yYsrqm4o/5923D2605/1516.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i.imgur.com/WsQdmim.jpg</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 NUART
 <item>
@@ -101,15 +101,15 @@ PLAYBOY
 </item>
 PRIVATE
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] US: [B][COLOR white]PRIVATE[B][COLOR royalblue] [HD 720p] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] US: [B][COLOR white]PRIVATE[B][COLOR royalblue] [HD] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://195.154.183.48:8000/live/roberto1/roberto1/1132.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/lhIgBCW.png</thumbnail>
 </item>
 REDLIGHT
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] US: [B][COLOR white]REDLIGHT[B][COLOR royalblue] [HD 720p] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/BWRfJUHiVf/8eHP55KefP/697.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i.imgur.com/4hkhNSx.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 SATISFACTION
 <item>
@@ -136,11 +136,13 @@ SEXTREME
 <thumbnail></thumbnail>
 </item>
 VENUS
+<item>
 <title></title>
 <link></link>
 <thumbnail></thumbnail>
 </item>
 XXL
+<item>
 <title></title>
 <link></link>
 <thumbnail></thumbnail>
