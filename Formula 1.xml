@@ -86,6 +86,7 @@ SKY SPORT F1
 MOVISTAR F1
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]MOVISTAR F1[B][COLOR royalblue] [SD ] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Giovanni/xSq7wb3dB6/1010.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.re:80/live/free28-05-2016/www.iptv4free.com/1915.ts
+;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/NdBGYJy.png</thumbnail>
 </item>
