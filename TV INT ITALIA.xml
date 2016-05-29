@@ -1,5 +1,5 @@
 <item>
-<title>[B][COLOR yellow]ATUALIZACAO: 27.05.2016[/B][/COLOR]</title>
+<title>[B][COLOR yellow]ATUALIZACAO: 29.05.2016[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail></thumbnail>
 </item>
@@ -9,57 +9,105 @@
 <thumbnail></thumbnail>
 </item>
 **************************************************
-RAI 1
+ANIMAL PLANET
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] IT: [B][COLOR white]RAI 1[B][COLOR royalblue] [ ] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/freedailyiptv/www.albaniaiptv.com/158.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i.imgur.com/hVDJfWs.png</thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]ANIMAL PLANET [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/askin/askin/566.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/animal_planet_us.png</thumbnail>
 </item>
-RAI 2
-<item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] IT: [B][COLOR white]RAI 2[B][COLOR royalblue] [ ] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/freedailyiptv/www.albaniaiptv.com/154.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i.imgur.com/5XaTbVX.png</thumbnail>
-</item>
-RAI 3
-<item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] IT: [B][COLOR white]RAI 3[B][COLOR royalblue] [ ] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/freedailyiptv/www.albaniaiptv.com/153.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i.imgur.com/7hwG3Dy.png</thumbnail>
-</item>
-RAI 4
-<item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] IT: [B][COLOR white]RAI 4[B][COLOR royalblue] [ ] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/freedailyiptv/www.albaniaiptv.com/152.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i.imgur.com/GPmFBH0.png</thumbnail>
-</item>
-RAI 5
-<item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] IT: [B][COLOR white]RAI 5[B][COLOR royalblue] [ ] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/freedailyiptv/www.albaniaiptv.com/151.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i.imgur.com/GPmFBH0.png</thumbnail>
-</item>
-RSI LA1
-<item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] IT: [B][COLOR white]RSI LA1[B][COLOR royalblue] [ ] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/freedailyiptv/www.albaniaiptv.com/149.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i.imgur.com/4xM3oJ4.png</thumbnail>
-</item>
-RSI LA2
-<item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] IT: [B][COLOR white]RSI LA2[B][COLOR royalblue] [ ] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/freedailyiptv/www.albaniaiptv.com/7220.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i.imgur.com/HYRbu3N.png</thumbnail>
-</item>
-LA 7
-<item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] IT: [B][COLOR white]LA 7[B][COLOR royalblue] [ ] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/freedailyiptv/www.albaniaiptv.com/156.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ll/la_7_it.png</thumbnail>
-</item>
-
+DISCOVERY SCIENCE
 <item>
 <title></title>
 <link></link>
 <thumbnail></thumbnail>
+</item>
+LA 7
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]LA 7 [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/askin/askin/618.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ll/la_7_it.png</thumbnail>
+</item>
+HISTORY
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]HISTORY [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/askin/askin/629.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/g5uYzpc.png</thumbnail>
+</item>
+NATIONAL GEOGRAPHIC CHANNEL
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+NAT GEO WILD
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]NAT GEO WILD [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/askin/askin/636.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nat_geo_wild_us.png</thumbnail>
+</item>
+RAI 1
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]RAI 1 [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/askin/askin/586.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/hVDJfWs.png</thumbnail>
+</item>
+RAI 2
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]RAI 2 [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/askin/askin/587.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/5XaTbVX.png</thumbnail>
+</item>
+RAI 3
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]RAI 3 [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/askin/askin/588.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/7hwG3Dy.png</thumbnail>
+</item>
+RAI 4
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]RAI 4 [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/askin/askin/589.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/GPmFBH0.png</thumbnail>
+</item>
+RAI 5
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]RAI 5 [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/askin/askin/590.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/GPmFBH0.png</thumbnail>
+</item>
+RSI LA1
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]RSI LA1 [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/askin/askin/608.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/4xM3oJ4.png</thumbnail>
+</item>
+RSI LA2
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]RSI LA2 [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/askin/askin/607.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/HYRbu3N.png</thumbnail>
+</item>
+LA 3
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+CARTOON NETWORK
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]CARTOON NETWORK [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/askin/askin/564.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/EuQiOf1.png</thumbnail>
+</item>
+DISNEY CHANNEL
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+DISNEY JUNIOR
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]DISNEY JUNIOR [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/askin/askin/623.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/CZvsFYH.png</thumbnail>
 </item>
