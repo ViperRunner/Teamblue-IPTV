@@ -59,14 +59,14 @@ MOTORVISION TV
 </item>
 PFC
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]PFC [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/911.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/j3ZgJkr.png</thumbnail>
 </item>
 SPORT TV 1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/SUsojOyxUv/LR16au3pFJ/676.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR red](http)[/B][/COLOR]</title>
+<link>rtmp://46.28.53.22/live playPath=spin1?id=26812&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=15 conn=S:OK live=true swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf  flashver=WIN\2021,0,0,216 pageUrl=http://www.embedezcast.com/embedplayer/spin1/1/790/420  </link>
 <thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
 </item>
 SPORT TV 2
