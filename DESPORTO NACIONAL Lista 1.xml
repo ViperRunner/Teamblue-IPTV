@@ -1,5 +1,5 @@
 <item>
-<title>[B][COLOR yellow]ATUALIZACAO: 28.05.2016[/B][/COLOR]</title>
+<title>[B][COLOR yellow]ATUALIZACAO: 31.05.2016[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail></thumbnail>
 </item>
@@ -11,21 +11,21 @@
 **************************************************
 BENFICA TV 1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]BENFICA TV 1[B][COLOR royalblue] [HD ] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/SUsojOyxUv/LR16au3pFJ/633.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]BENFICA TV 1 [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/samsam/samsam/2844.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/FXDakNf.png</thumbnail>
 </item>
 BENFICA TV 2
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]BENFICA TV 2[B][COLOR royalblue] [HD] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.39.66.183:8000/live/bruno/bruno/56.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title></title>
+<link></link>
 <thumbnail>http://i.imgur.com/mCK5Jwz.png</thumbnail>
 </item>
 EUROSPORT 1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]EUROSPORT 1[B][COLOR royalblue] [HD] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/SUsojOyxUv/LR16au3pFJ/629.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i.imgur.com/00mXlvU.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 EUROSPORT 2
 <item>
@@ -41,9 +41,9 @@ EUROSPORT 2 XTRA
 </item>
 EUROSPORT NEWS
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]EUROSPORT NEWS [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/922.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/r6gIP7Y.png</thumbnail>
 </item>
 MOTORS TV
 <item>
@@ -53,7 +53,7 @@ MOTORS TV
 </item>
 MOTORVISION TV
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] UK: [B][COLOR white]MOTORVISION TV[B][COLOR royalblue] [HD] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] UK: [B][COLOR white]MOTORVISION TV [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/SUsojOyxUv/LR16au3pFJ/685.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/ixMRmkM.png</thumbnail>
 </item>
@@ -65,25 +65,25 @@ PFC
 </item>
 SPORT TV 1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1[B][COLOR royalblue] [HD] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://89.114.56.194:8010/play/a03t;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdn02.selling-team.net:8000/live/49JRfRYKfp/BIOFAEXP1607/6029.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
 </item>
 SPORT TV 2
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 2[B][COLOR royalblue] [HD] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 2 [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/SUsojOyxUv/LR16au3pFJ/675.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/fsgRDjH.png</thumbnail>
 </item>
 SPORT TV 3
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 3[B][COLOR royalblue] [HD] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 3 [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/SUsojOyxUv/LR16au3pFJ/674.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/XvI6JNr.png</thumbnail>
 </item>
 SPORT TV 4
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 4[B][COLOR royalblue] [HD] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 4 [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://89.114.56.194:8010/play/a03v;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/IZCGvyl.png</thumbnail>
 </item>
@@ -92,3 +92,10 @@ SPORT TV 5
 <title></title>
 <link></link>
 <thumbnail></thumbnail>
+</item>
+SPORTING TV
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
