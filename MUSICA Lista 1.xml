@@ -55,3 +55,29 @@ VEVO 1
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]VEVO 1 [B][COLOR red](http)[/B][/COLOR]</title>
 <link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8</link>
+<thumbnail>http://i.imgur.com/gvrcgs1.png</thumbnail>
+</item>
+VEVO 2
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]VEVO 2 [B][COLOR red](http)[/B][/COLOR]</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8</link>
+<thumbnail>http://i.imgur.com/gvrcgs1.png</thumbnail>
+</item>
+VEVO 3
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]VEVO 3 [B][COLOR red](http)[/B][/COLOR]</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8</link>
+<thumbnail>http://i.imgur.com/gvrcgs1.png</thumbnail>
+</item>
+VH1
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]VH1 [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/larry/larry/9501.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/qfie62n.png</thumbnail>
+</item>
+VH1 CLASSIC
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
