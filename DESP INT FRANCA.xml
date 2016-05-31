@@ -1,5 +1,5 @@
 <item>
-<title>[B][COLOR yellow]ATUALIZACAO: 27.05.2016[/B][/COLOR]</title>
+<title>[B][COLOR yellow]ATUALIZACAO: 31.05.2016[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail></thumbnail>
 </item>
@@ -11,20 +11,31 @@
 **************************************************
 beiN SPORTS 1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]beiN SPORTS 1[B][COLOR royalblue] [ ] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/kantor/kantor/5676.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]beiN SPORTS 1 [B][COLOR royalblue][HD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/samsam/samsam/3604.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/UNGRg6Q.png</thumbnail>
 </item>
 beiN SPORTS 2
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]beiN SPORTS 2[B][COLOR royalblue] [ ] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/aria/aria/2891.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]beiN SPORTS 2 [B][COLOR royalblue][][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/samsam/samsam/3605.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/AZSqeFo.png</thumbnail>
 </item>
 beiN SPORTS 3
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]beiN SPORTS 3[B][COLOR royalblue] [ ] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Giovanni/xSq7wb3dB6/364.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]beiN SPORTS 3 [B][COLOR royalblue][HD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/samsam/samsam/3606.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/ouI3hiP.png</thumbnail>
 </item>
-
+EUROSPORT 1
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]EUROSPORT 1 [B][COLOR royalblue][][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/askin/askin/868.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/00mXlvU.png</thumbnail>
+</item>
+EUROSPORT 2
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]EUROSPORT 2 [B][COLOR royalblue][HD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/samsam/samsam/3317.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/MZBusxr.png</thumbnail>
+</item>
