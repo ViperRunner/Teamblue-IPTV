@@ -11,13 +11,13 @@
 **************************************************
 EUROSPORT 1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]EUROSPORT 1 [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]EUROSPORT 1 [B][COLOR royalblue][][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/askin/askin/645.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/00mXlvU.png</thumbnail>
 </item>
 EUROSPORT 2
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]EUROSPORT 2 [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]EUROSPORT 2 [B][COLOR royalblue][][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/askin/askin/644.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/MZBusxr.png</thumbnail>
 </item>
@@ -35,79 +35,79 @@ FOX SPORT 1
 </item>
 RAI SPORT 1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]RAI SPORT 1[B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/askin/askin/615.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]RAI SPORT 1 [B][COLOR royalblue][HD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvxsempre.zapto.org:8000/live/aniello/aniello/1785.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/6ohVjfO.png</thumbnail>
 </item>
 RAI SPORT 2
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]RAI SPORT 2[B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/askin/askin/632.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]RAI SPORT 2 [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptvxsempre.zapto.org:8000/live/aniello/aniello/1786.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/GSmMg8K.png</thumbnail>
 </item>
 SKY SPORT 1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]SKY SPORT 1[B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]SKY SPORT 1 [B][COLOR royalblue][UHD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://speedy.momy.mooo.com:8000/live/1fol131/lovebelg3-4ElA1J7ZFV/54.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/3mfIB6Q.jpg</thumbnail>
 </item>
 SKY SPORT 1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]SKY SPORT 1[B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]SKY SPORT 1 [B][COLOR royalblue][HD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://speedy.momy.mooo.com:8000/live/1fol131/lovebelg3-4ElA1J7ZFV/100.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/3mfIB6Q.jpg</thumbnail>
 </item>
 SKY SPORT 2
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]SKY SPORT 2[B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]SKY SPORT 2 [B][COLOR royalblue][UHD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://speedy.momy.mooo.com:8000/live/1fol131/lovebelg3-4ElA1J7ZFV/53.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/yfF9Rh7.jpg</thumbnail>
 </item>
 SKY SPORT 2
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]SKY SPORT 2[B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]SKY SPORT 2 [B][COLOR royalblue][HD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://speedy.momy.mooo.com:8000/live/1fol131/lovebelg3-4ElA1J7ZFV/101.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/yfF9Rh7.jpg</thumbnail>
 </item>
 SKY SPORT 2
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]SKY SPORT 2[B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]SKY SPORT 2 [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://speedy.momy.mooo.com:8000/live/1fol131/lovebelg3-4ElA1J7ZFV/3844.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/yfF9Rh7.jpg</thumbnail>
 </item>
 SKY SPORT 3
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]SKY SPORT 3[B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]SKY SPORT 3 [B][COLOR royalblue][UHD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://speedy.momy.mooo.com:8000/live/1fol131/lovebelg3-4ElA1J7ZFV/52.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/OUz9C7a.png</thumbnail>
 </item>
 SKY SPORT 3
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]SKY SPORT 3[B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]SKY SPORT 3 [B][COLOR royalblue][][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://speedy.momy.mooo.com:8000/live/1fol131/lovebelg3-4ElA1J7ZFV/102.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/OUz9C7a.png</thumbnail>
 </item>
 SKY SPORT F1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]SKY SPORT F1[B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]SKY SPORT F1 [B][COLOR royalblue][HD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://speedy.momy.mooo.com:8000/live/1fol131/lovebelg3-4ElA1J7ZFV/104.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/gwmcmK2.png</thumbnail>
 </item>
 SKY SPORT F1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]SKY SPORT F1[B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]SKY SPORT F1 [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://speedy.momy.mooo.com:8000/live/1fol131/lovebelg3-4ElA1J7ZFV/7899.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/gwmcmK2.png</thumbnail>
 </item>
 SKY SPORT MOTOGP
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]SKY SPORT MOTOGP[B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]SKY SPORT MOTOGP [B][COLOR royalblue][HD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://speedy.momy.mooo.com:8000/live/1fol131/lovebelg3-4ElA1J7ZFV/105.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_it_sport_moto_gp_hd.png</thumbnail>
 </item>
 SKY SPORT MOTOGP
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]SKY SPORT MOTOGP[B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]SKY SPORT MOTOGP [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://speedy.momy.mooo.com:8000/live/1fol131/lovebelg3-4ElA1J7ZFV/3851.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_it_sport_moto_gp_hd.png</thumbnail>
 </item>
