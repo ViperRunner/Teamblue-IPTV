@@ -1,5 +1,5 @@
 <item>
-<title>[B][COLOR yellow]ATUALIZACAO: 01.06.2016[/B][/COLOR]</title>
+<title>[B][COLOR yellow]ATUALIZACAO: 02.06.2016[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail></thumbnail>
 </item>
@@ -17,8 +17,8 @@ AMC
 </item>
 AXN
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]AXN [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/samsam/samsam/2823.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]AXN [B][COLOR red](http)[/B][/COLOR]</title>
+<link>rtmp://46.28.53.120/live playpath=axn1x?id=84753&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/axn1x/1/650/450  </link>
 <thumbnail>http://i.imgur.com/emHIhex.png</thumbnail>
 </item>
 AXN BLACK
@@ -59,9 +59,9 @@ FOX COMEDY
 </item>
 FOX CRIME
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FOX CRIME [B][COLOR red](http)[/B][/COLOR]</title>
+<link>rtmp://178.162.199.155/live playpath=foxcrimex?id=84766&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/foxcrimex/1/650/500  </link>
+<thumbnail>http://i.imgur.com/Q8uJUlH.png</thumbnail>
 </item>
 FOX LIFE
 <item>
@@ -101,21 +101,21 @@ TV CINE 1
 </item>
 TV CINE 2
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TV CINE 2 [B][COLOR red](http)[/B][/COLOR]</title>
+<link>http://127.0.0.1:55333/use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2Fruben-mota.mine.nu%3A9511%2Flive%2Fbernardo1%2Fbernardo1%2F48.ts&swf=None&auth=&simpledownloader=False  </link>
+<thumbnail>http://i.imgur.com/ygfeoOl.png</thumbnail>
 </item>
 TV CINE 3
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TV CINE 3 [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://hyper.de1-eu.com:8000/live/samsam/samsam/2818.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TV CINE 3 [B][COLOR red](http)[/B][/COLOR]</title>
+<link>http://127.0.0.1:55333/use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2Fruben-mota.mine.nu%3A9511%2Flive%2Fbernardo1%2Fbernardo1%2F49.ts&swf=None&auth=&simpledownloader=False  </link>
 <thumbnail>http://i.imgur.com/FKAk8WS.png</thumbnail>
 </item>
 TV CINE 4
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TV CINE 4 [B][COLOR red](http)[/B][/COLOR]</title>
+<link>http://127.0.0.1:55333/use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2Fruben-mota.mine.nu%3A9511%2Flive%2Fbernardo1%2Fbernardo1%2F50.ts&swf=None&auth=&simpledownloader=False  </link>
+<thumbnail>http://i.imgur.com/X2nOGkS.png</thumbnail>
 </item>
 TV SERIES
 <item>
