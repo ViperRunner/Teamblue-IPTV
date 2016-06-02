@@ -44,7 +44,7 @@
 <thumbnail>http://i.imgur.com/MgPvryf.jpg</thumbnail>
 </item>
 <item>
-<title>B][COLOR white]--------------------------------------------------[/B][/COLOR]</title>
+<title>[B][COLOR white]--------------------------------------------------[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail></thumbnail>
 </item>
@@ -150,13 +150,13 @@ ARENAVISION 12
 </item>
 SKY SPORT MOTOGP
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]SKY SPORT MOTOGP [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] IT: [B][COLOR white]SKY SPORT MOTOGP [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/32upp/xyg64356/1281.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_it_sport_moto_gp_hd.png</thumbnail>
 </item>
 MOVISTAR MOTOGP
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]MOVISTAR MOTOGP [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] ES: [B][COLOR white]MOVISTAR MOTOGP [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http%3A%2F%2Fipsatpro.com%3A8000%2Flive%2F10002%2F100021%2F1011.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/jOfo0CH.png</thumbnail>
 </item>
