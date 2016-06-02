@@ -32,7 +32,7 @@ TVI
 </item>
 ITV 1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]ITV 1 [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] UK: [B][COLOR white]ITV 1 [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/askin/askin/721.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ii/itv_uk.png</thumbnail>
 </item>
