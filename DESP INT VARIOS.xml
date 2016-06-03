@@ -1,5 +1,5 @@
 <item>
-<title>[B][COLOR yellow]ATUALIZACAO: 01.06.2016[/B][/COLOR]</title>
+<title>[B][COLOR yellow]ATUALIZACAO: 03.06.2016[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail></thumbnail>
 </item>
@@ -9,36 +9,6 @@
 <thumbnail></thumbnail>
 </item>
 **************************************************
-VIASAT FOTBOLL (SW)
-<item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]VIASAT FOTBOLL (SW) [B][COLOR red](Plexus)[/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://15cf5dc9f52086ebaa376d459a64528a8f823dd0&amp;mode=1&amp;name=acestream+SPORTS</link>
-<thumbnail>http://i.imgur.com/myFuvsw.png</thumbnail>
-</item>
-VIASAT MOTOR
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-VIASAT SPORT BALTIC
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-VIASAT TV3 SPORT 1
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
-VIASAT TV3 SPORT 2
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
 ARENA SPORT 1 (HU)
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]ARENA SPORT 1 (HU) [B][COLOR red](f4mTester)[/B][/COLOR]</title>
@@ -99,6 +69,30 @@ ARENA SPORT 5 (SRB)
 <link></link>
 <thumbnail></thumbnail>
 </item>
+MATCH! FUTBOL 1 (RUS)
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]MATCH! FUTBOL 1 (RUS) [B][COLOR red](Plexus)[/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://08a63f614b2598df401b9173856471540d00e377&amp;mode=1&amp;name=acestream+SPORTS</link>
+<thumbnail>http://i.imgur.com/n8ELBi0.png</thumbnail>
+</item>
+MATCH! FUTBOL 1 HD (RUS)
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]MATCH! FUTBOL 1 HD (RUS) [B][COLOR red](Plexus)[/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://d70caa3583bc4c02642a1c41f73e8cb9a28e60c2&amp;mode=1&amp;name=acestream+SPORTS</link>
+<thumbnail>http://i.imgur.com/n8ELBi0.png</thumbnail>
+</item>
+MATCH! FUTBOL 2 (RUS)
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+MATCH! FUTBOL 2 HD (RUS)
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
 SPORT KLUB 1 (HR)
 <item>
 <title></title>
@@ -123,50 +117,36 @@ SPORT KLUB 4 (HR)
 <link></link>
 <thumbnail></thumbnail>
 </item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+VIASAT FOTBOLL (SW)
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]VIASAT FOTBOLL (SW) [B][COLOR red](Plexus)[/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://15cf5dc9f52086ebaa376d459a64528a8f823dd0&amp;mode=1&amp;name=acestream+SPORTS</link>
+<thumbnail>http://i.imgur.com/myFuvsw.png</thumbnail>
+</item>
+VIASAT MOTOR
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+VIASAT SPORT BALTIC
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+VIASAT TV3 SPORT 1
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+VIASAT TV3 SPORT 2
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
 
 
 
