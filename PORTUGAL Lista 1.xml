@@ -1,5 +1,5 @@
 <item>
-<title>[B][COLOR yellow]ATUALIZACAO: 01.06.2016[/B][/COLOR]</title>
+<title>[B][COLOR yellow]ATUALIZACAO: 03.06.2016[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail></thumbnail>
 </item>
@@ -66,7 +66,7 @@ SIC
 SIC CARAS
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC CARAS [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdn02.selling-team.net:8000/live/49JRfRYKfp/BIOFAEXP1607/5996.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ptbrvirtual.no-ip.net:8000/live/brunosofiamagalhaez@gmail.com/z0LyEB0MvT/258.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/0sbuJEj.png</thumbnail>
 </item>
 SIC MULHER
@@ -77,9 +77,9 @@ SIC MULHER
 </item>
 SIC NOTICIAS
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC NOTICIAS [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ptbrvirtual.no-ip.net:8000/live/brunosofiamagalhaez@gmail.com/z0LyEB0MvT/168.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/qdQ02xS.png</thumbnail>
 </item>
 SIC RADICAL
 <item>
@@ -119,7 +119,7 @@ TVI REALITY
 </item>
 24 KITCHEN
 <item>
-<title>lawngreen]•[/B][/COLOR] PT: [B][COLOR white]24 KITCHEN [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]24 KITCHEN [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ptbrvirtual.no-ip.net:8000/live/brunosofiamagalhaez@gmail.com/z0LyEB0MvT/181.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/num/24_kitchen_us.png</thumbnail>
 </item>
@@ -185,9 +185,9 @@ TPA INTERNACIONAL
 </item>
 TV GLOBO
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TV GLOBO [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ptbrvirtual.no-ip.net:8000/live/brunosofiamagalhaez@gmail.com/z0LyEB0MvT/241.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/1OKBioL.png</thumbnail>
 </item>
 TV GLOBO PREMIUM
 <item>
@@ -197,9 +197,9 @@ TV GLOBO PREMIUM
 </item>
 TV RECORD
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TV RECORD [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://ptbrvirtual.no-ip.net:8000/live/brunosofiamagalhaez@gmail.com/z0LyEB0MvT/52.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/1OKBioL.png</thumbnail>
 </item>
 TV RECORD NEWS
 <item>
