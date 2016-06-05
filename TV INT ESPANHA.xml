@@ -11,13 +11,13 @@
 **************************************************
 ANTENA 3
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]ANTENA 3[B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]ANTENA 3 [B][COLOR royalblue][HD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1234567/1234567/1000.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/antena3.png</thumbnail>
 </item>
 CALLE 13
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]CALLE 13[B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]CALLE 13 [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1234567/1234567/1009.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/calle13_universal.png</thumbnail>
 </item>
@@ -29,13 +29,13 @@ CNBC EUROPE
 </item>
 COCINA
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]COCINA[B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]COCINA [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1234567/1234567/1024.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/5E0UuoZ.png</thumbnail>
 </item>
 CUATRO
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]CUATRO[B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]CUATRO [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/multi6/kT51EXO26l/1337.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/cuatro_es.png</thumbnail>
 </item>
@@ -83,7 +83,7 @@ ANIMAL PLANET
 </item>
 ARTE
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] : [B][COLOR white]ARTE [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]ARTE [B][COLOR royalblue][][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://elite-stream.dyndns.tv:8000/live/test/test/418.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/arte_de.png</thumbnail>
 </item>
@@ -101,13 +101,13 @@ CBS REALITY
 </item>
 DISCOVERY CHANNEL
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]DISCOVERY CHANNEL[B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]DISCOVERY CHANNEL [B][COLOR royalblue][HD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://elite-stream.dyndns.tv:8000/live/test/test/2954.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/OznL5Kq.png</thumbnail>
 </item>
 DISCOVERY SCIENCE
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]DISCOVERY SCIENCE [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]DISCOVERY SCIENCE [B][COLOR royalblue][HD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://elite-stream.dyndns.tv:8000/live/test/test/3452.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/discovery_science_global.png</thumbnail>
 </item>
@@ -131,25 +131,25 @@ FTV
 </item>
 HISTORIA
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]HISTORIA[B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]HISTORIA [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/multi6/kT51EXO26l/1378.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/oo/odisea_es.png</thumbnail>
 </item>
 NATIONAL GEOGRAPHIC
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]NATIONAL GEOGRAPHIC[B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]NATIONAL GEOGRAPHIC [B][COLOR royalblue][HD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://elite-stream.dyndns.tv:8000/live/test/test/3619.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/OznL5Kq.png</thumbnail>
 </item>
 NAT GEO WILD
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]NAT GEO WILD[B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]NAT GEO WILD [B][COLOR royalblue][HD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://elite-stream.dyndns.tv:8000/live/test/test/3863.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nat_geo_wild_us.png</thumbnail>
 </item>
 ODISEA
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]ODISEA[B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]ODISEA [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/multi6/kT51EXO26l/1378.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/oo/odisea_es.png</thumbnail>
 </item>
@@ -167,7 +167,7 @@ TRAVEL
 </item>
 VIAJAR
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]VIAJAR[B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]VIAJAR [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1234567/1234567/1043.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.lyngsat-logo.com/tv/v_1.html</thumbnail>
 </item>
@@ -185,13 +185,13 @@ CANAL PANDA
 </item>
 CARTOON NETWORK
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]CARTOON NETWORK [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]CARTOON NETWORK [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.127.19:8000/live/dydlista/dydlista/446.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/EuQiOf1.png</thumbnail>
 </item>
 DISNEY CHANNEL
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]DISNEY CHANNEL [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]DISNEY CHANNEL [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1234567/1234567/1040.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/g0UK661.png</thumbnail>
 </item>
@@ -209,7 +209,7 @@ DISNEY JUNIOR
 </item>
 DISNEY XD
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]DISNEY XD[B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]DISNEY XD [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1234567/1234567/1038.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/disney_xd_us.png</thumbnail>
 </item>
@@ -227,13 +227,13 @@ NICKELEODEON
 </item>
 DELUXE MUSIQUE
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]DELUXE MUSIQUE [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]DELUXE MUSIQUE [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://elite-stream.dyndns.tv:8000/live/test/test/3758.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/deluxe_music_de.png</thumbnail>
 </item>
 M6 MUSIQUE
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]M6 MUSIQUE [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]M6 MUSIQUE [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://elite-stream.dyndns.tv:8000/live/test/test/3446.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/m6_fr.png</thumbnail>
 </item>
@@ -245,37 +245,37 @@ MTV
 </item>
 VEVO MUSIC
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]VEVO MUSIC [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]VEVO MUSIC [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://elite-stream.dyndns.tv:8000/live/test/test/2195.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/gvrcgs1.png</thumbnail>
 </item>
 VEVO ROCK
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]VEVO ROCK [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]VEVO ROCK [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://elite-stream.dyndns.tv:8000/live/test/test/2199.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/gvrcgs1.png</thumbnail>
 </item>
 AeE
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]AeE[B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]AeE [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1234567/1234567/1001.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/u7IKaDs.png</thumbnail>
 </item>
 AMC
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]AMC[B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]AMC [B][COLOR royalblue][HD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.127.19:8000/live/dydlista/dydlista/460.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/fHe2vb2.png</thumbnail>
 </item>
 AXN
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]AXN[B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]AXN [B][COLOR royalblue][HD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://158.69.127.19:8000/live/dydlista/dydlista/435.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/emHIhex.png</thumbnail>
 </item>
 AXN
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]AXN[B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]AXN [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/wael/wael/906.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/emHIhex.png</thumbnail>
 </item>
@@ -287,19 +287,19 @@ AXN BLACK
 </item>
 AXN WHITE
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]AXN WHITE[B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]AXN WHITE [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/wael/wael/905.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/BsllP65.png</thumbnail>
 </item>
 FOX
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]FOX[B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]FOX [B][COLOR royalblue][HD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1234567/1234567/1029.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/X4XkCez.png</thumbnail>
 </item>
 FOX CINEMA
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]FOX CINEMA[B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]FOX CINEMA [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1234567/1234567/1060.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.lyngsat-logo.com/tv/f_1.html</thumbnail>
 </item>
@@ -311,13 +311,13 @@ FOX LIFE
 </item>
 HOLLYWOOD
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]HOLLYWOOD[B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]HOLLYWOOD [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/wael/wael/894.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xuqyuy1433356382.png</thumbnail>
 </item>
 SYFY
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]SYFY[B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]SYFY [B][COLOR royalblue][HD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/wael/wael/907.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qxpsqp1433432599.png</thumbnail>
 </item>
