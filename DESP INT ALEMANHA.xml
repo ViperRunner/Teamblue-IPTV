@@ -1,5 +1,5 @@
 <item>
-<title>[B][COLOR yellow]ATUALIZACAO: 01.06.2016[/B][/COLOR]</title>
+<title>[B][COLOR yellow]ATUALIZACAO: 08.06.2016[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail></thumbnail>
 </item>
@@ -12,7 +12,7 @@
 EUROSPORT 1
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]EUROSPORT 1 [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/ff/ff/1110.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1234567/1234567/809.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/00mXlvU.png</thumbnail>
 </item>
 EUROSPORT 2
@@ -23,11 +23,23 @@ EUROSPORT 2
 </item>
 SKY BUNDESLIGA 1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]SKY BUNDESLIGA 1 [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/461311/461311/18107.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]SKY BUNDESLIGA 1 [B][COLOR royalblue][HD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/22W41EI;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/88bK5JR.png</thumbnail>
 </item>
+SKY BUNDESLIGA 1
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
 SKY BUNDESLIGA 2
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]SKY BUNDESLIGA 2 [B][COLOR royalblue][HD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/azize/azize/1076.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/51lkrqd.png</thumbnail>
+</item>
+SKY SPORT 1
 <item>
 <title></title>
 <link></link>
@@ -35,13 +47,25 @@ SKY BUNDESLIGA 2
 </item>
 SKY SPORT 1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]SKY SPORT 1 [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/S3rmRGvCZJ/nLiiPsA9rT/18072.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]SKY SPORT 1 [B][COLOR royalblue][HD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1TXRriP;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/0DAevQo.png</thumbnail>
 </item>
 SKY SPORT 2
 <item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+SKY SPORT 2
+<item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]SKY SPORT 2 [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/461311/461311/18071.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1XImYvu;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/1neJLgU.png</thumbnail>
+</item>
+SKY SPORT NEWS
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]SKY SPORT NEWS [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1WGGqYX;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/dQMc5EO.png</thumbnail>
 </item>
