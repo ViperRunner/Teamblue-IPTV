@@ -58,45 +58,45 @@
 <link>http://0.0.0.0:1234</link>
 <thumbnail>http://i.imgur.com/vcfu9M3.png</thumbnail>
 </item>
-ARENAVISION 11 (INT)
+ARENAVISION 11
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]ARENAVISION 11 (INT) [B][COLOR royalblue][][/B][/COLOR] [B][COLOR red](Plexus)[/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://1cb5faaaef8165765a9d069ba13b20f4f9260ce2&amp;mode=1&amp;name=acestream+SPORTS</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR]INT: [B][COLOR white]ARENAVISION 11 [B][COLOR royalblue][HD][/B][/COLOR] [B][COLOR red](Plexus)[/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://6c9d5ebd2003ba54c95e92b65c358978759c6a5f&amp;mode=1&amp;name=acestream+SPORTS</link>
 <thumbnail>http://i.imgur.com/J18GoWA.png</thumbnail>
 </item>
-ARENAVISION 12 (INT)
+ARENAVISION 12
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]ARENAVISION 12 (INT) [B][COLOR royalblue][][/B][/COLOR] [B][COLOR red](Plexus)[/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://46204e81564a4ad5f38f67aac8f3fab16dcfe94a&amp;mode=1&amp;name=acestream+SPORTS</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR]INT: [B][COLOR white]ARENAVISION 12 [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](Plexus)[/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://61985f2043e5ffbec1c67528a8fd7c2db0daf091&amp;mode=1&amp;name=acestream+SPORTS</link>
 <thumbnail>http://i.imgur.com/xnpnMLa.png</thumbnail>
 </item>
-SKY SPORTS F1 (UK)
+SKY SPORTS F1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]SKY SPORTS F1 (UK) [B][COLOR royalblue][HD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR]UK: [B][COLOR white]SKY SPORTS F1 [B][COLOR royalblue][HD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1PLmxxy;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/gwmcmK2.png</thumbnail>
 </item>
-SKY SPORTS F1 (UK)
+SKY SPORTS F1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]SKY SPORTS F1 (UK) [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR]UK: [B][COLOR white]SKY SPORTS F1 [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1U2Xms7;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/gwmcmK2.png</thumbnail>
 </item>
-SKY SPORT F1 (IT)
+SKY SPORT 1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]SKY SPORT F1 (IT) [B][COLOR royalblue][HD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1PL3qDU;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i.imgur.com/gwmcmK2.png</thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR]IT: [B][COLOR white]SKY SPORT 1 [B][COLOR royalblue][HD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1Yj6SXY;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/3mfIB6Q.jpg</thumbnail>
 </item>
-MOVISTAR F1 (ES)
+MOVISTAR F1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]MOVISTAR F1 (ES) [B][COLOR royalblue][HD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR]ES: [B][COLOR white]MOVISTAR F1 [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1XHopdL;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/NdBGYJy.png</thumbnail>
 </item>
-MOVISTAR F1 (ES)
+MOVISTAR F1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]MOVISTAR F1 (ES) [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR]ES: [B][COLOR white]MOVISTAR F1 [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1Ugd1m9;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/NdBGYJy.png</thumbnail>
 </item>
