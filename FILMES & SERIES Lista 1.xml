@@ -1,5 +1,5 @@
 <item>
-<title>[B][COLOR yellow]ATUALIZACAO: 09.06.2016[/B][/COLOR]</title>
+<title>[B][COLOR yellow]ATUALIZACAO: 12.06.2016[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail></thumbnail>
 </item>
@@ -17,20 +17,20 @@ AMC
 </item>
 AXN
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]AXN [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1tjLWUB;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/emHIhex.png</thumbnail>
 </item>
 AXN BLACK
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]AXN BLACK [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1UJ3ylY;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/7s8Prye.png</thumbnail>
 </item>
 AXN WHITE
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]AXN WHITE [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1rePSEQ;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/24Izxp9;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/BsllP65.png</thumbnail>
 </item>
 CINEMUNDO
@@ -41,14 +41,14 @@ CINEMUNDO
 </item>
 FX
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FX[B][COLOR royalblue] [HD] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/231tGvN;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/ZwvONFh.png</thumbnail>
 </item>
 FOX
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FOX [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://PV3.fretnow.net:7040/live/mostafa/mostafa/8004.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1Uc8ShE;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/X4XkCez.png</thumbnail>
 </item>
 FOX COMEDY
@@ -65,9 +65,9 @@ FOX CRIME
 </item>
 FOX LIFE
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FOX LIFE [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1XOF3be;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rttuur1433432546.png</thumbnail>
 </item>
 FOX MOVIES
 <item>
@@ -77,14 +77,14 @@ FOX MOVIES
 </item>
 HOLLYWOOD
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]HOLLYWOOD [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1PT3OQM;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xuqyuy1433356382.png</thumbnail>
 </item>
 MOV
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]MOV [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1WGyPcG;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1ZHlgb6;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/ywpyvx1435102521.png</thumbnail>
 </item>
 SyFy
@@ -95,9 +95,9 @@ SyFy
 </item>
 TV CINE 1
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TV CINE 1 [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1Xgf8s8;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/0imsO3D.png</thumbnail>
 </item>
 TV CINE 2
 <item>
@@ -119,7 +119,7 @@ TV CINE 4
 </item>
 TV SERIES
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TV SERIES [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/231u6Cl;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/4HBqB9G.png</thumbnail>
 </item>
