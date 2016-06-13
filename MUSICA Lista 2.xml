@@ -1,5 +1,5 @@
 <item>
-<title>[B][COLOR yellow]ATUALIZACAO: 12.06.2016[/B][/COLOR]</title>
+<title>[B][COLOR yellow]ATUALIZACAO: 13.06.2016[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail></thumbnail>
 </item>
@@ -12,7 +12,7 @@
 AFRO MUSIC
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]AFRO MUSIC [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1riZ0bG;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/5JVp3tMVeY/NnuGlxM41o/1682.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/DS8VGbH.png</thumbnail>
 </item>
 C MUSIC
@@ -23,9 +23,9 @@ C MUSIC
 </item>
 MCM TOP
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]MCM TOP [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/25OGZBu;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i.imgur.com/bV9AgAC.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 MTV DANCE
 <item>
@@ -36,13 +36,13 @@ MTV DANCE
 MTV PORTUGAL
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]MTV PORTUGAL [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1UKkTbo;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://serv01.iptvplanet.eu:11118/live/massimo/massimo/2429.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/GyPW7Rw.png</thumbnail>
 </item>
 TRACE TV
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TRACE TV [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1Yit1p4;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://serv01.iptvplanet.eu:11118/live/massimo/massimo/2430.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/ZVjo0oF.png</thumbnail>
 </item>
 VEVO
@@ -59,25 +59,25 @@ VEVO 1
 </item>
 VEVO 2
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]VEVO 2 [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/5JVp3tMVeY/NnuGlxM41o/1636.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/gvrcgs1.png</thumbnail>
 </item>
 VEVO 3
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]VEVO 3 [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/5JVp3tMVeY/NnuGlxM41o/1637.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<thumbnail>http://i.imgur.com/gvrcgs1.png</thumbnail>
 </item>
 VH1
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]VH1 [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1ZHpOOL;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/adnan/adnan/1744.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/qfie62n.png</thumbnail>
 </item>
 VH1 CLASSIC
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]VH1 CLASSIC [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1UFQqOB;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/5JVp3tMVeY/NnuGlxM41o/1640.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/DzLrn28.png</thumbnail>
 </item>
