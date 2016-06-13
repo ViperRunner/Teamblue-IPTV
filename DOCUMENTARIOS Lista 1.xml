@@ -1,5 +1,5 @@
 <item>
-<title>[B][COLOR yellow]ATUALIZACAO: 12.06.2016[/B][/COLOR]</title>
+<title>[B][COLOR yellow]ATUALIZACAO: 13.06.2016[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail></thumbnail>
 </item>
@@ -48,14 +48,14 @@ HISTORIA
 NATIONAL GEOGRAPHIC CHANNEL
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]NATIONAL GEOGRAPHIC CHANNEL [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1Ygf6Ah;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/5JVp3tMVeY/NnuGlxM41o/1675.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/OznL5Kq.png</thumbnail>
 </item>
 NAT GEO WILD
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]NAT GEO WILD [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1tp800N;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i.imgur.com/sca81nc.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 ODISSEIA
 <item>
@@ -75,4 +75,3 @@ TRAVEL
 <link></link>
 <thumbnail></thumbnail>
 </item>
-
