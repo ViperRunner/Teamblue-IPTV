@@ -11,9 +11,9 @@
 **************************************************
 RTP 1
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP 1 [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://IPTV-VOLKAN.NET:8000/live/edine/edine/1589.ts;streamtype=TSDOWNLOADER&amp;name=RTP 1</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/rtp_1_pt_hd.png</thumbnail>
 </item>
 RTP 2
 <item>
