@@ -18,7 +18,7 @@ BABY TV
 CANAL PANDA
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]CANAL PANDA [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://serv01.iptvplanet.eu:11118/live/massimo/massimo/2437.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>plugin://plugin.video.f4mTester/?url=http://178.166.3.49:9981/stream/channelid/2001252879?ticket=754552E52235772A27534F97FE104DF1AC970957&profile=pass;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail>http://i.imgur.com/zWiKosU.png</thumbnail>
 </item>
 CARTOON NETWORK
