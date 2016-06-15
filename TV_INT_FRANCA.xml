@@ -1,5 +1,5 @@
 <item>
-<title>[B][COLOR yellow]ATUALIZACAO: 11.06.2016[/B][/COLOR]</title>
+<title>[B][COLOR yellow]ATUALIZACAO: 15.06.2016[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail></thumbnail>
 </item>
@@ -11,116 +11,133 @@
 **************************************************
 CINE FX
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]CINE FX [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online:80/live/zorro/zorro/5971.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/cc/cine_fx.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 EURONEWS
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]EURONEWS [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/daniel/daniel/1484.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]EURONEWS [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/adnan/adnan/3317.ts;streamtype=TSDOWNLOADER&amp;name=EURONEWS</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/euronews_fr.png</thumbnail>
 </item>
 FRANCE 2
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]FRANCE 2 [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/italia/italia/312.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]FRANCE 2 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/adnan/adnan/1238.ts;streamtype=TSDOWNLOADER&amp;name=FRANCE 2</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/france2.png</thumbnail>
 </item>
 FRANCE 3
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]FRANCE 3 [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/italia/italia/313.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]FRANCE 3 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/adnan/adnan/1239.ts;streamtype=TSDOWNLOADER&amp;name=FRANCE 3</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/france3.png</thumbnail>
 </item>
 FRANCE 4
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]FRANCE 4 [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/italia/italia/314.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]FRANCE 4 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://IPTV-VOLKAN.NET:8000/live/edine/edine/298.ts;streamtype=TSDOWNLOADER&amp;name=FRANCE 4</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/france4.png</thumbnail>
 </item>
 FRANCE 5
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]FRANCE 5 [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/italia/italia/315.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]FRANCE 5 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/adnan/adnan/3351.ts;streamtype=TSDOWNLOADER&amp;name=FRANCE 5</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/ff/france5.png</thumbnail>
 </item>
 TF1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]TF1 [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/daniel/daniel/322.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]TF1 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cobra2016.dyndns.tv:1947/live/2xBPK-Opladen/24B11E2010/445.ts;streamtype=TSDOWNLOADER&amp;name=TF1</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tf1_suisse.png</thumbnail>
 </item>
 TV5 MONDE
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]TV5 MONDE [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online:80/live/zorro/zorro/5933.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]TV5 MONDE [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/adnan/adnan/1412.ts;streamtype=TSDOWNLOADER&amp;name=TV5 MONDE</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tv5_monde_global_fr.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]--------------------------------------------------[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail></thumbnail>
 </item>
 ANIMAUX
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]ANIMAUX [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online:80/live/zorro/zorro/5987.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]ANIMAUX [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/adnan/adnan/1409.ts;streamtype=TSDOWNLOADER&amp;name=ANIMAUX</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/animaux_fr.png</thumbnail>
 </item>
 ARTE
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]ARTE [B][COLOR royalblue][FHD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/daniel/daniel/1815.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/aa/arte_de.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 ARTE
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]ARTE [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/daniel/daniel/324.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]ARTE [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://IPTV-VOLKAN.NET:8000/live/edine/edine/256.ts;streamtype=TSDOWNLOADER&amp;name=ARTE</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/aa/arte_de.png</thumbnail>
 </item>
 DISCOVERY CHANNEL
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]DISCOVERY CHANNEL [B][COLOR royalblue][FHD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online:80/live/zorro/zorro/5905.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]DISCOVERY CHANNEL [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://IPTV-VOLKAN.NET:8000/live/edine/edine/1832.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY CHANNEL</link>
+<thumbnail>http://i.imgur.com/OznL5Kq.png</thumbnail>
+</item>
+DISCOVERY CHANNEL
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]DISCOVERY CHANNEL [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/adnan/adnan/1992.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY CHANNEL</link>
 <thumbnail>http://i.imgur.com/OznL5Kq.png</thumbnail>
 </item>
 DISCOVERY SCIENCE
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]DISCOVERY SCIENCE [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online:80/live/zorro/zorro/5904.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]DISCOVERY SCIENCE [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://IPTV-VOLKAN.NET:8000/live/edine/edine/309.ts;streamtype=TSDOWNLOADER&amp;name=DISCOVERY SCIENCE</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/discovery_science_global.png</thumbnail>
 </item>
 E!
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]E! [B][COLOR royalblue][FHD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online:80/live/zorro/zorro/5967.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+E!
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]E! [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/adnan/adnan/3319.ts;streamtype=TSDOWNLOADER&amp;name=E!</link>
 <thumbnail>http://i.imgur.com/Ta2wvuo.png</thumbnail>
 </item>
 HISTOIRE
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]HISTOIRE [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/multi6/kT51EXO26l/1378.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]HISTOIRE [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/adnan/adnan/2577.ts;streamtype=TSDOWNLOADER&amp;name=HISTOIRE</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/oo/odisea_es.png</thumbnail>
 </item>
 NATIONAL GEOGRAPHIC
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]NATIONAL GEOGRAPHIC [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online:80/live/zorro/zorro/5882.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]NATIONAL GEOGRAPHIC [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/adnan/adnan/2540.ts;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHIC</link>
 <thumbnail>http://i.imgur.com/OznL5Kq.png</thumbnail>
 </item>
 NAT GEO WILD
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]NAT GEO WILD [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online:80/live/zorro/zorro/5945.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]NAT GEO WILD [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/adnan/adnan/1036.ts;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/nn/nat_geo_wild_us.png</thumbnail>
 </item>
 ODISSEIA
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]ODISSEIA [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/multi6/kT51EXO26l/1378.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/oo/odisea_es.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 PLANET+
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]PLANET+ [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/azize/azize/345.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]PLANET+ [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/adnan/adnan/2441.ts;streamtype=TSDOWNLOADER&amp;name=PLANET+</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/pp/planete_plus.png</thumbnail>
 </item>
 PLANETE AeE
@@ -129,173 +146,230 @@ PLANETE AeE
 <link></link>
 <thumbnail></thumbnail>
 </item>
-SCIENCES & VIE
+SCIENCE & VIE
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]SCIENCES & VIE [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online:80/live/zorro/zorro/5871.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/science_et_vie_tv_fr.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 VOYAGE
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]VOYAGE [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1234567/1234567/1043.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]VOYAGE [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://IPTV-VOLKAN.NET:8000/live/edine/edine/2054.ts;streamtype=TSDOWNLOADER&amp;name=VOYAGE</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/vv/voyage.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]--------------------------------------------------[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail></thumbnail>
+</item>
+BOOMERANG
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]BOOMERANG [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/adnan/adnan/1398.ts;streamtype=TSDOWNLOADER&amp;name=BOOMERANG</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/boomerang_global.png</thumbnail>
 </item>
 CARTOON NETWORK
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]CARTOON NETWORK [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/daniel/daniel/822.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]CARTOON NETWORK [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/adnan/adnan/1392.ts;streamtype=TSDOWNLOADER&amp;name=CARTOON NETWORK</link>
 <thumbnail>http://i.imgur.com/EuQiOf1.png</thumbnail>
 </item>
 DISNEY CHANNEL
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]DISNEY CHANNEL [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online:80/live/zorro/zorro/5901.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]DISNEY CHANNEL [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/adnan/adnan/2506.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL</link>
 <thumbnail>http://i.imgur.com/g0UK661.png</thumbnail>
 </item>
 DISNEY CINEMA
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]DISNEY CINEMA [B][COLOR royalblue][FHD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/daniel/daniel/1104.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/dd/disney_cinema_fr.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 DISNEY CINEMA
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]DISNEY CINEMA [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online:80/live/zorro/zorro/5902.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]DISNEY CINEMA [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://IPTV-VOLKAN.NET:8000/live/edine/edine/2053.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY CINEMA</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/disney_cinema_fr.png</thumbnail>
 </item>
 DISNEY JUNIOR
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]DISNEY JUNIOR [B][COLOR royalblue][FHD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/azize/azize/341.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i.imgur.com/CZvsFYH.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 DISNEY XD
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]DISNEY XD [B][COLOR royalblue][HD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online:80/live/zorro/zorro/5968.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]DISNEY XD [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/adnan/adnan/2504.ts;streamtype=TSDOWNLOADER&amp;name=DISNEY XD</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/disney_xd_us.png</thumbnail>
 </item>
 NICK JR
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]NICK JR [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/coughlan/coughlan/5596.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/nn/nick_jr_us.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 NICKELEODEON
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]NICKELEODEON [B][COLOR royalblue][FHD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/italia/italia/1787.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i.imgur.com/8fMIHmp.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 TIJI
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]TIJI [B][COLOR royalblue][FHD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/daniel/daniel/871.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]TIJI [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/adnan/adnan/2504.ts;streamtype=TSDOWNLOADER&amp;name=TIJI</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tiji_fr.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]--------------------------------------------------[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail></thumbnail>
 </item>
 DELUXE MUSIQUE
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]DELUXE MUSIQUE [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://elite-stream.dyndns.tv:8000/live/test/test/3758.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/dd/deluxe_music_de.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 M6 MUSIQUE
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]M6 MUSIQUE [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/daniel/daniel/1187.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]M6 MUSIQUE [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/daniel/daniel/1187.ts;streamtype=TSDOWNLOADER&amp;name=M6 MUSIQUE</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/mm/m6_fr.png</thumbnail>
+</item>
+MTV
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+MTV BASE
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+MTV DANCE
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+MTV HITS
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+MTV MUSIC
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 MTV ROCKS
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]MTV ROCKS [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://mediaipro.com:8000/live/32upp/xyg64356/2693.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/mm/mtv_rocks_uk.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 VEVO MUSIC
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]VEVO MUSIC [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://elite-stream.dyndns.tv:8000/live/test/test/2195.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i.imgur.com/gvrcgs1.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 VEVO ROCK
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]VEVO ROCK [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://elite-stream.dyndns.tv:8000/live/test/test/2199.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i.imgur.com/gvrcgs1.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]--------------------------------------------------[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail></thumbnail>
+</item>
+13 RUE
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]13 RUE [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/adnan/adnan/2374.ts;streamtype=TSDOWNLOADER&amp;name=13 RUE</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/num/13eme_rue_fr.png</thumbnail>
 </item>
 AMC
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]AMC [B][COLOR royalblue][HD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.127.19:8000/live/dydlista/dydlista/460.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i.imgur.com/fHe2vb2.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 AXN
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]AXN [B][COLOR royalblue][HD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://158.69.127.19:8000/live/dydlista/dydlista/435.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i.imgur.com/emHIhex.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 AXN
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]AXN [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/wael/wael/906.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i.imgur.com/emHIhex.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 AXN WHITE
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]AXN WHITE [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/wael/wael/905.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i.imgur.com/BsllP65.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 CANAL+
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]CANAL+ [B][COLOR royalblue][FHD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/italia/italia/331.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]CANAL+ [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/adnan/adnan/2574.ts;streamtype=TSDOWNLOADER&amp;name=CANAL+</link>
 <thumbnail>http://i.imgur.com/4bHO5AX.png</thumbnail>
 </item>
 CANAL+ CINEMA
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]CANAL+ CINEMA [B][COLOR royalblue][FHD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/italia/italia/332.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]CANAL+ CINEMA [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/adnan/adnan/1395.ts;streamtype=TSDOWNLOADER&amp;name=CANAL+ CINEMA</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/canalplus_fr_cinema.png</thumbnail>
 </item>
 CANAL+ FAMILY
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]CANAL+ FAMILY [B][COLOR royalblue][HD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/nbvghjuiytfghjkl/bEDOYWiy/286.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/cc/canalplus_fr_family.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 CANAL+ SERIES
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]CANAL+ SERIES [B][COLOR royalblue][FHD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/italia/italia/333.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]CANAL+ SERIES [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://IPTV-VOLKAN.NET:8000/live/edine/edine/270.ts;streamtype=TSDOWNLOADER&amp;name=CANAL+ SERIES</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/canalplus_fr_series.png</thumbnail>
 </item>
 CINE FX
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]CINE FX [B][COLOR royalblue][FHD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/nbvghjuiytfghjkl/bEDOYWiy/1146.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]CINE FX [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://IPTV-VOLKAN.NET:8000/live/edine/edine/2051.ts;streamtype=TSDOWNLOADER&amp;name=CINE FX</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/cine_fx.png</thumbnail>
 </item>
 CINE FX
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]CINE FX [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online:80/live/zorro/zorro/5971.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/cc/cine_fx.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 FOX
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]FOX [B][COLOR royalblue][HD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1234567/1234567/1029.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i.imgur.com/X4XkCez.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 FOX CINEMA
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]FOX CINEMA [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/1234567/1234567/1060.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://www.lyngsat-logo.com/tv/f_1.html</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 FOX LIFE
 <item>
@@ -305,79 +379,114 @@ FOX LIFE
 </item>
 HOLLYWOOD
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]HOLLYWOOD [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/wael/wael/894.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/xuqyuy1433356382.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 PARAMOLUNT CHANNEL
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]PARAMOLUNT CHANNEL [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online:80/live/zorro/zorro/5874.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]PARAMOLUNT CHANNEL [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/adnan/adnan/2495.ts;streamtype=TSDOWNLOADER&amp;name=PARAMOLUNT CHANNEL</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/paramount_channel_us.png</thumbnail>
 </item>
 SERIE CLUB
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]SERIE CLUB [B][COLOR royalblue][FHD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/coughlan/coughlan/5573.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]SERIE CLUB [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/adnan/adnan/1836.ts;streamtype=TSDOWNLOADER&amp;name=SERIE CLUB</link>
 <thumbnail>http://i.imgur.com/mB6CpNe.png</thumbnail>
 </item>
 SYFY
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]SYFY [B][COLOR royalblue][HD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/wael/wael/907.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]SYFY [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/adnan/adnan/1837.ts;streamtype=TSDOWNLOADER&amp;name=SYFY</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qxpsqp1433432599.png</thumbnail>
 </item>
 TMC
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]TMC [B][COLOR royalblue][FHD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/coughlan/coughlan/5563.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]TMC [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/adnan/adnan/1413.ts;streamtype=TSDOWNLOADER&amp;name=TMC</link>
 <thumbnail>0</thumbnail>
+</item>
+TMC
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]TMC [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/adnan/adnan/3337.ts;streamtype=TSDOWNLOADER&amp;name=TMC</link>
+<thumbnail>0</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]--------------------------------------------------[/B][/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+<thumbnail></thumbnail>
 </item>
 beiN SPORTS 1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]beiN SPORTS 1 [B][COLOR royalblue][FHD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/daniel/daniel/21.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]beiN SPORTS 1 [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cobra2016.dyndns.tv:1947/live/2xBPK-Opladen/24B11E2010/63.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS 1</link>
 <thumbnail>http://i.imgur.com/UNGRg6Q.png</thumbnail>
+</item>
+beiN SPORTS 1
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 beiN SPORTS 2
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]beiN SPORTS 2 [B][COLOR royalblue][FHD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/daniel/daniel/22.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]beiN SPORTS 2 [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cobra2016.dyndns.tv:1947/live/2xBPK-Opladen/24B11E2010/64.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS 2</link>
+<thumbnail>http://i.imgur.com/AZSqeFo.png</thumbnail>
+</item>
+beiN SPORTS 2
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]beiN SPORTS 2 [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cobra2016.dyndns.tv:1947/live/2xBPK-Opladen/24B11E2010/64.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS 2</link>
+<thumbnail>http://i.imgur.com/AZSqeFo.png</thumbnail>
+</item>
+beiN SPORTS 2
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]beiN SPORTS 2 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/adnan/adnan/1033.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS 2</link>
 <thumbnail>http://i.imgur.com/AZSqeFo.png</thumbnail>
 </item>
 beiN SPORTS 3
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]beiN SPORTS 3 [B][COLOR royalblue][FHD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/daniel/daniel/829.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]beiN SPORTS 3 [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/akram/akram/1034.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS 3</link>
+<thumbnail>http://i.imgur.com/ouI3hiP.png</thumbnail>
+</item>
+beiN SPORTS 3
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]beiN SPORTS 3 [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://IPTV-VOLKAN.NET:8000/live/edine/edine/264.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS 3</link>
 <thumbnail>http://i.imgur.com/ouI3hiP.png</thumbnail>
 </item>
 CANAL+ SPORT
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]CANAL+ SPORT [B][COLOR royalblue][HD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/nbvghjuiytfghjkl/bEDOYWiy/279.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]CANAL+ SPORT [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://IPTV-VOLKAN.NET:8000/live/edine/edine/277.ts;streamtype=TSDOWNLOADER&amp;name=CANAL+ SPORT</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/canalplus_fr_sport.png</thumbnail>
 </item>
 EUROSPORT 1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]EUROSPORT 1 [B][COLOR royalblue][FHD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/italia/italia/872.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i.imgur.com/00mXlvU.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 EUROSPORT 1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]EUROSPORT 1 [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/nbvghjuiytfghjkl/bEDOYWiy/281.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]EUROSPORT 1 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/adnan/adnan/1400.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 1</link>
 <thumbnail>http://i.imgur.com/00mXlvU.png</thumbnail>
 </item>
 EUROSPORT 2
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]EUROSPORT 2 [B][COLOR royalblue][FHD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/nbvghjuiytfghjkl/bEDOYWiy/282.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i.imgur.com/MZBusxr.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 EUROSPORT 2
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]EUROSPORT 2 [B][COLOR royalblue][HD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/italia/italia/1103.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i.imgur.com/MZBusxr.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
