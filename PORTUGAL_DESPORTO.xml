@@ -11,43 +11,43 @@
 **************************************************
 BENFICA TV 1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]BENFICA TV 1 [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/abdelazeez/abdelazeez/1663.ts;streamtype=TSDOWNLOADER&amp;name=BENFICA TV 1</link>
-<thumbnail>http://i.imgur.com/FXDakNf.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 BENFICA TV 1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]BENFICA TV 1 [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]BENFICA TV 1 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/adnan/adnan/1286.ts;streamtype=TSDOWNLOADER&amp;name=BENFICA TV 1</link>
 <thumbnail>http://i.imgur.com/FXDakNf.png</thumbnail>
 </item>
 BENFICA TV 2
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]BENFICA TV 2 [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]BENFICA TV 2 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://IPTV-VOLKAN.NET:8000/live/edine/edine/1582.ts;streamtype=TSDOWNLOADER&amp;name=BENFICA TV 2</link>
 <thumbnail>http://i.imgur.com/mCK5Jwz.png</thumbnail>
 </item>
 EUROSPORT 1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]EUROSPORT 1 [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]EUROSPORT 1 [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/adnan/adnan/1283.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 1</link>
 <thumbnail>http://i.imgur.com/00mXlvU.png</thumbnail>
 </item>
 EUROSPORT 1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]EUROSPORT 1 [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]EUROSPORT 1 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/btv3/btv3/1653.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 1</link>
 <thumbnail>http://i.imgur.com/00mXlvU.png</thumbnail>
 </item>
 EUROSPORT 2
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]EUROSPORT 2 [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/btv3/btv3/2708.ts;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2</link>
-<thumbnail>http://i.imgur.com/MZBusxr.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 EUROSPORT 2 XTRA
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]EUROSPORT 2 XTRA [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]EUROSPORT 2 XTRA [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bit.ly/28ttwkP;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2 XTRA</link>
 <thumbnail>http://i.imgur.com/0tybBJ0.jpg</thumbnail>
 </item>
@@ -63,15 +63,15 @@ EUROSPORT NEWS
 <link></link>
 <thumbnail></thumbnail>
 </item>
-FUEL TV (INSPIRATION LINKS)
+FUEL TV
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]FUEL TV (INSPIRATION LINKS) [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/test/test/5722.ts;streamtype=TSDOWNLOADER&amp;name=FUEL TV (INSPIRATION LINKS)</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fuel_tv_us.png</thumbnail>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
 </item>
 MOTORS TV
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]MOTORS TV [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]MOTORS TV [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://IPTV-VOLKAN.NET:8000/live/edine/edine/888.ts;streamtype=TSDOWNLOADER&amp;name=MOTORS TV</link>
 <thumbnail>http://i.imgur.com/uIxVBmG.png</thumbnail>
 </item>
@@ -83,49 +83,49 @@ MOTORVISION TV
 </item>
 PFC
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]PFC [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] BR: [B][COLOR white]PFC [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1UJ6crN;streamtype=TSDOWNLOADER&amp;name=PFC</link>
 <thumbnail>http://i.imgur.com/j3ZgJkr.png</thumbnail>
 </item>
 SPORT TV 1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/adnan/adnan/1813.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1</link>
 <thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
 </item>
 SPORT TV 1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/rb1/1111/9091.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/btv3/btv3/202.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1</link>
 <thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
 </item>
 SPORT TV 2
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 2 [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 2 [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://IPTV-VOLKAN.NET:8000/live/edine/edine/1188.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2</link>
 <thumbnail>http://i.imgur.com/fsgRDjH.png</thumbnail>
 </item>
 SPORT TV 2
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 2 [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.ddns.net:5750/live/rb1/1111/9091.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 2 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/btv3/btv3/203.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2</link>
 <thumbnail>http://i.imgur.com/fsgRDjH.png</thumbnail>
 </item>
 SPORT TV 3
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 3 [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 3 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://IPTV-VOLKAN.NET:8000/live/edine/edine/1189.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3</link>
 <thumbnail>http://i.imgur.com/XvI6JNr.png</thumbnail>
 </item>
 SPORT TV 4
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 4 [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 4 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://IPTV-VOLKAN.NET:8000/live/edine/edine/1190.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4</link>
 <thumbnail>http://i.imgur.com/IZCGvyl.png</thumbnail>
 </item>
 SPORT TV 5
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 5 [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV-VOLKAN.NET:8000/live/edine/edine/1578.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 5 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/btv3/btv3/206.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5</link>
 <thumbnail>http://i.imgur.com/G8yH187.png</thumbnail>
 </item>
