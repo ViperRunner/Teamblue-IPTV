@@ -11,31 +11,31 @@
 **************************************************
 RTP 1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP 1 [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP 1 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://IPTV-VOLKAN.NET:8000/live/edine/edine/1589.ts;streamtype=TSDOWNLOADER&amp;name=RTP 1</link>
 <thumbnail>http://i.imgur.com/pjjlbCF.png</thumbnail>
 </item>
 RTP 2
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP 2 [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP 2 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://IPTV-VOLKAN.NET:8000/live/edine/edine/1588.ts;streamtype=TSDOWNLOADER&amp;name=RTP 2</link>
 <thumbnail>http://i.imgur.com/krvWl4X.png</thumbnail>
 </item>
 RTP 3
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP 3 [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP 3 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/abdelazeez/abdelazeez/1661.ts;streamtype=TSDOWNLOADER&amp;name=RTP 3</link>
 <thumbnail>http://i.imgur.com/mrqnruN.png</thumbnail>
 </item>
 RTP ACORES
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP ACORES [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP ACORES [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://IPTV-VOLKAN.NET:8000/live/edine/edine/1587.ts;streamtype=TSDOWNLOADER&amp;name=RTP ACORES</link>
 <thumbnail>http://i.imgur.com/om9BKuk.png</thumbnail>
 </item>
 RTP AFRICA
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP AFRICA [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP AFRICA [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/adnan/adnan/1750.ts;streamtype=TSDOWNLOADER&amp;name=RTP AFRICA</link>
 <thumbnail>http://i.imgur.com/YWi6NzU.png</thumbnail>
 </item>
@@ -47,27 +47,21 @@ RTP INTERNACIONAL
 </item>
 RTP MADEIRA
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP MADEIRA [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP MADEIRA [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://IPTV-VOLKAN.NET:8000/live/edine/edine/1585.ts;streamtype=TSDOWNLOADER&amp;name=RTP MADEIRA</link>
 <thumbnail>http://i.imgur.com/EQk4X7n.png</thumbnail>
 </item>
 RTP MEMORIA
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP MEMORIA [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP MEMORIA [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://IPTV-VOLKAN.NET:8000/live/edine/edine/1584.ts;streamtype=TSDOWNLOADER&amp;name=RTP MEMORIA</link>
 <thumbnail>http://i.imgur.com/lWlG90R.png</thumbnail>
 </item>
 SIC
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bit.ly/28tk2pH;streamtype=TSDOWNLOADER&amp;name=SIC</link>
 <thumbnail>http://i.imgur.com/U0XKwI5.png</thumbnail>
-</item>
-SIC CARAS
-<item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC CARAS [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1UinUny;streamtype=TSDOWNLOADER&amp;name=SIC CARAS</link>
-<thumbnail>http://i.imgur.com/0sbuJEj.png</thumbnail>
 </item>
 SIC CARAS
 <item>
@@ -75,21 +69,27 @@ SIC CARAS
 <link></link>
 <thumbnail></thumbnail>
 </item>
+SIC CARAS
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC CARAS [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/carlos/carlos/1665.ts;streamtype=TSDOWNLOADER&amp;name=SIC CARAS</link>
+<thumbnail>http://i.imgur.com/0sbuJEj.png</thumbnail>
+</item>
 SIC MULHER
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC MULHER [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC MULHER [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://IPTV-VOLKAN.NET:8000/live/edine/edine/1583.ts;streamtype=TSDOWNLOADER&amp;name=SIC MULHER</link>
 <thumbnail>http://i.imgur.com/PM9mIG3.png</thumbnail>
 </item>
 SIC NOTICIAS
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC NOTICIAS [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC NOTICIAS [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/btv3/btv3/2711.ts;streamtype=TSDOWNLOADER&amp;name=SIC NOTICIAS</link>
 <thumbnail>http://i.imgur.com/qdQ02xS.png</thumbnail>
 </item>
 SIC RADICAL
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC RADICAL [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SIC RADICAL [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://IPTV-VOLKAN.NET:8000/live/edine/edine/1581.ts;streamtype=TSDOWNLOADER&amp;name=SIC RADICAL</link>
 <thumbnail>http://i.imgur.com/Vvv2OcG.png</thumbnail>
 </item>
@@ -101,25 +101,25 @@ SIC RADICAL
 </item>
 TVI
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TVI [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TVI [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://IPTV-VOLKAN.NET:8000/live/edine/edine/1579.ts;streamtype=TSDOWNLOADER&amp;name=TVI</link>
 <thumbnail>http://i.imgur.com/eoUkAQT.png</thumbnail>
 </item>
 TVI 24
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TVI 24 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/carlos/carlos/1642.ts;streamtype=TSDOWNLOADER&amp;name=TVI 24</link>
+<thumbnail>http://i.imgur.com/nYX9hTR.png</thumbnail>
 </item>
 TVI FICCAO
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TVI FICCAO [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TVI FICCAO [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bit.ly/24IEoXz;streamtype=TSDOWNLOADER&amp;name=TVI FICCAO</link>
 <thumbnail>http://i.imgur.com/1OKBioL.png</thumbnail>
 </item>
 TVI REALITY
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TVI REALITY [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TVI REALITY [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/abdelazeez/abdelazeez/1657.ts;streamtype=TSDOWNLOADER&amp;name=TVI REALITY</link>
 <thumbnail>http://i.imgur.com/D9HZ95f.png</thumbnail>
 </item>
@@ -161,15 +161,15 @@ TVI REALITY MOSAICO
 </item>
 A BOLA TV (INSPIRATION LINKS)
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]A BOLA TV (INSPIRATION LINKS) [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]A BOLA TV (INSPIRATION LINKS) [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/test/test/5546.ts;streamtype=TSDOWNLOADER&amp;name=A BOLA TV (INSPIRATION LINKS)</link>
 <thumbnail>http://i.imgur.com/aDTQAYr.png</thumbnail>
 </item>
 ARTE
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]ARTE [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://xiptv.xcamhd.me:2112/live/sw/sw/4128.ts;streamtype=TSDOWNLOADER&amp;name=ARTE</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/arte_de.png</thumbnail>
 </item>
 BLOOMBERG
 <item>
@@ -179,15 +179,15 @@ BLOOMBERG
 </item>
 CMTV
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]CMTV [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]CMTV [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://IPTV-VOLKAN.NET:8000/live/edine/edine/1590.ts;streamtype=TSDOWNLOADER&amp;name=CMTV</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uvqwuu1436843714.png</thumbnail>
 </item>
 ETV
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]ETV [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/carlos/carlos/1687.ts;streamtype=TSDOWNLOADER&amp;name=ETV</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/etv_pt.png</thumbnail>
 </item>
 EURONEWS
 <item>
@@ -209,13 +209,13 @@ FTV
 </item>
 PORTO CANAL
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]PORTO CANAL [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]PORTO CANAL [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1OiPYGJ;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL</link>
 <thumbnail>http://i.imgur.com/6Ojn6Et.png</thumbnail>
 </item>
 SPORTING TV
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORTING TV [B][COLOR red](f4mTester)[/B][/COLOR]</title>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORTING TV [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://IPTV-VOLKAN.NET:8000/live/edine/edine/1586.ts;streamtype=TSDOWNLOADER&amp;name=SPORTING TV</link>
 <thumbnail>http://i.imgur.com/KTEBwY0.png</thumbnail>
 </item>
@@ -239,20 +239,20 @@ TV GALICIA
 </item>
 TV GLOBO
 <item>
-<title></title>
-<link></link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TV GLOBO [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bit.ly/1XOIIpw;streamtype=TSDOWNLOADER&amp;name=TV GLOBO</link>
 <thumbnail></thumbnail>
 </item>
 TV GLOBO PREMIUM
 <item>
-<title></title>
-<link></link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TV GLOBO PREMIUM [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/carlos/carlos/1645.ts;streamtype=TSDOWNLOADER&amp;name=TV GLOBO PREMIUM</link>
 <thumbnail></thumbnail>
 </item>
 TV RECORD
 <item>
-<title></title>
-<link></link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]TV RECORD [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv2iptv.com:8000/live/abdelazeez/abdelazeez/1666.ts;streamtype=TSDOWNLOADER&amp;name=TV RECORD</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/rr/rede_record_br.png</thumbnail>
 </item>
 TV RECORD NEWS
