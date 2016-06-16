@@ -8,92 +8,63 @@
 <link>http://0.0.0.0:1234</link>
 <thumbnail></thumbnail>
 </item>
-<title>[B][COLOR gold]15.06 / 14h00 RUSSIA-ESLOVAQUIA[/B][/COLOR]</title>
+<item>
+<title>[B][COLOR gold]16.06 / 14h00 INGLATERRA-PAIS GALES[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
-<thumbnail>http://i.imgur.com/iYaQu0x.png</thumbnail>
+<thumbnail>http://i.imgur.com/9TLT6RL.png</thumbnail>
 </item>
 <item>
 <title>[B][COLOR white]--------------------------------------------------[/B][/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 <thumbnail></thumbnail>
 </item>
-RTP 1
+SPORT TV 1 (1)
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]RTP 1 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://IPTV-VOLKAN.NET:8000/live/edine/edine/1589.ts;streamtype=TSDOWNLOADER&amp;name=RTP 1</link>
-<thumbnail>http://i.imgur.com/pjjlbCF.png</thumbnail>
-</item>
-SPORT TV 1
-<item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/adnan/adnan/1813.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1</link>
-<thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
-</item>
-SPORT TV 1
-<item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/btv3/btv3/202.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] PT: [B][COLOR white]SPORT TV 1 (1) [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/adnan/adnan/1813.ts;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 (1)</link>
 <thumbnail>http://i.imgur.com/3rjsCFB.png</thumbnail>
 </item>
 beiN SPORTS 1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]beiN SPORTS 1 [B][COLOR royalblue][FHD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cobra2016.dyndns.tv:1947/live/2xBPK-Opladen/24B11E2010/63.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]beiN SPORTS 1 [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://IPTV-VOLKAN.NET:8000/live/edine/edine/266.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS 1</link>
 <thumbnail>http://i.imgur.com/UNGRg6Q.png</thumbnail>
 </item>
 beiN SPORTS 2
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]beiN SPORTS 2 [B][COLOR royalblue][FHD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cobra2016.dyndns.tv:1947/live/2xBPK-Opladen/24B11E2010/64.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]beiN SPORTS 2 [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/adnan/adnan/1033.ts;streamtype=TSDOWNLOADER&amp;name=beiN SPORTS 2</link>
 <thumbnail>http://i.imgur.com/AZSqeFo.png</thumbnail>
 </item>
-beiN SPORTS 2
+M6
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]beiN SPORTS 2 [B][COLOR royalblue][HD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cobra2016.dyndns.tv:1947/live/2xBPK-Opladen/24B11E2010/64.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i.imgur.com/AZSqeFo.png</thumbnail>
-</item>
-beiN SPORTS 2
-<item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]beiN SPORTS 2 [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/adnan/adnan/1033.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://i.imgur.com/AZSqeFo.png</thumbnail>
-</item>
-ARD das Erst
-<item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]ARD das Erst [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/adnan/adnan/1868.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/aa/ard_das_erste.png</thumbnail>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] FR: [B][COLOR white]M6 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://IPTV-VOLKAN.NET:8000/live/edine/edine/293.ts;streamtype=TSDOWNLOADER&amp;name=M6</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/m6_fr.png</thumbnail>
 </item>
 ORF 1
 <item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR][B][COLOR white]ORF 1 [B][COLOR royalblue][SD][/B][/COLOR] [B][COLOR red](f4mTester)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/adnan/adnan/1262.ts;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]ORF 1 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/adnan/adnan/1262.ts;streamtype=TSDOWNLOADER&amp;name=ORF 1</link>
 <thumbnail>http://i.imgur.com/37HMpTD.png</thumbnail>
+</item>
+ZDF
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] DE: [B][COLOR white]ZDF [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://orbit-iptv.com:2500/live/adnan/adnan/1869.ts;streamtype=TSDOWNLOADER&amp;name=ZDF</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/zz/zdf_de.png</thumbnail>
+</item>
+RAI 1
+<item>
+<title>[B][COLOR lawngreen]•[/B][/COLOR] IT: [B][COLOR white]RAI 1 [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cobra-iptv.noip.me:8000/live/marghi/marghi/11982.ts;streamtype=TSDOWNLOADER&amp;name=RAI 1</link>
+<thumbnail>http://i.imgur.com/hVDJfWs.png</thumbnail>
 </item>
 RSI LA2
 <item>
 <title>[B][COLOR lawngreen]•[/B][/COLOR] IT: [B][COLOR white]RSI LA2 [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://cielonline.proff.co:15004/live/ssslm/skype/176.ts;streamtype=TSDOWNLOADER&amp;name=RSI LA2</link>
 <thumbnail>http://i.imgur.com/HYRbu3N.png</thumbnail>
-</item>
-RSI LA2
-<item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] IT: [B][COLOR white]RSI LA2 [B][COLOR green][SD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cobra-iptv.noip.me:8000/live/cocorico/cocorico/12073.ts;streamtype=TSDOWNLOADER&amp;name=RSI LA2</link>
-<thumbnail>http://i.imgur.com/HYRbu3N.png</thumbnail>
-</item>
-SKY SPORT 1
-<item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] IT: [B][COLOR white]SKY SPORT 1 [B][COLOR green][FHD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cobra-iptv.noip.me:8000/live/marghi/marghi/11850.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORT 1</link>
-<thumbnail>http://i.imgur.com/3mfIB6Q.jpg</thumbnail>
-</item>
-SKY SPORT 1
-<item>
-<title>[B][COLOR lawngreen]•[/B][/COLOR] IT: [B][COLOR white]SKY SPORT 1 [B][COLOR green][HD] [B][COLOR red](F4M)[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cielonline.proff.co:15004/live/ssslm/skype/213.ts;streamtype=TSDOWNLOADER&amp;name=SKY SPORT 1</link>
-<thumbnail>http://i.imgur.com/3mfIB6Q.jpg</thumbnail>
 </item>
 SKY SPORT 1
 <item>
